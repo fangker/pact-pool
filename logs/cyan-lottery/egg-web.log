@@ -1,0 +1,1266 @@
+2020-03-11 17:15:57,391 INFO 41094 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:15:57,422 INFO 41094 [egg-multipart] stream mode enable
+2020-03-11 17:15:58,202 INFO 41094 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:15:58,205 INFO 41094 [egg-security] use methodnoallow middleware
+2020-03-11 17:15:58,206 INFO 41094 [egg-security] use noopen middleware
+2020-03-11 17:15:58,207 INFO 41094 [egg-security] use nosniff middleware
+2020-03-11 17:15:58,207 INFO 41094 [egg-security] use xssProtection middleware
+2020-03-11 17:15:58,208 INFO 41094 [egg-security] use xframe middleware
+2020-03-11 17:15:58,209 INFO 41094 [egg-security] use dta middleware
+2020-03-11 17:15:58,209 INFO 41094 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:15:58,234 INFO 41094 [egg:core] dump config after load, 5ms
+2020-03-11 17:15:58,392 INFO 41094 [egg-watcher:application] watcher start success
+2020-03-11 17:15:58,446 INFO 41094 [egg:core] dump config after ready, 6ms
+2020-03-11 17:20:01,017 INFO 41107 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:20:01,050 INFO 41107 [egg-multipart] stream mode enable
+2020-03-11 17:20:04,395 INFO 41107 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:20:04,398 INFO 41107 [egg-security] use methodnoallow middleware
+2020-03-11 17:20:04,399 INFO 41107 [egg-security] use noopen middleware
+2020-03-11 17:20:04,400 INFO 41107 [egg-security] use nosniff middleware
+2020-03-11 17:20:04,401 INFO 41107 [egg-security] use xssProtection middleware
+2020-03-11 17:20:04,402 INFO 41107 [egg-security] use xframe middleware
+2020-03-11 17:20:04,402 INFO 41107 [egg-security] use dta middleware
+2020-03-11 17:20:04,402 INFO 41107 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:20:04,413 INFO 41107 [egg:core] dump config after load, 6ms
+2020-03-11 17:20:11,936 INFO 41132 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:20:11,969 INFO 41132 [egg-multipart] stream mode enable
+2020-03-11 17:20:12,111 INFO 41132 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:20:12,116 INFO 41132 [egg-security] use methodnoallow middleware
+2020-03-11 17:20:12,116 INFO 41132 [egg-security] use noopen middleware
+2020-03-11 17:20:12,117 INFO 41132 [egg-security] use nosniff middleware
+2020-03-11 17:20:12,117 INFO 41132 [egg-security] use xssProtection middleware
+2020-03-11 17:20:12,118 INFO 41132 [egg-security] use xframe middleware
+2020-03-11 17:20:12,118 INFO 41132 [egg-security] use dta middleware
+2020-03-11 17:20:12,118 INFO 41132 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:20:12,137 INFO 41132 [egg:core] dump config after load, 12ms
+2020-03-11 17:20:12,276 INFO 41132 [egg-watcher:application] watcher start success
+2020-03-11 17:20:12,332 INFO 41132 [egg:core] dump config after ready, 11ms
+2020-03-11 17:24:45,833 INFO 41150 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:24:45,865 INFO 41150 [egg-multipart] stream mode enable
+2020-03-11 17:24:46,025 INFO 41150 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:24:46,028 INFO 41150 [egg-security] use methodnoallow middleware
+2020-03-11 17:24:46,029 INFO 41150 [egg-security] use noopen middleware
+2020-03-11 17:24:46,030 INFO 41150 [egg-security] use nosniff middleware
+2020-03-11 17:24:46,031 INFO 41150 [egg-security] use xssProtection middleware
+2020-03-11 17:24:46,032 INFO 41150 [egg-security] use xframe middleware
+2020-03-11 17:24:46,033 INFO 41150 [egg-security] use dta middleware
+2020-03-11 17:24:46,033 INFO 41150 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:24:46,043 INFO 41150 [egg:core] dump config after load, 4ms
+2020-03-11 17:24:46,177 INFO 41150 [egg-watcher:application] watcher start success
+2020-03-11 17:24:46,218 INFO 41150 [egg:core] dump config after ready, 6ms
+2020-03-11 17:24:55,008 INFO 41153 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:24:55,042 INFO 41153 [egg-multipart] stream mode enable
+2020-03-11 17:24:55,185 INFO 41153 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:24:55,189 INFO 41153 [egg-security] use methodnoallow middleware
+2020-03-11 17:24:55,189 INFO 41153 [egg-security] use noopen middleware
+2020-03-11 17:24:55,190 INFO 41153 [egg-security] use nosniff middleware
+2020-03-11 17:24:55,191 INFO 41153 [egg-security] use xssProtection middleware
+2020-03-11 17:24:55,191 INFO 41153 [egg-security] use xframe middleware
+2020-03-11 17:24:55,192 INFO 41153 [egg-security] use dta middleware
+2020-03-11 17:24:55,192 INFO 41153 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:24:55,202 INFO 41153 [egg:core] dump config after load, 5ms
+2020-03-11 17:24:55,340 INFO 41153 [egg-watcher:application] watcher start success
+2020-03-11 17:24:55,389 INFO 41153 [egg:core] dump config after ready, 7ms
+2020-03-11 17:25:09,044 INFO 41161 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:25:09,085 INFO 41161 [egg-multipart] stream mode enable
+2020-03-11 17:25:09,189 INFO 41161 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:25:09,192 INFO 41161 [egg-security] use methodnoallow middleware
+2020-03-11 17:25:09,192 INFO 41161 [egg-security] use noopen middleware
+2020-03-11 17:25:09,193 INFO 41161 [egg-security] use nosniff middleware
+2020-03-11 17:25:09,194 INFO 41161 [egg-security] use xssProtection middleware
+2020-03-11 17:25:09,194 INFO 41161 [egg-security] use xframe middleware
+2020-03-11 17:25:09,194 INFO 41161 [egg-security] use dta middleware
+2020-03-11 17:25:09,194 INFO 41161 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:25:09,205 INFO 41161 [egg:core] dump config after load, 5ms
+2020-03-11 17:25:09,319 INFO 41161 [egg-watcher:application] watcher start success
+2020-03-11 17:25:09,359 INFO 41161 [egg:core] dump config after ready, 6ms
+2020-03-11 17:25:11,348 INFO 41165 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:25:11,381 INFO 41165 [egg-multipart] stream mode enable
+2020-03-11 17:25:11,513 INFO 41165 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:25:11,516 INFO 41165 [egg-security] use methodnoallow middleware
+2020-03-11 17:25:11,517 INFO 41165 [egg-security] use noopen middleware
+2020-03-11 17:25:11,517 INFO 41165 [egg-security] use nosniff middleware
+2020-03-11 17:25:11,518 INFO 41165 [egg-security] use xssProtection middleware
+2020-03-11 17:25:11,518 INFO 41165 [egg-security] use xframe middleware
+2020-03-11 17:25:11,518 INFO 41165 [egg-security] use dta middleware
+2020-03-11 17:25:11,519 INFO 41165 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:25:11,530 INFO 41165 [egg:core] dump config after load, 6ms
+2020-03-11 17:25:11,643 INFO 41165 [egg-watcher:application] watcher start success
+2020-03-11 17:25:11,682 INFO 41165 [egg:core] dump config after ready, 6ms
+2020-03-11 17:25:59,053 INFO 41173 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:25:59,082 INFO 41173 [egg-multipart] stream mode enable
+2020-03-11 17:26:02,602 INFO 41173 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:26:02,605 INFO 41173 [egg-security] use methodnoallow middleware
+2020-03-11 17:26:02,605 INFO 41173 [egg-security] use noopen middleware
+2020-03-11 17:26:02,606 INFO 41173 [egg-security] use nosniff middleware
+2020-03-11 17:26:02,607 INFO 41173 [egg-security] use xssProtection middleware
+2020-03-11 17:26:02,607 INFO 41173 [egg-security] use xframe middleware
+2020-03-11 17:26:02,608 INFO 41173 [egg-security] use dta middleware
+2020-03-11 17:26:02,608 INFO 41173 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:26:02,621 INFO 41173 [egg:core] dump config after load, 8ms
+2020-03-11 17:26:02,749 INFO 41173 [egg-watcher:application] watcher start success
+2020-03-11 17:26:02,808 INFO 41173 [egg:core] dump config after ready, 23ms
+2020-03-11 17:27:07,496 INFO 41188 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:27:07,527 INFO 41188 [egg-multipart] stream mode enable
+2020-03-11 17:27:10,902 INFO 41188 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:27:10,904 INFO 41188 [egg-security] use methodnoallow middleware
+2020-03-11 17:27:10,905 INFO 41188 [egg-security] use noopen middleware
+2020-03-11 17:27:10,906 INFO 41188 [egg-security] use nosniff middleware
+2020-03-11 17:27:10,906 INFO 41188 [egg-security] use xssProtection middleware
+2020-03-11 17:27:10,907 INFO 41188 [egg-security] use xframe middleware
+2020-03-11 17:27:10,908 INFO 41188 [egg-security] use dta middleware
+2020-03-11 17:27:10,908 INFO 41188 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:27:10,918 INFO 41188 [egg:core] dump config after load, 5ms
+2020-03-11 17:27:11,038 INFO 41188 [egg-watcher:application] watcher start success
+2020-03-11 17:27:11,089 INFO 41188 [egg:core] dump config after ready, 5ms
+2020-03-11 17:28:10,224 INFO 41192 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:28:10,264 INFO 41192 [egg-multipart] stream mode enable
+2020-03-11 17:28:14,107 INFO 41192 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:28:14,110 INFO 41192 [egg-security] use methodnoallow middleware
+2020-03-11 17:28:14,110 INFO 41192 [egg-security] use noopen middleware
+2020-03-11 17:28:14,111 INFO 41192 [egg-security] use nosniff middleware
+2020-03-11 17:28:14,112 INFO 41192 [egg-security] use xssProtection middleware
+2020-03-11 17:28:14,112 INFO 41192 [egg-security] use xframe middleware
+2020-03-11 17:28:14,113 INFO 41192 [egg-security] use dta middleware
+2020-03-11 17:28:14,113 INFO 41192 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:28:14,124 INFO 41192 [egg:core] dump config after load, 6ms
+2020-03-11 17:28:14,268 INFO 41192 [egg-watcher:application] watcher start success
+2020-03-11 17:28:14,307 INFO 41192 [egg:core] dump config after ready, 6ms
+2020-03-11 17:29:28,712 INFO 41218 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:29:28,744 INFO 41218 [egg-multipart] stream mode enable
+2020-03-11 17:29:32,115 INFO 41218 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:29:32,118 INFO 41218 [egg-security] use methodnoallow middleware
+2020-03-11 17:29:32,119 INFO 41218 [egg-security] use noopen middleware
+2020-03-11 17:29:32,120 INFO 41218 [egg-security] use nosniff middleware
+2020-03-11 17:29:32,121 INFO 41218 [egg-security] use xssProtection middleware
+2020-03-11 17:29:32,122 INFO 41218 [egg-security] use xframe middleware
+2020-03-11 17:29:32,122 INFO 41218 [egg-security] use dta middleware
+2020-03-11 17:29:32,122 INFO 41218 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:29:32,131 INFO 41218 [egg:core] dump config after load, 4ms
+2020-03-11 17:29:32,252 INFO 41218 [egg-watcher:application] watcher start success
+2020-03-11 17:29:32,304 INFO 41218 [egg:core] dump config after ready, 18ms
+2020-03-11 17:31:01,350 INFO 41231 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:31:01,384 INFO 41231 [egg-multipart] stream mode enable
+2020-03-11 17:31:04,681 INFO 41231 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:31:04,684 INFO 41231 [egg-security] use methodnoallow middleware
+2020-03-11 17:31:04,685 INFO 41231 [egg-security] use noopen middleware
+2020-03-11 17:31:04,686 INFO 41231 [egg-security] use nosniff middleware
+2020-03-11 17:31:04,686 INFO 41231 [egg-security] use xssProtection middleware
+2020-03-11 17:31:04,687 INFO 41231 [egg-security] use xframe middleware
+2020-03-11 17:31:04,688 INFO 41231 [egg-security] use dta middleware
+2020-03-11 17:31:04,688 INFO 41231 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:31:04,697 INFO 41231 [egg:core] dump config after load, 5ms
+2020-03-11 17:31:04,816 INFO 41231 [egg-watcher:application] watcher start success
+2020-03-11 17:31:04,866 INFO 41231 [egg:core] dump config after ready, 5ms
+2020-03-11 17:31:10,023 INFO 41237 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:31:10,052 INFO 41237 [egg-multipart] stream mode enable
+2020-03-11 17:31:13,195 INFO 41237 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:31:13,198 INFO 41237 [egg-security] use methodnoallow middleware
+2020-03-11 17:31:13,199 INFO 41237 [egg-security] use noopen middleware
+2020-03-11 17:31:13,200 INFO 41237 [egg-security] use nosniff middleware
+2020-03-11 17:31:13,200 INFO 41237 [egg-security] use xssProtection middleware
+2020-03-11 17:31:13,201 INFO 41237 [egg-security] use xframe middleware
+2020-03-11 17:31:13,201 INFO 41237 [egg-security] use dta middleware
+2020-03-11 17:31:13,201 INFO 41237 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:31:13,211 INFO 41237 [egg:core] dump config after load, 5ms
+2020-03-11 17:31:13,328 INFO 41237 [egg-watcher:application] watcher start success
+2020-03-11 17:31:13,369 INFO 41237 [egg:core] dump config after ready, 6ms
+2020-03-11 17:31:57,978 INFO 41276 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:31:58,011 INFO 41276 [egg-multipart] stream mode enable
+2020-03-11 17:32:01,380 INFO 41276 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:32:01,385 INFO 41276 [egg-security] use methodnoallow middleware
+2020-03-11 17:32:01,388 INFO 41276 [egg-security] use noopen middleware
+2020-03-11 17:32:01,390 INFO 41276 [egg-security] use nosniff middleware
+2020-03-11 17:32:01,393 INFO 41276 [egg-security] use xssProtection middleware
+2020-03-11 17:32:01,395 INFO 41276 [egg-security] use xframe middleware
+2020-03-11 17:32:01,397 INFO 41276 [egg-security] use dta middleware
+2020-03-11 17:32:01,397 INFO 41276 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:32:01,414 INFO 41276 [egg:core] dump config after load, 8ms
+2020-03-11 17:32:01,570 INFO 41276 [egg-watcher:application] watcher start success
+2020-03-11 17:32:01,626 INFO 41276 [egg:core] dump config after ready, 6ms
+2020-03-11 17:32:03,332 INFO 41280 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:32:03,362 INFO 41280 [egg-multipart] stream mode enable
+2020-03-11 17:32:03,477 INFO 41280 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:32:03,479 INFO 41280 [egg-security] use methodnoallow middleware
+2020-03-11 17:32:03,480 INFO 41280 [egg-security] use noopen middleware
+2020-03-11 17:32:03,480 INFO 41280 [egg-security] use nosniff middleware
+2020-03-11 17:32:03,481 INFO 41280 [egg-security] use xssProtection middleware
+2020-03-11 17:32:03,481 INFO 41280 [egg-security] use xframe middleware
+2020-03-11 17:32:03,481 INFO 41280 [egg-security] use dta middleware
+2020-03-11 17:32:03,481 INFO 41280 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:32:03,498 INFO 41280 [egg:core] dump config after load, 13ms
+2020-03-11 17:32:03,611 INFO 41280 [egg-watcher:application] watcher start success
+2020-03-11 17:32:03,658 INFO 41280 [egg:core] dump config after ready, 7ms
+2020-03-11 17:33:22,091 INFO 41344 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:33:22,127 INFO 41344 [egg-multipart] stream mode enable
+2020-03-11 17:33:22,280 INFO 41344 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:33:22,282 INFO 41344 [egg-security] use methodnoallow middleware
+2020-03-11 17:33:22,283 INFO 41344 [egg-security] use noopen middleware
+2020-03-11 17:33:22,284 INFO 41344 [egg-security] use nosniff middleware
+2020-03-11 17:33:22,284 INFO 41344 [egg-security] use xssProtection middleware
+2020-03-11 17:33:22,285 INFO 41344 [egg-security] use xframe middleware
+2020-03-11 17:33:22,286 INFO 41344 [egg-security] use dta middleware
+2020-03-11 17:33:22,286 INFO 41344 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:33:22,296 INFO 41344 [egg:core] dump config after load, 5ms
+2020-03-11 17:33:22,428 INFO 41344 [egg-watcher:application] watcher start success
+2020-03-11 17:33:22,467 INFO 41344 [egg:core] dump config after ready, 7ms
+2020-03-11 17:34:10,860 INFO 41347 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:34:10,888 INFO 41347 [egg-multipart] stream mode enable
+2020-03-11 17:34:14,212 INFO 41347 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:34:14,215 INFO 41347 [egg-security] use methodnoallow middleware
+2020-03-11 17:34:14,215 INFO 41347 [egg-security] use noopen middleware
+2020-03-11 17:34:14,216 INFO 41347 [egg-security] use nosniff middleware
+2020-03-11 17:34:14,217 INFO 41347 [egg-security] use xssProtection middleware
+2020-03-11 17:34:14,217 INFO 41347 [egg-security] use xframe middleware
+2020-03-11 17:34:14,218 INFO 41347 [egg-security] use dta middleware
+2020-03-11 17:34:14,218 INFO 41347 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:34:14,227 INFO 41347 [egg:core] dump config after load, 5ms
+2020-03-11 17:34:14,354 INFO 41347 [egg-watcher:application] watcher start success
+2020-03-11 17:34:14,402 INFO 41347 [egg:core] dump config after ready, 18ms
+2020-03-11 17:34:16,018 INFO 41350 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:34:16,045 INFO 41350 [egg-multipart] stream mode enable
+2020-03-11 17:34:16,147 INFO 41350 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:34:16,149 INFO 41350 [egg-security] use methodnoallow middleware
+2020-03-11 17:34:16,150 INFO 41350 [egg-security] use noopen middleware
+2020-03-11 17:34:16,150 INFO 41350 [egg-security] use nosniff middleware
+2020-03-11 17:34:16,151 INFO 41350 [egg-security] use xssProtection middleware
+2020-03-11 17:34:16,151 INFO 41350 [egg-security] use xframe middleware
+2020-03-11 17:34:16,151 INFO 41350 [egg-security] use dta middleware
+2020-03-11 17:34:16,151 INFO 41350 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:34:16,170 INFO 41350 [egg:core] dump config after load, 6ms
+2020-03-11 17:34:16,272 INFO 41350 [egg-watcher:application] watcher start success
+2020-03-11 17:34:16,306 INFO 41350 [egg:core] dump config after ready, 6ms
+2020-03-11 17:34:30,151 INFO 41357 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:34:30,178 INFO 41357 [egg-multipart] stream mode enable
+2020-03-11 17:34:33,311 INFO 41357 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:34:33,314 INFO 41357 [egg-security] use methodnoallow middleware
+2020-03-11 17:34:33,315 INFO 41357 [egg-security] use noopen middleware
+2020-03-11 17:34:33,316 INFO 41357 [egg-security] use nosniff middleware
+2020-03-11 17:34:33,316 INFO 41357 [egg-security] use xssProtection middleware
+2020-03-11 17:34:33,317 INFO 41357 [egg-security] use xframe middleware
+2020-03-11 17:34:33,318 INFO 41357 [egg-security] use dta middleware
+2020-03-11 17:34:33,318 INFO 41357 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:34:33,327 INFO 41357 [egg:core] dump config after load, 5ms
+2020-03-11 17:34:33,462 INFO 41357 [egg-watcher:application] watcher start success
+2020-03-11 17:34:33,517 INFO 41357 [egg:core] dump config after ready, 5ms
+2020-03-11 17:34:35,133 INFO 41360 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:34:35,163 INFO 41360 [egg-multipart] stream mode enable
+2020-03-11 17:34:35,286 INFO 41360 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:34:35,289 INFO 41360 [egg-security] use methodnoallow middleware
+2020-03-11 17:34:35,289 INFO 41360 [egg-security] use noopen middleware
+2020-03-11 17:34:35,290 INFO 41360 [egg-security] use nosniff middleware
+2020-03-11 17:34:35,290 INFO 41360 [egg-security] use xssProtection middleware
+2020-03-11 17:34:35,291 INFO 41360 [egg-security] use xframe middleware
+2020-03-11 17:34:35,291 INFO 41360 [egg-security] use dta middleware
+2020-03-11 17:34:35,291 INFO 41360 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:34:35,301 INFO 41360 [egg:core] dump config after load, 5ms
+2020-03-11 17:34:35,404 INFO 41360 [egg-watcher:application] watcher start success
+2020-03-11 17:34:35,445 INFO 41360 [egg:core] dump config after ready, 6ms
+2020-03-11 17:42:04,775 INFO 41977 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 17:42:04,801 INFO 41977 [egg-multipart] stream mode enable
+2020-03-11 17:42:04,964 INFO 41977 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 17:42:04,966 INFO 41977 [egg-security] use methodnoallow middleware
+2020-03-11 17:42:04,967 INFO 41977 [egg-security] use noopen middleware
+2020-03-11 17:42:04,968 INFO 41977 [egg-security] use nosniff middleware
+2020-03-11 17:42:04,969 INFO 41977 [egg-security] use xssProtection middleware
+2020-03-11 17:42:04,969 INFO 41977 [egg-security] use xframe middleware
+2020-03-11 17:42:04,970 INFO 41977 [egg-security] use dta middleware
+2020-03-11 17:42:04,970 INFO 41977 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 17:42:04,980 INFO 41977 [egg:core] dump config after load, 5ms
+2020-03-11 17:42:05,110 INFO 41977 [egg-watcher:application] watcher start success
+2020-03-11 17:42:05,149 INFO 41977 [egg:core] dump config after ready, 6ms
+2020-03-11 18:04:38,203 INFO 42128 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-11 18:04:38,243 INFO 42128 [egg-multipart] stream mode enable
+2020-03-11 18:04:41,824 INFO 42128 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-11 18:04:41,827 INFO 42128 [egg-security] use methodnoallow middleware
+2020-03-11 18:04:41,828 INFO 42128 [egg-security] use noopen middleware
+2020-03-11 18:04:41,829 INFO 42128 [egg-security] use nosniff middleware
+2020-03-11 18:04:41,830 INFO 42128 [egg-security] use xssProtection middleware
+2020-03-11 18:04:41,831 INFO 42128 [egg-security] use xframe middleware
+2020-03-11 18:04:41,832 INFO 42128 [egg-security] use dta middleware
+2020-03-11 18:04:41,832 INFO 42128 [egg-security] compose 6 middlewares into one security middleware
+2020-03-11 18:04:41,844 INFO 42128 [egg:core] dump config after load, 6ms
+2020-03-11 18:04:41,986 INFO 42128 [egg-watcher:application] watcher start success
+2020-03-11 18:04:42,035 INFO 42128 [egg:core] dump config after ready, 17ms
+2020-03-12 18:53:01,533 INFO 52838 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-12 18:53:01,561 INFO 52838 [egg-multipart] stream mode enable
+2020-03-12 18:53:04,794 INFO 52838 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-12 18:53:04,797 INFO 52838 [egg-security] use methodnoallow middleware
+2020-03-12 18:53:04,797 INFO 52838 [egg-security] use noopen middleware
+2020-03-12 18:53:04,798 INFO 52838 [egg-security] use nosniff middleware
+2020-03-12 18:53:04,799 INFO 52838 [egg-security] use xssProtection middleware
+2020-03-12 18:53:04,800 INFO 52838 [egg-security] use xframe middleware
+2020-03-12 18:53:04,800 INFO 52838 [egg-security] use dta middleware
+2020-03-12 18:53:04,800 INFO 52838 [egg-security] compose 6 middlewares into one security middleware
+2020-03-12 18:53:04,810 INFO 52838 [egg:core] dump config after load, 5ms
+2020-03-12 18:53:04,956 INFO 52838 [egg-watcher:application] watcher start success
+2020-03-12 18:53:05,038 INFO 52838 [egg:core] dump config after ready, 5ms
+2020-03-26 14:38:45,223 INFO 31142 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:38:45,277 INFO 31142 [egg-multipart] stream mode enable
+2020-03-26 14:38:45,943 INFO 31142 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:38:45,947 INFO 31142 [egg-security] use methodnoallow middleware
+2020-03-26 14:38:45,948 INFO 31142 [egg-security] use noopen middleware
+2020-03-26 14:38:45,949 INFO 31142 [egg-security] use nosniff middleware
+2020-03-26 14:38:45,950 INFO 31142 [egg-security] use xssProtection middleware
+2020-03-26 14:38:45,951 INFO 31142 [egg-security] use xframe middleware
+2020-03-26 14:38:45,952 INFO 31142 [egg-security] use dta middleware
+2020-03-26 14:38:45,952 INFO 31142 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:38:45,968 INFO 31142 [egg:core] dump config after load, 5ms
+2020-03-26 14:38:46,112 INFO 31142 [egg-watcher:application] watcher start success
+2020-03-26 14:38:46,160 INFO 31142 [egg:core] dump config after ready, 6ms
+2020-03-26 14:42:00,214 INFO 31162 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:42:00,247 INFO 31162 [egg-multipart] stream mode enable
+2020-03-26 14:42:03,564 INFO 31162 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:42:03,567 INFO 31162 [egg-security] use methodnoallow middleware
+2020-03-26 14:42:03,568 INFO 31162 [egg-security] use noopen middleware
+2020-03-26 14:42:03,569 INFO 31162 [egg-security] use nosniff middleware
+2020-03-26 14:42:03,570 INFO 31162 [egg-security] use xssProtection middleware
+2020-03-26 14:42:03,571 INFO 31162 [egg-security] use xframe middleware
+2020-03-26 14:42:03,572 INFO 31162 [egg-security] use dta middleware
+2020-03-26 14:42:03,572 INFO 31162 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:42:03,582 INFO 31162 [egg:core] dump config after load, 5ms
+2020-03-26 14:42:03,743 INFO 31162 [egg-watcher:application] watcher start success
+2020-03-26 14:42:03,780 INFO 31162 [egg:core] dump config after ready, 6ms
+2020-03-26 14:42:05,400 INFO 31165 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:42:05,429 INFO 31165 [egg-multipart] stream mode enable
+2020-03-26 14:42:05,548 INFO 31165 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:42:05,550 INFO 31165 [egg-security] use methodnoallow middleware
+2020-03-26 14:42:05,551 INFO 31165 [egg-security] use noopen middleware
+2020-03-26 14:42:05,552 INFO 31165 [egg-security] use nosniff middleware
+2020-03-26 14:42:05,552 INFO 31165 [egg-security] use xssProtection middleware
+2020-03-26 14:42:05,552 INFO 31165 [egg-security] use xframe middleware
+2020-03-26 14:42:05,553 INFO 31165 [egg-security] use dta middleware
+2020-03-26 14:42:05,553 INFO 31165 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:42:05,564 INFO 31165 [egg:core] dump config after load, 6ms
+2020-03-26 14:42:05,668 INFO 31165 [egg-watcher:application] watcher start success
+2020-03-26 14:42:05,711 INFO 31165 [egg:core] dump config after ready, 7ms
+2020-03-26 14:42:17,164 INFO 31172 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:42:17,203 INFO 31172 [egg-multipart] stream mode enable
+2020-03-26 14:42:20,424 INFO 31172 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:42:20,426 INFO 31172 [egg-security] use methodnoallow middleware
+2020-03-26 14:42:20,426 INFO 31172 [egg-security] use noopen middleware
+2020-03-26 14:42:20,427 INFO 31172 [egg-security] use nosniff middleware
+2020-03-26 14:42:20,427 INFO 31172 [egg-security] use xssProtection middleware
+2020-03-26 14:42:20,428 INFO 31172 [egg-security] use xframe middleware
+2020-03-26 14:42:20,428 INFO 31172 [egg-security] use dta middleware
+2020-03-26 14:42:20,428 INFO 31172 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:42:20,438 INFO 31172 [egg:core] dump config after load, 5ms
+2020-03-26 14:42:20,578 INFO 31172 [egg-watcher:application] watcher start success
+2020-03-26 14:42:20,643 INFO 31172 [egg:core] dump config after ready, 12ms
+2020-03-26 14:42:32,760 INFO 31174 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:42:32,799 INFO 31174 [egg-multipart] stream mode enable
+2020-03-26 14:42:36,000 INFO 31174 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:42:36,003 INFO 31174 [egg-security] use methodnoallow middleware
+2020-03-26 14:42:36,003 INFO 31174 [egg-security] use noopen middleware
+2020-03-26 14:42:36,004 INFO 31174 [egg-security] use nosniff middleware
+2020-03-26 14:42:36,005 INFO 31174 [egg-security] use xssProtection middleware
+2020-03-26 14:42:36,005 INFO 31174 [egg-security] use xframe middleware
+2020-03-26 14:42:36,006 INFO 31174 [egg-security] use dta middleware
+2020-03-26 14:42:36,006 INFO 31174 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:42:36,016 INFO 31174 [egg:core] dump config after load, 5ms
+2020-03-26 14:42:36,160 INFO 31174 [egg-watcher:application] watcher start success
+2020-03-26 14:42:36,204 INFO 31174 [egg:core] dump config after ready, 7ms
+2020-03-26 14:42:41,013 INFO 31180 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:42:41,038 INFO 31180 [egg-multipart] stream mode enable
+2020-03-26 14:42:44,255 INFO 31180 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:42:44,257 INFO 31180 [egg-security] use methodnoallow middleware
+2020-03-26 14:42:44,258 INFO 31180 [egg-security] use noopen middleware
+2020-03-26 14:42:44,259 INFO 31180 [egg-security] use nosniff middleware
+2020-03-26 14:42:44,260 INFO 31180 [egg-security] use xssProtection middleware
+2020-03-26 14:42:44,261 INFO 31180 [egg-security] use xframe middleware
+2020-03-26 14:42:44,262 INFO 31180 [egg-security] use dta middleware
+2020-03-26 14:42:44,262 INFO 31180 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:42:44,272 INFO 31180 [egg:core] dump config after load, 4ms
+2020-03-26 14:42:44,417 INFO 31180 [egg-watcher:application] watcher start success
+2020-03-26 14:42:44,458 INFO 31180 [egg:core] dump config after ready, 7ms
+2020-03-26 14:49:13,213 INFO 31268 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:49:13,246 INFO 31268 [egg-multipart] stream mode enable
+2020-03-26 14:49:13,424 INFO 31268 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:49:13,427 INFO 31268 [egg-security] use methodnoallow middleware
+2020-03-26 14:49:13,428 INFO 31268 [egg-security] use noopen middleware
+2020-03-26 14:49:13,429 INFO 31268 [egg-security] use nosniff middleware
+2020-03-26 14:49:13,430 INFO 31268 [egg-security] use xssProtection middleware
+2020-03-26 14:49:13,431 INFO 31268 [egg-security] use xframe middleware
+2020-03-26 14:49:13,432 INFO 31268 [egg-security] use dta middleware
+2020-03-26 14:49:13,432 INFO 31268 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:49:13,442 INFO 31268 [egg:core] dump config after load, 5ms
+2020-03-26 14:49:13,552 INFO 31268 [egg-watcher:application] watcher start success
+2020-03-26 14:49:13,590 INFO 31268 [egg:core] dump config after ready, 7ms
+2020-03-26 14:50:05,253 INFO 31331 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:50:05,279 INFO 31331 [egg-multipart] stream mode enable
+2020-03-26 14:50:05,481 INFO 31331 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:50:05,484 INFO 31331 [egg-security] use methodnoallow middleware
+2020-03-26 14:50:05,485 INFO 31331 [egg-security] use noopen middleware
+2020-03-26 14:50:05,487 INFO 31331 [egg-security] use nosniff middleware
+2020-03-26 14:50:05,488 INFO 31331 [egg-security] use xssProtection middleware
+2020-03-26 14:50:05,489 INFO 31331 [egg-security] use xframe middleware
+2020-03-26 14:50:05,490 INFO 31331 [egg-security] use dta middleware
+2020-03-26 14:50:05,490 INFO 31331 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:50:05,500 INFO 31331 [egg:core] dump config after load, 5ms
+2020-03-26 14:50:05,647 INFO 31331 [egg-watcher:application] watcher start success
+2020-03-26 14:50:05,693 INFO 31331 [egg:core] dump config after ready, 6ms
+2020-03-26 14:51:10,046 INFO 31592 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 14:51:10,073 INFO 31592 [egg-multipart] stream mode enable
+2020-03-26 14:51:10,260 INFO 31592 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 14:51:10,263 INFO 31592 [egg-security] use methodnoallow middleware
+2020-03-26 14:51:10,264 INFO 31592 [egg-security] use noopen middleware
+2020-03-26 14:51:10,265 INFO 31592 [egg-security] use nosniff middleware
+2020-03-26 14:51:10,266 INFO 31592 [egg-security] use xssProtection middleware
+2020-03-26 14:51:10,267 INFO 31592 [egg-security] use xframe middleware
+2020-03-26 14:51:10,268 INFO 31592 [egg-security] use dta middleware
+2020-03-26 14:51:10,268 INFO 31592 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 14:51:10,278 INFO 31592 [egg:core] dump config after load, 5ms
+2020-03-26 14:51:10,413 INFO 31592 [egg-watcher:application] watcher start success
+2020-03-26 14:51:10,461 INFO 31592 [egg:core] dump config after ready, 6ms
+2020-03-26 15:12:24,072 INFO 32023 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-26 15:12:24,098 INFO 32023 [egg-multipart] stream mode enable
+2020-03-26 15:12:24,740 INFO 32023 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-03-26 15:12:24,743 INFO 32023 [egg-security] use methodnoallow middleware
+2020-03-26 15:12:24,744 INFO 32023 [egg-security] use noopen middleware
+2020-03-26 15:12:24,745 INFO 32023 [egg-security] use nosniff middleware
+2020-03-26 15:12:24,746 INFO 32023 [egg-security] use xssProtection middleware
+2020-03-26 15:12:24,747 INFO 32023 [egg-security] use xframe middleware
+2020-03-26 15:12:24,748 INFO 32023 [egg-security] use dta middleware
+2020-03-26 15:12:24,748 INFO 32023 [egg-security] compose 6 middlewares into one security middleware
+2020-03-26 15:12:24,764 INFO 32023 [egg:core] dump config after load, 5ms
+2020-03-26 15:12:24,919 INFO 32023 [egg-watcher:application] watcher start success
+2020-03-26 15:12:24,974 INFO 32023 [egg:core] dump config after ready, 9ms
+2020-03-26 15:39:11,651 WARN 32023 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-09 14:32:43,044 INFO 12842 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-04-09 14:32:43,073 INFO 12842 [egg-multipart] stream mode enable
+2020-04-09 14:32:43,764 INFO 12842 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-04-09 14:32:43,766 INFO 12842 [egg-security] use methodnoallow middleware
+2020-04-09 14:32:43,767 INFO 12842 [egg-security] use noopen middleware
+2020-04-09 14:32:43,768 INFO 12842 [egg-security] use nosniff middleware
+2020-04-09 14:32:43,769 INFO 12842 [egg-security] use xssProtection middleware
+2020-04-09 14:32:43,770 INFO 12842 [egg-security] use xframe middleware
+2020-04-09 14:32:43,771 INFO 12842 [egg-security] use dta middleware
+2020-04-09 14:32:43,771 INFO 12842 [egg-security] compose 6 middlewares into one security middleware
+2020-04-09 14:32:43,795 INFO 12842 [egg:core] dump config after load, 6ms
+2020-04-09 14:32:43,935 INFO 12842 [egg-watcher:application] watcher start success
+2020-04-09 14:32:43,956 INFO 12842 [egg:core] dump config after ready, 6ms
+2020-04-09 14:33:07,458 INFO 12886 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-04-09 14:33:07,492 INFO 12886 [egg-multipart] stream mode enable
+2020-04-09 14:33:07,587 INFO 12886 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-04-09 14:33:07,589 INFO 12886 [egg-security] use methodnoallow middleware
+2020-04-09 14:33:07,589 INFO 12886 [egg-security] use noopen middleware
+2020-04-09 14:33:07,590 INFO 12886 [egg-security] use nosniff middleware
+2020-04-09 14:33:07,590 INFO 12886 [egg-security] use xssProtection middleware
+2020-04-09 14:33:07,591 INFO 12886 [egg-security] use xframe middleware
+2020-04-09 14:33:07,591 INFO 12886 [egg-security] use dta middleware
+2020-04-09 14:33:07,591 INFO 12886 [egg-security] compose 6 middlewares into one security middleware
+2020-04-09 14:33:07,600 INFO 12886 [egg:core] dump config after load, 5ms
+2020-04-09 14:33:07,700 INFO 12886 [egg-watcher:application] watcher start success
+2020-04-09 14:33:07,720 INFO 12886 [egg:core] dump config after ready, 6ms
+2020-04-09 14:33:52,166 INFO 13071 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-04-09 14:33:52,204 INFO 13071 [egg-multipart] stream mode enable
+2020-04-09 14:33:52,343 INFO 13071 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/app/public
+2020-04-09 14:33:52,345 INFO 13071 [egg-security] use methodnoallow middleware
+2020-04-09 14:33:52,346 INFO 13071 [egg-security] use noopen middleware
+2020-04-09 14:33:52,346 INFO 13071 [egg-security] use nosniff middleware
+2020-04-09 14:33:52,347 INFO 13071 [egg-security] use xssProtection middleware
+2020-04-09 14:33:52,347 INFO 13071 [egg-security] use xframe middleware
+2020-04-09 14:33:52,347 INFO 13071 [egg-security] use dta middleware
+2020-04-09 14:33:52,347 INFO 13071 [egg-security] compose 6 middlewares into one security middleware
+2020-04-09 14:33:52,366 INFO 13071 [egg:core] dump config after load, 5ms
+2020-04-09 14:33:52,495 INFO 13071 [egg-watcher:application] watcher start success
+2020-04-09 14:33:52,558 INFO 13071 [egg:core] dump config after ready, 8ms
+2021-05-04 17:04:47,713 INFO 38629 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:04:47,747 INFO 38629 [egg-multipart] stream mode enable
+2021-05-04 17:04:48,021 INFO 38629 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:04:48,024 INFO 38629 [egg-security] use methodnoallow middleware
+2021-05-04 17:04:48,025 INFO 38629 [egg-security] use noopen middleware
+2021-05-04 17:04:48,026 INFO 38629 [egg-security] use nosniff middleware
+2021-05-04 17:04:48,028 INFO 38629 [egg-security] use xssProtection middleware
+2021-05-04 17:04:48,029 INFO 38629 [egg-security] use xframe middleware
+2021-05-04 17:04:48,030 INFO 38629 [egg-security] use dta middleware
+2021-05-04 17:04:48,030 INFO 38629 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:04:48,052 INFO 38629 [egg:core] dump config after load, 9ms
+2021-05-04 17:04:48,227 INFO 38629 [egg-watcher:application] watcher start success
+2021-05-04 17:04:50,567 INFO 38629 [egg:core] dump config after ready, 8ms
+2021-05-04 17:06:11,552 INFO 38684 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:06:11,589 INFO 38684 [egg-multipart] stream mode enable
+2021-05-04 17:06:11,698 INFO 38684 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:06:11,702 INFO 38684 [egg-security] use methodnoallow middleware
+2021-05-04 17:06:11,704 INFO 38684 [egg-security] use noopen middleware
+2021-05-04 17:06:11,705 INFO 38684 [egg-security] use nosniff middleware
+2021-05-04 17:06:11,706 INFO 38684 [egg-security] use xssProtection middleware
+2021-05-04 17:06:11,707 INFO 38684 [egg-security] use xframe middleware
+2021-05-04 17:06:11,707 INFO 38684 [egg-security] use dta middleware
+2021-05-04 17:06:11,708 INFO 38684 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:06:11,726 INFO 38684 [egg:core] dump config after load, 9ms
+2021-05-04 17:06:11,853 INFO 38684 [egg-watcher:application] watcher start success
+2021-05-04 17:06:12,602 INFO 38684 [egg:core] dump config after ready, 7ms
+2021-05-04 17:06:40,880 INFO 38723 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:06:40,912 INFO 38723 [egg-multipart] stream mode enable
+2021-05-04 17:06:40,996 INFO 38723 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:06:40,999 INFO 38723 [egg-security] use methodnoallow middleware
+2021-05-04 17:06:40,999 INFO 38723 [egg-security] use noopen middleware
+2021-05-04 17:06:41,000 INFO 38723 [egg-security] use nosniff middleware
+2021-05-04 17:06:41,001 INFO 38723 [egg-security] use xssProtection middleware
+2021-05-04 17:06:41,001 INFO 38723 [egg-security] use xframe middleware
+2021-05-04 17:06:41,001 INFO 38723 [egg-security] use dta middleware
+2021-05-04 17:06:41,002 INFO 38723 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:06:41,014 INFO 38723 [egg:core] dump config after load, 6ms
+2021-05-04 17:06:41,118 INFO 38723 [egg-watcher:application] watcher start success
+2021-05-04 17:06:41,399 INFO 38723 [egg:core] dump config after ready, 7ms
+2021-05-04 17:07:53,099 INFO 38787 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:07:53,146 INFO 38787 [egg-multipart] stream mode enable
+2021-05-04 17:07:53,246 INFO 38787 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:07:53,249 INFO 38787 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:07:53,407 INFO 38787 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:07:53,411 INFO 38787 [egg-security] use methodnoallow middleware
+2021-05-04 17:07:53,413 INFO 38787 [egg-security] use noopen middleware
+2021-05-04 17:07:53,413 INFO 38787 [egg-security] use nosniff middleware
+2021-05-04 17:07:53,414 INFO 38787 [egg-security] use xssProtection middleware
+2021-05-04 17:07:53,414 INFO 38787 [egg-security] use xframe middleware
+2021-05-04 17:07:53,415 INFO 38787 [egg-security] use dta middleware
+2021-05-04 17:07:53,415 INFO 38787 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:07:53,427 INFO 38787 [egg:core] dump config after load, 7ms
+2021-05-04 17:07:53,608 INFO 38787 [egg-redis] client connect success
+2021-05-04 17:07:53,609 INFO 38787 [egg-redis] client connect success
+2021-05-04 17:07:53,620 INFO 38787 [egg-watcher:application] watcher start success
+2021-05-04 17:07:53,733 INFO 38787 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:07:53,733 INFO 38787 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:07:54,045 INFO 38787 [egg:core] dump config after ready, 6ms
+2021-05-04 17:09:27,936 INFO 38799 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:09:32,152 INFO 38799 [egg-multipart] stream mode enable
+2021-05-04 17:09:32,257 INFO 38799 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:09:32,259 INFO 38799 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:09:32,354 INFO 38799 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:09:32,357 INFO 38799 [egg-security] use methodnoallow middleware
+2021-05-04 17:09:32,359 INFO 38799 [egg-security] use noopen middleware
+2021-05-04 17:09:32,362 INFO 38799 [egg-security] use nosniff middleware
+2021-05-04 17:09:32,364 INFO 38799 [egg-security] use xssProtection middleware
+2021-05-04 17:09:32,365 INFO 38799 [egg-security] use xframe middleware
+2021-05-04 17:09:32,367 INFO 38799 [egg-security] use dta middleware
+2021-05-04 17:09:32,367 INFO 38799 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:09:32,381 INFO 38799 [egg:core] dump config after load, 5ms
+2021-05-04 17:09:32,554 INFO 38799 [egg-redis] client connect success
+2021-05-04 17:09:32,554 INFO 38799 [egg-redis] client connect success
+2021-05-04 17:09:32,559 INFO 38799 [egg-watcher:application] watcher start success
+2021-05-04 17:09:32,563 INFO 38799 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:09:32,563 INFO 38799 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:09:32,847 INFO 38799 [egg:core] dump config after ready, 9ms
+2021-05-04 17:09:45,188 INFO 38811 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:09:50,331 INFO 38811 [egg-multipart] stream mode enable
+2021-05-04 17:09:50,456 INFO 38811 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:09:50,459 INFO 38811 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:09:50,584 INFO 38811 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:09:50,589 INFO 38811 [egg-security] use methodnoallow middleware
+2021-05-04 17:09:50,591 INFO 38811 [egg-security] use noopen middleware
+2021-05-04 17:09:50,593 INFO 38811 [egg-security] use nosniff middleware
+2021-05-04 17:09:50,594 INFO 38811 [egg-security] use xssProtection middleware
+2021-05-04 17:09:50,594 INFO 38811 [egg-security] use xframe middleware
+2021-05-04 17:09:50,595 INFO 38811 [egg-security] use dta middleware
+2021-05-04 17:09:50,595 INFO 38811 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:09:50,616 INFO 38811 [egg:core] dump config after load, 11ms
+2021-05-04 17:09:50,770 INFO 38811 [egg-redis] client connect success
+2021-05-04 17:09:50,772 INFO 38811 [egg-redis] client connect success
+2021-05-04 17:09:50,779 INFO 38811 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:09:50,780 INFO 38811 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:09:50,783 INFO 38811 [egg-watcher:application] watcher start success
+2021-05-04 17:09:50,936 INFO 38811 [egg:core] dump config after ready, 7ms
+2021-05-04 17:10:09,089 INFO 38831 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:10:13,176 INFO 38831 [egg-multipart] stream mode enable
+2021-05-04 17:10:13,252 INFO 38831 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:10:13,254 INFO 38831 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:10:13,314 INFO 38831 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:10:13,316 INFO 38831 [egg-security] use methodnoallow middleware
+2021-05-04 17:10:13,318 INFO 38831 [egg-security] use noopen middleware
+2021-05-04 17:10:13,319 INFO 38831 [egg-security] use nosniff middleware
+2021-05-04 17:10:13,319 INFO 38831 [egg-security] use xssProtection middleware
+2021-05-04 17:10:13,320 INFO 38831 [egg-security] use xframe middleware
+2021-05-04 17:10:13,321 INFO 38831 [egg-security] use dta middleware
+2021-05-04 17:10:13,321 INFO 38831 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:10:13,346 INFO 38831 [egg:core] dump config after load, 20ms
+2021-05-04 17:10:13,476 INFO 38831 [egg-redis] client connect success
+2021-05-04 17:10:13,479 INFO 38831 [egg-redis] client connect success
+2021-05-04 17:10:13,487 INFO 38831 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:10:13,488 INFO 38831 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:10:13,491 INFO 38831 [egg-watcher:application] watcher start success
+2021-05-04 17:10:13,665 INFO 38831 [egg:core] dump config after ready, 7ms
+2021-05-04 17:10:46,665 INFO 38883 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:10:46,707 INFO 38883 [egg-multipart] stream mode enable
+2021-05-04 17:10:46,780 INFO 38883 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:10:46,783 INFO 38883 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:10:46,864 INFO 38883 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:10:46,866 INFO 38883 [egg-security] use methodnoallow middleware
+2021-05-04 17:10:46,868 INFO 38883 [egg-security] use noopen middleware
+2021-05-04 17:10:46,868 INFO 38883 [egg-security] use nosniff middleware
+2021-05-04 17:10:46,869 INFO 38883 [egg-security] use xssProtection middleware
+2021-05-04 17:10:46,870 INFO 38883 [egg-security] use xframe middleware
+2021-05-04 17:10:46,870 INFO 38883 [egg-security] use dta middleware
+2021-05-04 17:10:46,870 INFO 38883 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:10:46,881 INFO 38883 [egg:core] dump config after load, 6ms
+2021-05-04 17:10:46,978 INFO 38883 [egg-redis] client connect success
+2021-05-04 17:10:46,979 INFO 38883 [egg-redis] client connect success
+2021-05-04 17:10:46,987 INFO 38883 [egg-watcher:application] watcher start success
+2021-05-04 17:10:46,991 INFO 38883 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:10:46,991 INFO 38883 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:10:47,247 INFO 38883 [egg:core] dump config after ready, 6ms
+2021-05-04 17:11:54,789 INFO 38937 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:11:54,823 INFO 38937 [egg-multipart] stream mode enable
+2021-05-04 17:11:54,920 INFO 38937 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:11:54,922 INFO 38937 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:11:55,012 INFO 38937 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:11:55,014 INFO 38937 [egg-security] use methodnoallow middleware
+2021-05-04 17:11:55,016 INFO 38937 [egg-security] use noopen middleware
+2021-05-04 17:11:55,017 INFO 38937 [egg-security] use nosniff middleware
+2021-05-04 17:11:55,018 INFO 38937 [egg-security] use xssProtection middleware
+2021-05-04 17:11:55,019 INFO 38937 [egg-security] use xframe middleware
+2021-05-04 17:11:55,019 INFO 38937 [egg-security] use dta middleware
+2021-05-04 17:11:55,019 INFO 38937 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:11:55,030 INFO 38937 [egg:core] dump config after load, 5ms
+2021-05-04 17:11:55,143 INFO 38937 [egg-redis] client connect success
+2021-05-04 17:11:55,143 INFO 38937 [egg-redis] client connect success
+2021-05-04 17:11:55,149 INFO 38937 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:11:55,151 INFO 38937 [egg-watcher:application] watcher start success
+2021-05-04 17:11:55,151 INFO 38937 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:11:55,297 INFO 38937 [egg:core] dump config after ready, 7ms
+2021-05-04 17:12:16,928 INFO 38968 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:12:16,962 INFO 38968 [egg-multipart] stream mode enable
+2021-05-04 17:12:17,060 INFO 38968 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:12:17,062 INFO 38968 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:12:17,151 INFO 38968 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:12:17,153 INFO 38968 [egg-security] use methodnoallow middleware
+2021-05-04 17:12:17,155 INFO 38968 [egg-security] use noopen middleware
+2021-05-04 17:12:17,156 INFO 38968 [egg-security] use nosniff middleware
+2021-05-04 17:12:17,157 INFO 38968 [egg-security] use xssProtection middleware
+2021-05-04 17:12:17,158 INFO 38968 [egg-security] use xframe middleware
+2021-05-04 17:12:17,159 INFO 38968 [egg-security] use dta middleware
+2021-05-04 17:12:17,159 INFO 38968 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:12:17,169 INFO 38968 [egg:core] dump config after load, 6ms
+2021-05-04 17:12:17,278 INFO 38968 [egg-redis] client connect success
+2021-05-04 17:12:17,279 INFO 38968 [egg-redis] client connect success
+2021-05-04 17:12:17,283 INFO 38968 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:12:17,285 INFO 38968 [egg-watcher:application] watcher start success
+2021-05-04 17:12:17,286 INFO 38968 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:12:17,392 INFO 38968 [egg:core] dump config after ready, 8ms
+2021-05-04 17:25:33,501 INFO 39154 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:25:33,539 INFO 39154 [egg-multipart] stream mode enable
+2021-05-04 17:25:33,608 INFO 39154 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:25:33,610 INFO 39154 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:25:37,508 INFO 39154 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:25:37,519 INFO 39154 [egg-security] use methodnoallow middleware
+2021-05-04 17:25:37,519 INFO 39154 [egg-security] use noopen middleware
+2021-05-04 17:25:37,521 INFO 39154 [egg-security] use nosniff middleware
+2021-05-04 17:25:37,522 INFO 39154 [egg-security] use xssProtection middleware
+2021-05-04 17:25:37,523 INFO 39154 [egg-security] use xframe middleware
+2021-05-04 17:25:37,524 INFO 39154 [egg-security] use dta middleware
+2021-05-04 17:25:37,524 INFO 39154 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:25:37,534 INFO 39154 [egg:core] dump config after load, 5ms
+2021-05-04 17:25:37,662 INFO 39154 [egg-redis] client connect success
+2021-05-04 17:25:37,663 INFO 39154 [egg-redis] client connect success
+2021-05-04 17:25:37,668 INFO 39154 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:25:37,669 INFO 39154 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:25:37,672 INFO 39154 [egg-watcher:application] watcher start success
+2021-05-04 17:25:37,931 INFO 39154 [egg:core] dump config after ready, 6ms
+2021-05-04 17:26:08,863 INFO 39162 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:26:08,921 INFO 39162 [egg-multipart] stream mode enable
+2021-05-04 17:26:09,001 INFO 39162 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:26:09,003 INFO 39162 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:26:13,500 INFO 39162 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:26:13,504 INFO 39162 [egg-security] use methodnoallow middleware
+2021-05-04 17:26:13,504 INFO 39162 [egg-security] use noopen middleware
+2021-05-04 17:26:13,506 INFO 39162 [egg-security] use nosniff middleware
+2021-05-04 17:26:13,507 INFO 39162 [egg-security] use xssProtection middleware
+2021-05-04 17:26:13,507 INFO 39162 [egg-security] use xframe middleware
+2021-05-04 17:26:13,508 INFO 39162 [egg-security] use dta middleware
+2021-05-04 17:26:13,508 INFO 39162 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:26:13,520 INFO 39162 [egg:core] dump config after load, 7ms
+2021-05-04 17:26:13,674 INFO 39162 [egg-redis] client connect success
+2021-05-04 17:26:13,675 INFO 39162 [egg-redis] client connect success
+2021-05-04 17:26:13,684 INFO 39162 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:26:13,685 INFO 39162 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:26:13,687 INFO 39162 [egg-watcher:application] watcher start success
+2021-05-04 17:26:13,756 INFO 39162 [egg:core] dump config after ready, 9ms
+2021-05-04 17:26:44,286 INFO 39172 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:26:44,324 INFO 39172 [egg-multipart] stream mode enable
+2021-05-04 17:26:44,395 INFO 39172 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:26:44,397 INFO 39172 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:26:48,783 INFO 39172 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:26:48,787 INFO 39172 [egg-security] use methodnoallow middleware
+2021-05-04 17:26:48,788 INFO 39172 [egg-security] use noopen middleware
+2021-05-04 17:26:48,789 INFO 39172 [egg-security] use nosniff middleware
+2021-05-04 17:26:48,789 INFO 39172 [egg-security] use xssProtection middleware
+2021-05-04 17:26:48,790 INFO 39172 [egg-security] use xframe middleware
+2021-05-04 17:26:48,790 INFO 39172 [egg-security] use dta middleware
+2021-05-04 17:26:48,790 INFO 39172 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:26:48,801 INFO 39172 [egg:core] dump config after load, 6ms
+2021-05-04 17:26:48,916 INFO 39172 [egg-redis] client connect success
+2021-05-04 17:26:48,917 INFO 39172 [egg-redis] client connect success
+2021-05-04 17:26:49,024 INFO 39172 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:26:49,026 INFO 39172 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:26:49,028 INFO 39172 [egg-watcher:application] watcher start success
+2021-05-04 17:26:49,203 INFO 39172 [egg:core] dump config after ready, 8ms
+2021-05-04 17:26:51,528 INFO 39175 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:26:51,564 INFO 39175 [egg-multipart] stream mode enable
+2021-05-04 17:26:51,618 INFO 39175 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:26:51,619 INFO 39175 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:26:55,705 INFO 39175 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:26:55,710 INFO 39175 [egg-security] use methodnoallow middleware
+2021-05-04 17:26:55,711 INFO 39175 [egg-security] use noopen middleware
+2021-05-04 17:26:55,712 INFO 39175 [egg-security] use nosniff middleware
+2021-05-04 17:26:55,713 INFO 39175 [egg-security] use xssProtection middleware
+2021-05-04 17:26:55,713 INFO 39175 [egg-security] use xframe middleware
+2021-05-04 17:26:55,714 INFO 39175 [egg-security] use dta middleware
+2021-05-04 17:26:55,714 INFO 39175 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:26:55,730 INFO 39175 [egg:core] dump config after load, 8ms
+2021-05-04 17:26:55,852 INFO 39175 [egg-redis] client connect success
+2021-05-04 17:26:55,853 INFO 39175 [egg-redis] client connect success
+2021-05-04 17:26:55,859 INFO 39175 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:26:55,862 INFO 39175 [egg-watcher:application] watcher start success
+2021-05-04 17:26:55,866 INFO 39175 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:26:55,985 INFO 39175 [egg:core] dump config after ready, 7ms
+2021-05-04 17:27:52,507 INFO 39200 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:27:52,544 INFO 39200 [egg-multipart] stream mode enable
+2021-05-04 17:27:52,611 INFO 39200 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:27:52,614 INFO 39200 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:27:56,558 INFO 39200 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:27:56,563 INFO 39200 [egg-security] use methodnoallow middleware
+2021-05-04 17:27:56,564 INFO 39200 [egg-security] use noopen middleware
+2021-05-04 17:27:56,564 INFO 39200 [egg-security] use nosniff middleware
+2021-05-04 17:27:56,565 INFO 39200 [egg-security] use xssProtection middleware
+2021-05-04 17:27:56,565 INFO 39200 [egg-security] use xframe middleware
+2021-05-04 17:27:56,566 INFO 39200 [egg-security] use dta middleware
+2021-05-04 17:27:56,566 INFO 39200 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:27:56,576 INFO 39200 [egg:core] dump config after load, 6ms
+2021-05-04 17:27:56,693 INFO 39200 [egg-redis] client connect success
+2021-05-04 17:27:56,694 INFO 39200 [egg-redis] client connect success
+2021-05-04 17:27:56,701 INFO 39200 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:27:56,701 INFO 39200 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:27:56,704 INFO 39200 [egg-watcher:application] watcher start success
+2021-05-04 17:27:56,773 INFO 39200 [egg:core] dump config after ready, 8ms
+2021-05-04 17:31:02,133 INFO 39222 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 17:31:02,173 INFO 39222 [egg-multipart] stream mode enable
+2021-05-04 17:31:02,273 INFO 39222 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:31:02,275 INFO 39222 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 17:31:06,372 INFO 39222 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 17:31:06,378 INFO 39222 [egg-security] use methodnoallow middleware
+2021-05-04 17:31:06,379 INFO 39222 [egg-security] use noopen middleware
+2021-05-04 17:31:06,380 INFO 39222 [egg-security] use nosniff middleware
+2021-05-04 17:31:06,385 INFO 39222 [egg-security] use xssProtection middleware
+2021-05-04 17:31:06,386 INFO 39222 [egg-security] use xframe middleware
+2021-05-04 17:31:06,387 INFO 39222 [egg-security] use dta middleware
+2021-05-04 17:31:06,387 INFO 39222 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 17:31:06,400 INFO 39222 [egg:core] dump config after load, 6ms
+2021-05-04 17:31:06,613 INFO 39222 [egg-redis] client connect success
+2021-05-04 17:31:06,614 INFO 39222 [egg-redis] client connect success
+2021-05-04 17:31:06,622 INFO 39222 [egg-redis] instance[0] status OK, client ready
+2021-05-04 17:31:06,626 INFO 39222 [egg-watcher:application] watcher start success
+2021-05-04 17:31:06,627 INFO 39222 [egg-redis] instance[1] status OK, client ready
+2021-05-04 17:31:06,737 INFO 39222 [egg:core] dump config after ready, 8ms
+2021-05-04 18:52:27,223 INFO 40364 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 18:52:27,251 INFO 40364 [egg-multipart] stream mode enable
+2021-05-04 18:52:27,345 INFO 40364 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 18:52:27,347 INFO 40364 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 18:52:30,600 INFO 40364 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 18:52:30,604 INFO 40364 [egg-security] use methodnoallow middleware
+2021-05-04 18:52:30,605 INFO 40364 [egg-security] use noopen middleware
+2021-05-04 18:52:30,607 INFO 40364 [egg-security] use nosniff middleware
+2021-05-04 18:52:30,608 INFO 40364 [egg-security] use xssProtection middleware
+2021-05-04 18:52:30,609 INFO 40364 [egg-security] use xframe middleware
+2021-05-04 18:52:30,610 INFO 40364 [egg-security] use dta middleware
+2021-05-04 18:52:30,610 INFO 40364 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 18:52:30,623 INFO 40364 [egg:core] dump config after load, 7ms
+2021-05-04 18:52:30,807 INFO 40364 [egg-redis] client connect success
+2021-05-04 18:52:30,808 INFO 40364 [egg-redis] client connect success
+2021-05-04 18:52:30,817 INFO 40364 [egg-watcher:application] watcher start success
+2021-05-04 18:52:30,842 INFO 40364 [egg-redis] instance[0] status OK, client ready
+2021-05-04 18:52:30,843 INFO 40364 [egg-redis] instance[1] status OK, client ready
+2021-05-04 18:52:31,134 INFO 40364 [egg:core] dump config after ready, 8ms
+2021-05-04 18:58:36,137 INFO 40705 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 18:58:36,167 INFO 40705 [egg-multipart] stream mode enable
+2021-05-04 18:58:36,355 INFO 40705 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 18:58:36,356 INFO 40705 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 18:58:36,669 INFO 40705 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 18:58:36,672 INFO 40705 [egg-security] use methodnoallow middleware
+2021-05-04 18:58:36,673 INFO 40705 [egg-security] use noopen middleware
+2021-05-04 18:58:36,675 INFO 40705 [egg-security] use nosniff middleware
+2021-05-04 18:58:36,676 INFO 40705 [egg-security] use xssProtection middleware
+2021-05-04 18:58:36,677 INFO 40705 [egg-security] use xframe middleware
+2021-05-04 18:58:36,678 INFO 40705 [egg-security] use dta middleware
+2021-05-04 18:58:36,679 INFO 40705 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 18:58:36,703 INFO 40705 [egg:core] dump config after load, 11ms
+2021-05-04 18:58:36,848 INFO 40705 [egg-redis] client connect success
+2021-05-04 18:58:36,849 INFO 40705 [egg-redis] client connect success
+2021-05-04 18:58:36,856 INFO 40705 [egg-watcher:application] watcher start success
+2021-05-04 18:58:36,872 INFO 40705 [egg-redis] instance[0] status OK, client ready
+2021-05-04 18:58:36,873 INFO 40705 [egg-redis] instance[1] status OK, client ready
+2021-05-04 18:58:37,052 INFO 40705 [egg:core] dump config after ready, 11ms
+2021-05-04 19:00:41,107 INFO 40787 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:00:41,151 INFO 40787 [egg-multipart] stream mode enable
+2021-05-04 19:00:41,223 INFO 40787 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:00:41,225 INFO 40787 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:00:44,956 INFO 40787 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:00:44,959 INFO 40787 [egg-security] use methodnoallow middleware
+2021-05-04 19:00:44,960 INFO 40787 [egg-security] use noopen middleware
+2021-05-04 19:00:44,962 INFO 40787 [egg-security] use nosniff middleware
+2021-05-04 19:00:44,962 INFO 40787 [egg-security] use xssProtection middleware
+2021-05-04 19:00:44,963 INFO 40787 [egg-security] use xframe middleware
+2021-05-04 19:00:44,964 INFO 40787 [egg-security] use dta middleware
+2021-05-04 19:00:44,964 INFO 40787 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:00:44,976 INFO 40787 [egg:core] dump config after load, 7ms
+2021-05-04 19:00:45,163 INFO 40787 [egg-redis] client connect success
+2021-05-04 19:00:45,164 INFO 40787 [egg-redis] client connect success
+2021-05-04 19:00:45,171 INFO 40787 [egg-watcher:application] watcher start success
+2021-05-04 19:00:45,219 INFO 40787 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:00:45,219 INFO 40787 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:00:45,392 INFO 40787 [egg:core] dump config after ready, 10ms
+2021-05-04 19:01:32,352 INFO 40843 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:01:32,382 INFO 40843 [egg-multipart] stream mode enable
+2021-05-04 19:01:32,445 INFO 40843 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:01:32,447 INFO 40843 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:01:36,140 INFO 40843 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:01:36,143 INFO 40843 [egg-security] use methodnoallow middleware
+2021-05-04 19:01:36,144 INFO 40843 [egg-security] use noopen middleware
+2021-05-04 19:01:36,146 INFO 40843 [egg-security] use nosniff middleware
+2021-05-04 19:01:36,147 INFO 40843 [egg-security] use xssProtection middleware
+2021-05-04 19:01:36,147 INFO 40843 [egg-security] use xframe middleware
+2021-05-04 19:01:36,148 INFO 40843 [egg-security] use dta middleware
+2021-05-04 19:01:36,148 INFO 40843 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:01:36,159 INFO 40843 [egg:core] dump config after load, 6ms
+2021-05-04 19:01:36,298 INFO 40843 [egg-redis] client connect success
+2021-05-04 19:01:36,299 INFO 40843 [egg-redis] client connect success
+2021-05-04 19:01:36,306 INFO 40843 [egg-watcher:application] watcher start success
+2021-05-04 19:01:36,327 INFO 40843 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:01:36,327 INFO 40843 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:01:36,463 INFO 40843 [egg:core] dump config after ready, 6ms
+2021-05-04 19:01:59,951 INFO 40875 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:01:59,988 INFO 40875 [egg-multipart] stream mode enable
+2021-05-04 19:02:00,061 INFO 40875 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:02:00,063 INFO 40875 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:02:04,151 INFO 40875 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:02:04,154 INFO 40875 [egg-security] use methodnoallow middleware
+2021-05-04 19:02:04,155 INFO 40875 [egg-security] use noopen middleware
+2021-05-04 19:02:04,157 INFO 40875 [egg-security] use nosniff middleware
+2021-05-04 19:02:04,158 INFO 40875 [egg-security] use xssProtection middleware
+2021-05-04 19:02:04,159 INFO 40875 [egg-security] use xframe middleware
+2021-05-04 19:02:04,159 INFO 40875 [egg-security] use dta middleware
+2021-05-04 19:02:04,159 INFO 40875 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:02:04,172 INFO 40875 [egg:core] dump config after load, 8ms
+2021-05-04 19:02:04,347 INFO 40875 [egg-redis] client connect success
+2021-05-04 19:02:04,348 INFO 40875 [egg-redis] client connect success
+2021-05-04 19:02:04,355 INFO 40875 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:02:04,357 INFO 40875 [egg-watcher:application] watcher start success
+2021-05-04 19:02:04,357 INFO 40875 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:02:04,628 INFO 40875 [egg:core] dump config after ready, 7ms
+2021-05-04 19:02:54,576 INFO 40934 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:02:54,609 INFO 40934 [egg-multipart] stream mode enable
+2021-05-04 19:02:54,670 INFO 40934 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:02:54,672 INFO 40934 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:02:54,741 INFO 40934 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:02:54,744 INFO 40934 [egg-security] use methodnoallow middleware
+2021-05-04 19:02:54,745 INFO 40934 [egg-security] use noopen middleware
+2021-05-04 19:02:54,746 INFO 40934 [egg-security] use nosniff middleware
+2021-05-04 19:02:54,746 INFO 40934 [egg-security] use xssProtection middleware
+2021-05-04 19:02:54,747 INFO 40934 [egg-security] use xframe middleware
+2021-05-04 19:02:54,747 INFO 40934 [egg-security] use dta middleware
+2021-05-04 19:02:54,747 INFO 40934 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:02:54,758 INFO 40934 [egg:core] dump config after load, 6ms
+2021-05-04 19:02:54,895 INFO 40934 [egg-redis] client connect success
+2021-05-04 19:02:54,896 INFO 40934 [egg-redis] client connect success
+2021-05-04 19:02:54,903 INFO 40934 [egg-watcher:application] watcher start success
+2021-05-04 19:02:54,906 INFO 40934 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:02:54,908 INFO 40934 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:02:55,041 INFO 40934 [egg:core] dump config after ready, 7ms
+2021-05-04 19:03:24,550 INFO 40936 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:03:28,852 INFO 40936 [egg-multipart] stream mode enable
+2021-05-04 19:03:28,920 INFO 40936 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:03:28,922 INFO 40936 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:03:29,019 INFO 40936 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:03:29,025 INFO 40936 [egg-security] use methodnoallow middleware
+2021-05-04 19:03:29,026 INFO 40936 [egg-security] use noopen middleware
+2021-05-04 19:03:29,029 INFO 40936 [egg-security] use nosniff middleware
+2021-05-04 19:03:29,029 INFO 40936 [egg-security] use xssProtection middleware
+2021-05-04 19:03:29,030 INFO 40936 [egg-security] use xframe middleware
+2021-05-04 19:03:29,031 INFO 40936 [egg-security] use dta middleware
+2021-05-04 19:03:29,031 INFO 40936 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:03:29,056 INFO 40936 [egg:core] dump config after load, 15ms
+2021-05-04 19:03:29,241 INFO 40936 [egg-redis] client connect success
+2021-05-04 19:03:29,242 INFO 40936 [egg-redis] client connect success
+2021-05-04 19:03:29,252 INFO 40936 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:03:29,252 INFO 40936 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:03:29,258 INFO 40936 [egg-watcher:application] watcher start success
+2021-05-04 19:03:29,514 INFO 40936 [egg:core] dump config after ready, 7ms
+2021-05-04 19:03:31,269 INFO 40942 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:03:31,305 INFO 40942 [egg-multipart] stream mode enable
+2021-05-04 19:03:31,406 INFO 40942 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:03:31,409 INFO 40942 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:03:31,495 INFO 40942 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:03:31,499 INFO 40942 [egg-security] use methodnoallow middleware
+2021-05-04 19:03:31,500 INFO 40942 [egg-security] use noopen middleware
+2021-05-04 19:03:31,501 INFO 40942 [egg-security] use nosniff middleware
+2021-05-04 19:03:31,501 INFO 40942 [egg-security] use xssProtection middleware
+2021-05-04 19:03:31,502 INFO 40942 [egg-security] use xframe middleware
+2021-05-04 19:03:31,503 INFO 40942 [egg-security] use dta middleware
+2021-05-04 19:03:31,503 INFO 40942 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:03:31,514 INFO 40942 [egg:core] dump config after load, 6ms
+2021-05-04 19:03:31,682 INFO 40942 [egg-redis] client connect success
+2021-05-04 19:03:31,683 INFO 40942 [egg-redis] client connect success
+2021-05-04 19:03:31,691 INFO 40942 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:03:31,692 INFO 40942 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:03:31,695 INFO 40942 [egg-watcher:application] watcher start success
+2021-05-04 19:03:31,911 INFO 40942 [egg:core] dump config after ready, 8ms
+2021-05-04 19:03:53,846 INFO 40992 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:03:53,894 INFO 40992 [egg-multipart] stream mode enable
+2021-05-04 19:03:53,964 INFO 40992 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:03:53,966 INFO 40992 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:03:54,069 INFO 40992 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:03:54,074 INFO 40992 [egg-security] use methodnoallow middleware
+2021-05-04 19:03:54,074 INFO 40992 [egg-security] use noopen middleware
+2021-05-04 19:03:54,075 INFO 40992 [egg-security] use nosniff middleware
+2021-05-04 19:03:54,076 INFO 40992 [egg-security] use xssProtection middleware
+2021-05-04 19:03:54,077 INFO 40992 [egg-security] use xframe middleware
+2021-05-04 19:03:54,077 INFO 40992 [egg-security] use dta middleware
+2021-05-04 19:03:54,077 INFO 40992 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:03:54,091 INFO 40992 [egg:core] dump config after load, 8ms
+2021-05-04 19:03:54,270 INFO 40992 [egg-redis] client connect success
+2021-05-04 19:03:54,272 INFO 40992 [egg-redis] client connect success
+2021-05-04 19:03:54,280 INFO 40992 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:03:54,281 INFO 40992 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:03:54,292 INFO 40992 [egg-watcher:application] watcher start success
+2021-05-04 19:03:54,498 INFO 40992 [egg:core] dump config after ready, 6ms
+2021-05-04 19:04:32,314 INFO 41032 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:04:32,347 INFO 41032 [egg-multipart] stream mode enable
+2021-05-04 19:04:32,409 INFO 41032 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:04:32,411 INFO 41032 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:04:32,480 INFO 41032 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:04:32,483 INFO 41032 [egg-security] use methodnoallow middleware
+2021-05-04 19:04:32,484 INFO 41032 [egg-security] use noopen middleware
+2021-05-04 19:04:32,484 INFO 41032 [egg-security] use nosniff middleware
+2021-05-04 19:04:32,485 INFO 41032 [egg-security] use xssProtection middleware
+2021-05-04 19:04:32,485 INFO 41032 [egg-security] use xframe middleware
+2021-05-04 19:04:32,486 INFO 41032 [egg-security] use dta middleware
+2021-05-04 19:04:32,486 INFO 41032 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:04:32,496 INFO 41032 [egg:core] dump config after load, 6ms
+2021-05-04 19:04:32,632 INFO 41032 [egg-redis] client connect success
+2021-05-04 19:04:32,632 INFO 41032 [egg-redis] client connect success
+2021-05-04 19:04:32,639 INFO 41032 [egg-watcher:application] watcher start success
+2021-05-04 19:04:32,641 INFO 41032 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:04:32,641 INFO 41032 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:04:32,829 INFO 41032 [egg:core] dump config after ready, 7ms
+2021-05-04 19:04:45,905 INFO 41052 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:04:45,941 INFO 41052 [egg-multipart] stream mode enable
+2021-05-04 19:04:46,011 INFO 41052 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:04:46,013 INFO 41052 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:04:46,092 INFO 41052 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:04:46,096 INFO 41052 [egg-security] use methodnoallow middleware
+2021-05-04 19:04:46,097 INFO 41052 [egg-security] use noopen middleware
+2021-05-04 19:04:46,097 INFO 41052 [egg-security] use nosniff middleware
+2021-05-04 19:04:46,098 INFO 41052 [egg-security] use xssProtection middleware
+2021-05-04 19:04:46,098 INFO 41052 [egg-security] use xframe middleware
+2021-05-04 19:04:46,099 INFO 41052 [egg-security] use dta middleware
+2021-05-04 19:04:46,099 INFO 41052 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:04:46,114 INFO 41052 [egg:core] dump config after load, 11ms
+2021-05-04 19:04:46,279 INFO 41052 [egg-redis] client connect success
+2021-05-04 19:04:46,280 INFO 41052 [egg-redis] client connect success
+2021-05-04 19:04:46,286 INFO 41052 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:04:46,287 INFO 41052 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:04:46,289 INFO 41052 [egg-watcher:application] watcher start success
+2021-05-04 19:04:46,381 INFO 41052 [egg:core] dump config after ready, 9ms
+2021-05-04 19:05:06,524 INFO 41079 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:05:06,557 INFO 41079 [egg-multipart] stream mode enable
+2021-05-04 19:05:06,616 INFO 41079 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:05:06,617 INFO 41079 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:05:09,911 INFO 41079 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:05:09,914 INFO 41079 [egg-security] use methodnoallow middleware
+2021-05-04 19:05:09,914 INFO 41079 [egg-security] use noopen middleware
+2021-05-04 19:05:09,915 INFO 41079 [egg-security] use nosniff middleware
+2021-05-04 19:05:09,915 INFO 41079 [egg-security] use xssProtection middleware
+2021-05-04 19:05:09,916 INFO 41079 [egg-security] use xframe middleware
+2021-05-04 19:05:09,916 INFO 41079 [egg-security] use dta middleware
+2021-05-04 19:05:09,916 INFO 41079 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:05:09,929 INFO 41079 [egg:core] dump config after load, 8ms
+2021-05-04 19:05:10,074 INFO 41079 [egg-redis] client connect success
+2021-05-04 19:05:10,075 INFO 41079 [egg-redis] client connect success
+2021-05-04 19:05:10,082 INFO 41079 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:05:10,083 INFO 41079 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:05:10,086 INFO 41079 [egg-watcher:application] watcher start success
+2021-05-04 19:05:10,247 INFO 41079 [egg:core] dump config after ready, 6ms
+2021-05-04 19:06:47,158 INFO 41170 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:06:47,190 INFO 41170 [egg-multipart] stream mode enable
+2021-05-04 19:06:47,250 INFO 41170 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:06:47,252 INFO 41170 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:06:50,742 INFO 41170 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:06:50,745 INFO 41170 [egg-security] use methodnoallow middleware
+2021-05-04 19:06:50,745 INFO 41170 [egg-security] use noopen middleware
+2021-05-04 19:06:50,746 INFO 41170 [egg-security] use nosniff middleware
+2021-05-04 19:06:50,747 INFO 41170 [egg-security] use xssProtection middleware
+2021-05-04 19:06:50,747 INFO 41170 [egg-security] use xframe middleware
+2021-05-04 19:06:50,747 INFO 41170 [egg-security] use dta middleware
+2021-05-04 19:06:50,748 INFO 41170 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:06:50,758 INFO 41170 [egg:core] dump config after load, 6ms
+2021-05-04 19:06:50,895 INFO 41170 [egg-redis] client connect success
+2021-05-04 19:06:50,896 INFO 41170 [egg-redis] client connect success
+2021-05-04 19:06:50,902 INFO 41170 [egg-watcher:application] watcher start success
+2021-05-04 19:06:50,906 INFO 41170 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:06:50,906 INFO 41170 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:06:51,105 INFO 41170 [egg:core] dump config after ready, 8ms
+2021-05-04 19:10:00,692 INFO 41207 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:10:00,728 INFO 41207 [egg-multipart] stream mode enable
+2021-05-04 19:10:00,824 INFO 41207 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:00,825 INFO 41207 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:05,772 INFO 41207 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:10:05,778 INFO 41207 [egg-security] use methodnoallow middleware
+2021-05-04 19:10:05,779 INFO 41207 [egg-security] use noopen middleware
+2021-05-04 19:10:05,780 INFO 41207 [egg-security] use nosniff middleware
+2021-05-04 19:10:05,782 INFO 41207 [egg-security] use xssProtection middleware
+2021-05-04 19:10:05,783 INFO 41207 [egg-security] use xframe middleware
+2021-05-04 19:10:05,783 INFO 41207 [egg-security] use dta middleware
+2021-05-04 19:10:05,783 INFO 41207 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:10:05,796 INFO 41207 [egg:core] dump config after load, 7ms
+2021-05-04 19:10:06,007 INFO 41207 [egg-redis] client connect success
+2021-05-04 19:10:06,007 INFO 41207 [egg-redis] client connect success
+2021-05-04 19:10:06,022 INFO 41207 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:10:06,023 INFO 41207 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:10:06,035 INFO 41207 [egg-watcher:application] watcher start success
+2021-05-04 19:10:06,365 INFO 41207 [egg:core] dump config after ready, 8ms
+2021-05-04 19:10:08,606 INFO 41215 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:10:08,641 INFO 41215 [egg-multipart] stream mode enable
+2021-05-04 19:10:08,714 INFO 41215 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:08,716 INFO 41215 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:13,343 INFO 41215 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:10:13,347 INFO 41215 [egg-security] use methodnoallow middleware
+2021-05-04 19:10:13,351 INFO 41215 [egg-security] use noopen middleware
+2021-05-04 19:10:13,353 INFO 41215 [egg-security] use nosniff middleware
+2021-05-04 19:10:13,353 INFO 41215 [egg-security] use xssProtection middleware
+2021-05-04 19:10:13,354 INFO 41215 [egg-security] use xframe middleware
+2021-05-04 19:10:13,354 INFO 41215 [egg-security] use dta middleware
+2021-05-04 19:10:13,354 INFO 41215 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:10:13,368 INFO 41215 [egg:core] dump config after load, 9ms
+2021-05-04 19:10:13,624 INFO 41215 [egg-redis] client connect success
+2021-05-04 19:10:13,625 INFO 41215 [egg-redis] client connect success
+2021-05-04 19:10:13,634 INFO 41215 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:10:13,634 INFO 41215 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:10:13,636 INFO 41215 [egg-watcher:application] watcher start success
+2021-05-04 19:10:13,817 INFO 41215 [egg:core] dump config after ready, 8ms
+2021-05-04 19:10:16,440 INFO 41218 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:10:16,485 INFO 41218 [egg-multipart] stream mode enable
+2021-05-04 19:10:16,555 INFO 41218 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:16,557 INFO 41218 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:16,667 INFO 41218 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:10:16,669 INFO 41218 [egg-security] use methodnoallow middleware
+2021-05-04 19:10:16,670 INFO 41218 [egg-security] use noopen middleware
+2021-05-04 19:10:16,671 INFO 41218 [egg-security] use nosniff middleware
+2021-05-04 19:10:16,671 INFO 41218 [egg-security] use xssProtection middleware
+2021-05-04 19:10:16,672 INFO 41218 [egg-security] use xframe middleware
+2021-05-04 19:10:16,673 INFO 41218 [egg-security] use dta middleware
+2021-05-04 19:10:16,673 INFO 41218 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:10:16,685 INFO 41218 [egg:core] dump config after load, 7ms
+2021-05-04 19:10:16,855 INFO 41218 [egg-redis] client connect success
+2021-05-04 19:10:16,856 INFO 41218 [egg-redis] client connect success
+2021-05-04 19:10:16,862 INFO 41218 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:10:16,863 INFO 41218 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:10:16,865 INFO 41218 [egg-watcher:application] watcher start success
+2021-05-04 19:10:16,962 INFO 41218 [egg:core] dump config after ready, 10ms
+2021-05-04 19:10:51,098 INFO 41232 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:10:51,143 INFO 41232 [egg-multipart] stream mode enable
+2021-05-04 19:10:51,214 INFO 41232 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:51,219 INFO 41232 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:10:55,217 INFO 41232 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:10:55,220 INFO 41232 [egg-security] use methodnoallow middleware
+2021-05-04 19:10:55,221 INFO 41232 [egg-security] use noopen middleware
+2021-05-04 19:10:55,222 INFO 41232 [egg-security] use nosniff middleware
+2021-05-04 19:10:55,223 INFO 41232 [egg-security] use xssProtection middleware
+2021-05-04 19:10:55,223 INFO 41232 [egg-security] use xframe middleware
+2021-05-04 19:10:55,224 INFO 41232 [egg-security] use dta middleware
+2021-05-04 19:10:55,224 INFO 41232 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:10:55,234 INFO 41232 [egg:core] dump config after load, 6ms
+2021-05-04 19:10:55,397 INFO 41232 [egg-redis] client connect success
+2021-05-04 19:10:55,399 INFO 41232 [egg-redis] client connect success
+2021-05-04 19:10:55,409 INFO 41232 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:10:55,410 INFO 41232 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:10:55,412 INFO 41232 [egg-watcher:application] watcher start success
+2021-05-04 19:10:55,511 INFO 41232 [egg:core] dump config after ready, 8ms
+2021-05-04 19:11:13,498 INFO 41387 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:11:13,540 INFO 41387 [egg-multipart] stream mode enable
+2021-05-04 19:11:13,616 INFO 41387 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:11:13,618 INFO 41387 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:11:18,062 INFO 41387 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:11:18,066 INFO 41387 [egg-security] use methodnoallow middleware
+2021-05-04 19:11:18,066 INFO 41387 [egg-security] use noopen middleware
+2021-05-04 19:11:18,067 INFO 41387 [egg-security] use nosniff middleware
+2021-05-04 19:11:18,068 INFO 41387 [egg-security] use xssProtection middleware
+2021-05-04 19:11:18,069 INFO 41387 [egg-security] use xframe middleware
+2021-05-04 19:11:18,098 INFO 41387 [egg-security] use dta middleware
+2021-05-04 19:11:18,098 INFO 41387 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:11:18,117 INFO 41387 [egg:core] dump config after load, 13ms
+2021-05-04 19:11:18,357 INFO 41387 [egg-redis] client connect success
+2021-05-04 19:11:18,359 INFO 41387 [egg-redis] client connect success
+2021-05-04 19:11:18,369 INFO 41387 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:11:18,370 INFO 41387 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:11:18,372 INFO 41387 [egg-watcher:application] watcher start success
+2021-05-04 19:11:18,641 INFO 41387 [egg:core] dump config after ready, 7ms
+2021-05-04 19:11:20,813 INFO 41390 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:11:20,861 INFO 41390 [egg-multipart] stream mode enable
+2021-05-04 19:11:20,944 INFO 41390 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:11:20,950 INFO 41390 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:11:21,058 INFO 41390 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:11:21,061 INFO 41390 [egg-security] use methodnoallow middleware
+2021-05-04 19:11:21,061 INFO 41390 [egg-security] use noopen middleware
+2021-05-04 19:11:21,062 INFO 41390 [egg-security] use nosniff middleware
+2021-05-04 19:11:21,062 INFO 41390 [egg-security] use xssProtection middleware
+2021-05-04 19:11:21,063 INFO 41390 [egg-security] use xframe middleware
+2021-05-04 19:11:21,064 INFO 41390 [egg-security] use dta middleware
+2021-05-04 19:11:21,064 INFO 41390 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:11:21,074 INFO 41390 [egg:core] dump config after load, 6ms
+2021-05-04 19:11:21,247 INFO 41390 [egg-redis] client connect success
+2021-05-04 19:11:21,252 INFO 41390 [egg-redis] client connect success
+2021-05-04 19:11:21,260 INFO 41390 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:11:21,260 INFO 41390 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:11:21,263 INFO 41390 [egg-watcher:application] watcher start success
+2021-05-04 19:11:21,452 INFO 41390 [egg:core] dump config after ready, 6ms
+2021-05-04 19:11:25,550 INFO 41391 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:11:25,590 INFO 41391 [egg-multipart] stream mode enable
+2021-05-04 19:11:25,656 INFO 41391 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:11:25,658 INFO 41391 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:11:25,764 INFO 41391 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:11:25,771 INFO 41391 [egg-security] use methodnoallow middleware
+2021-05-04 19:11:25,771 INFO 41391 [egg-security] use noopen middleware
+2021-05-04 19:11:25,773 INFO 41391 [egg-security] use nosniff middleware
+2021-05-04 19:11:25,773 INFO 41391 [egg-security] use xssProtection middleware
+2021-05-04 19:11:25,774 INFO 41391 [egg-security] use xframe middleware
+2021-05-04 19:11:25,774 INFO 41391 [egg-security] use dta middleware
+2021-05-04 19:11:25,774 INFO 41391 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:11:25,786 INFO 41391 [egg:core] dump config after load, 7ms
+2021-05-04 19:11:25,922 INFO 41391 [egg-redis] client connect success
+2021-05-04 19:11:25,924 INFO 41391 [egg-redis] client connect success
+2021-05-04 19:11:25,928 INFO 41391 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:11:25,929 INFO 41391 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:11:25,931 INFO 41391 [egg-watcher:application] watcher start success
+2021-05-04 19:11:26,055 INFO 41391 [egg:core] dump config after ready, 7ms
+2021-05-04 19:12:40,594 INFO 41400 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:12:40,668 INFO 41400 [egg-multipart] stream mode enable
+2021-05-04 19:12:40,751 INFO 41400 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:12:40,754 INFO 41400 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:12:40,859 INFO 41400 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:12:40,862 INFO 41400 [egg-security] use methodnoallow middleware
+2021-05-04 19:12:40,862 INFO 41400 [egg-security] use noopen middleware
+2021-05-04 19:12:40,864 INFO 41400 [egg-security] use nosniff middleware
+2021-05-04 19:12:40,865 INFO 41400 [egg-security] use xssProtection middleware
+2021-05-04 19:12:40,865 INFO 41400 [egg-security] use xframe middleware
+2021-05-04 19:12:40,867 INFO 41400 [egg-security] use dta middleware
+2021-05-04 19:12:40,867 INFO 41400 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:12:40,879 INFO 41400 [egg:core] dump config after load, 7ms
+2021-05-04 19:12:41,074 INFO 41400 [egg-redis] client connect success
+2021-05-04 19:12:41,075 INFO 41400 [egg-redis] client connect success
+2021-05-04 19:12:41,086 INFO 41400 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:12:41,087 INFO 41400 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:12:41,089 INFO 41400 [egg-watcher:application] watcher start success
+2021-05-04 19:12:41,344 INFO 41400 [egg:core] dump config after ready, 8ms
+2021-05-04 19:14:57,093 INFO 41582 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:14:57,133 INFO 41582 [egg-multipart] stream mode enable
+2021-05-04 19:14:57,201 INFO 41582 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:14:57,204 INFO 41582 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:15:01,741 INFO 41582 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:15:01,749 INFO 41582 [egg-security] use methodnoallow middleware
+2021-05-04 19:15:01,750 INFO 41582 [egg-security] use noopen middleware
+2021-05-04 19:15:01,751 INFO 41582 [egg-security] use nosniff middleware
+2021-05-04 19:15:01,752 INFO 41582 [egg-security] use xssProtection middleware
+2021-05-04 19:15:01,753 INFO 41582 [egg-security] use xframe middleware
+2021-05-04 19:15:01,753 INFO 41582 [egg-security] use dta middleware
+2021-05-04 19:15:01,753 INFO 41582 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:15:01,764 INFO 41582 [egg:core] dump config after load, 5ms
+2021-05-04 19:15:01,964 INFO 41582 [egg-redis] client connect success
+2021-05-04 19:15:01,965 INFO 41582 [egg-redis] client connect success
+2021-05-04 19:15:01,975 INFO 41582 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:15:01,976 INFO 41582 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:15:01,988 INFO 41582 [egg-watcher:application] watcher start success
+2021-05-04 19:15:02,252 INFO 41582 [egg:core] dump config after ready, 9ms
+2021-05-04 19:16:32,763 INFO 41759 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:16:32,807 INFO 41759 [egg-multipart] stream mode enable
+2021-05-04 19:16:32,885 INFO 41759 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:16:32,887 INFO 41759 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:16:37,695 INFO 41759 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:16:37,699 INFO 41759 [egg-security] use methodnoallow middleware
+2021-05-04 19:16:37,702 INFO 41759 [egg-security] use noopen middleware
+2021-05-04 19:16:37,702 INFO 41759 [egg-security] use nosniff middleware
+2021-05-04 19:16:37,703 INFO 41759 [egg-security] use xssProtection middleware
+2021-05-04 19:16:37,704 INFO 41759 [egg-security] use xframe middleware
+2021-05-04 19:16:37,704 INFO 41759 [egg-security] use dta middleware
+2021-05-04 19:16:37,704 INFO 41759 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:16:37,722 INFO 41759 [egg:core] dump config after load, 12ms
+2021-05-04 19:16:37,916 INFO 41759 [egg-redis] client connect success
+2021-05-04 19:16:37,916 INFO 41759 [egg-redis] client connect success
+2021-05-04 19:16:37,922 INFO 41759 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:16:37,923 INFO 41759 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:16:37,926 INFO 41759 [egg-watcher:application] watcher start success
+2021-05-04 19:16:38,163 INFO 41759 [egg:core] dump config after ready, 7ms
+2021-05-04 19:16:47,830 INFO 41764 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:16:47,867 INFO 41764 [egg-multipart] stream mode enable
+2021-05-04 19:16:47,943 INFO 41764 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:16:47,945 INFO 41764 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:16:52,744 INFO 41764 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:16:52,747 INFO 41764 [egg-security] use methodnoallow middleware
+2021-05-04 19:16:52,749 INFO 41764 [egg-security] use noopen middleware
+2021-05-04 19:16:52,750 INFO 41764 [egg-security] use nosniff middleware
+2021-05-04 19:16:52,751 INFO 41764 [egg-security] use xssProtection middleware
+2021-05-04 19:16:52,753 INFO 41764 [egg-security] use xframe middleware
+2021-05-04 19:16:52,754 INFO 41764 [egg-security] use dta middleware
+2021-05-04 19:16:52,754 INFO 41764 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:16:52,771 INFO 41764 [egg:core] dump config after load, 12ms
+2021-05-04 19:16:53,035 INFO 41764 [egg-redis] client connect success
+2021-05-04 19:16:53,036 INFO 41764 [egg-redis] client connect success
+2021-05-04 19:16:53,057 INFO 41764 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:16:53,058 INFO 41764 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:16:53,061 INFO 41764 [egg-watcher:application] watcher start success
+2021-05-04 19:16:53,436 INFO 41764 [egg:core] dump config after ready, 10ms
+2021-05-04 19:18:11,386 INFO 41921 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:18:11,421 INFO 41921 [egg-multipart] stream mode enable
+2021-05-04 19:18:11,515 INFO 41921 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:18:11,517 INFO 41921 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:18:15,501 INFO 41921 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:18:15,505 INFO 41921 [egg-security] use methodnoallow middleware
+2021-05-04 19:18:15,506 INFO 41921 [egg-security] use noopen middleware
+2021-05-04 19:18:15,508 INFO 41921 [egg-security] use nosniff middleware
+2021-05-04 19:18:15,509 INFO 41921 [egg-security] use xssProtection middleware
+2021-05-04 19:18:15,510 INFO 41921 [egg-security] use xframe middleware
+2021-05-04 19:18:15,511 INFO 41921 [egg-security] use dta middleware
+2021-05-04 19:18:15,511 INFO 41921 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:18:15,524 INFO 41921 [egg:core] dump config after load, 7ms
+2021-05-04 19:18:15,727 INFO 41921 [egg-redis] client connect success
+2021-05-04 19:18:15,728 INFO 41921 [egg-redis] client connect success
+2021-05-04 19:18:15,735 INFO 41921 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:18:15,736 INFO 41921 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:18:15,740 INFO 41921 [egg-watcher:application] watcher start success
+2021-05-04 19:18:16,180 INFO 41921 [egg:core] dump config after ready, 6ms
+2021-05-04 19:18:18,678 INFO 41928 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:18:18,711 INFO 41928 [egg-multipart] stream mode enable
+2021-05-04 19:18:18,771 INFO 41928 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:18:18,773 INFO 41928 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:18:22,309 INFO 41928 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:18:22,314 INFO 41928 [egg-security] use methodnoallow middleware
+2021-05-04 19:18:22,315 INFO 41928 [egg-security] use noopen middleware
+2021-05-04 19:18:22,316 INFO 41928 [egg-security] use nosniff middleware
+2021-05-04 19:18:22,317 INFO 41928 [egg-security] use xssProtection middleware
+2021-05-04 19:18:22,317 INFO 41928 [egg-security] use xframe middleware
+2021-05-04 19:18:22,318 INFO 41928 [egg-security] use dta middleware
+2021-05-04 19:18:22,318 INFO 41928 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:18:22,329 INFO 41928 [egg:core] dump config after load, 7ms
+2021-05-04 19:18:22,485 INFO 41928 [egg-redis] client connect success
+2021-05-04 19:18:22,486 INFO 41928 [egg-redis] client connect success
+2021-05-04 19:18:22,491 INFO 41928 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:18:22,491 INFO 41928 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:18:22,493 INFO 41928 [egg-watcher:application] watcher start success
+2021-05-04 19:18:22,762 INFO 41928 [egg:core] dump config after ready, 8ms
+2021-05-04 19:18:32,847 INFO 41940 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/mengbao/pact-pool/logs/cyan-lottery","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cyan-lottery-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2021-05-04 19:18:32,882 INFO 41940 [egg-multipart] stream mode enable
+2021-05-04 19:18:32,966 INFO 41940 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:18:32,968 INFO 41940 [egg-redis] server connecting redis://:***@localhost:6379/0
+2021-05-04 19:18:37,622 INFO 41940 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/mengbao/pact-pool/app/public
+2021-05-04 19:18:37,625 INFO 41940 [egg-security] use methodnoallow middleware
+2021-05-04 19:18:37,626 INFO 41940 [egg-security] use noopen middleware
+2021-05-04 19:18:37,627 INFO 41940 [egg-security] use nosniff middleware
+2021-05-04 19:18:37,628 INFO 41940 [egg-security] use xssProtection middleware
+2021-05-04 19:18:37,629 INFO 41940 [egg-security] use xframe middleware
+2021-05-04 19:18:37,629 INFO 41940 [egg-security] use dta middleware
+2021-05-04 19:18:37,629 INFO 41940 [egg-security] compose 6 middlewares into one security middleware
+2021-05-04 19:18:37,640 INFO 41940 [egg:core] dump config after load, 6ms
+2021-05-04 19:18:37,812 INFO 41940 [egg-redis] client connect success
+2021-05-04 19:18:37,813 INFO 41940 [egg-redis] client connect success
+2021-05-04 19:18:37,820 INFO 41940 [egg-redis] instance[0] status OK, client ready
+2021-05-04 19:18:37,822 INFO 41940 [egg-redis] instance[1] status OK, client ready
+2021-05-04 19:18:37,826 INFO 41940 [egg-watcher:application] watcher start success
+2021-05-04 19:18:38,017 INFO 41940 [egg:core] dump config after ready, 7ms

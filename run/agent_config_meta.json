@@ -1,0 +1,449 @@
+{
+  "keys": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+  "middleware": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+  "onerror": {
+    "accepts": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+    "html": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+    "json": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+    "errorPageUrl": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+      "match": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+      "type": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "useSession": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "cookieName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "sessionName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "headerName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "bodyName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "queryName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "value": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.local.js",
+      "maxAge": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "value": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "value": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "policy": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "checkAddress": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    }
+  },
+  "redis": {
+    "clients": {
+      "default": {
+        "keyPrefix": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "host": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "port": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "db": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "connectTimeout": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "password": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts"
+      },
+      "ratelimit": {
+        "keyPrefix": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "host": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "port": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "db": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "connectTimeout": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+        "password": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts"
+      }
+    },
+    "default": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "app": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "agent": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "supportTimeCommand": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js"
+  },
+  "poolHost": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+  "alinode": {
+    "enable": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+    "appid": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+    "secret": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts"
+  },
+  "hsahids": {
+    "salt": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts"
+  },
+  "typeormConnections": {
+    "type": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "logging": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "port": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "synchronize": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "logger": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "entities": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "subscribers": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "charset": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "maxQueryExecutionTime": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "connectTimeout": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "trace": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "extra": {
+      "connectionLimit": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts"
+    },
+    "replication": {
+      "master": {
+        "host": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+        "port": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+        "username": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+        "database": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts"
+      },
+      "slaves": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts"
+    }
+  },
+  "passportJwt": {
+    "secret": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts"
+  },
+  "sourceUrl": "/Users/renge/Desktop/mengbao/pact-pool/config/config.default.ts",
+  "logger": {
+    "level": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "consoleLevel": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "allowDebugAtProd": "/Users/renge/Desktop/mengbao/pact-pool/config/config.local.ts",
+    "dir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "encoding": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "env": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "outputJSON": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "buffer": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "appLogName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "coreLogName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "agentLogName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "errorLogName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.local.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+      "file": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fields": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "files": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "fastReady": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "cache": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "mapping": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
+  },
+  "aop": {
+    "useCtxProxyForAppComponent": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-aop@0.5.3@egg-aop/config/config.default.js",
+    "autoRegisterToCtx": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js"
+  },
+  "controller": {
+    "autoLoad": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+    "ctrlDir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+    "paramValidate": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+    "auth": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+    "genSDK": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "sdkDir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "filter": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "type": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "serviceType": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "camelCase": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "hook": {
+        "customClassName": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js"
+      }
+    },
+    "apiReport": {
+      "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "url": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js"
+    },
+    "encrypt": {
+      "publicKey": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "privateKey": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+      "type": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js"
+    },
+    "compatible": {
+      "ret404WhenNoChangeBody": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js"
+    },
+    "routeRegister": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js",
+    "fork": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-controller@0.3.36@egg-controller/config/config.default.js"
+  },
+  "env": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "name": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "cookies": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "proxy": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "maxIpsCount": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "maxProxyCount": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "version": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "description": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "private": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "declarations": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "stop": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "start-dev": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "dev": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "debug": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "test-local": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "test": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "cov": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "tsc": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ci": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "autod": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "lint": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "clean": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "apidoc": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "typeorm": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "check-db-migration": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "bull": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "cls-hooked": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "co-body": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "date-fns": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-alinode": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-aop": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-redis": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ioredis": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-bull-queue": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-controller": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-cors": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-passport": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "hashids": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "jsonwebtoken": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "lodash": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "md5": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ms": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "mysql2": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "random-picker": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ratelimiter": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "reflect-metadata": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "typeorm": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "typeorm-transactional-cls-hooked": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/cls-hooked": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/debug": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/hashids": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/ioredis": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/jsonwebtoken": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/koa-ratelimit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/lodash": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/md5": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/mocha": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/mockdate": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/ms": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/node": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/passport": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/power-assert": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/ratelimiter": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/raven": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "@types/supertest": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "apidoc": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "autod": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "autod-egg": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "cheerio": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "child_process": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-bin": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-ci": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-mock": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "handlebars": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "mockdate": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ts-node": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "tslib": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "tslint": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "tslint-config-egg": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "typescript": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "url": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "license": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "HOME": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "rundir": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "notFound": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "sitefile": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "middlewares": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "httpClient": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "encoding": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "formLimit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "textLimit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "strict": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "depth": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "onerror": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxSockets": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxSockets": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "logging": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "serverTimeout": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "port": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "hostname": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/config/config.default.js"
+}

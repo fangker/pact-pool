@@ -1,0 +1,11 @@
+{
+  "extends": ["tslint-config-egg"],
+  "linterOptions": {
+    "exclude": [
+      "database"
+    ]
+  },
+  "rules": {
+    "array-bracket-spacing": false
+  }
+}

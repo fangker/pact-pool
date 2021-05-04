@@ -1,0 +1,411 @@
+2020-03-11 17:19:18,430 ERROR 41094 [-/127.0.0.1/-/5ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at WechatService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/wechat.ts:8:102)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:27:42)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41094
+hostname: cyan.local
+
+2020-03-11 17:20:14,183 ERROR 41132 [-/127.0.0.1/-/30ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at WechatService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/wechat.ts:9:102)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:27:42)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41132
+hostname: cyan.local
+
+2020-03-11 17:25:23,676 ERROR 41165 [-/127.0.0.1/-/13ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:8:97)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:30:38)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41165
+hostname: cyan.local
+
+2020-03-11 17:25:26,507 ERROR 41165 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:8:97)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:30:38)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41165
+hostname: cyan.local
+
+2020-03-11 17:25:27,616 ERROR 41165 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:8:97)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:30:38)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41165
+hostname: cyan.local
+
+2020-03-11 17:30:04,642 ERROR 41218 [-/127.0.0.1/-/570ms GET /api/v1/authorizations?code=95c1e2ee7dca0897838550f79c54e320&provider=qq] nodejs.QueryFailedError: Data too long for column 'openid' at row 1
+    at new QueryFailedError (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.Connection.packetParser.p [as onPacket] (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.Connection.stream.on.data (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+message: "Data too long for column 'openid' at row 1"
+code: "ER_DATA_TOO_LONG"
+errno: 1406
+sqlState: "22001"
+sqlMessage: "Data too long for column 'openid' at row 1"
+name: "QueryFailedError"
+query: "INSERT INTO `authorization`(`id`, `provider`, `openid`, `userId`, `province`, `city`, `country`, `createdAt`, `updatedAt`) VALUES (DEFAULT, ?, ?, ?, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT)"
+parameters: ["qq","872C3C2825EBC7F8748ED6066B0B7C3D",1]
+pid: 41218
+hostname: cyan.local
+
+2020-03-26 14:47:51,040 ERROR 31180 [3/127.0.0.1/-/73ms POST /api/v1/user_results] nodejs.QueryFailedError: Unknown column 'Question.displayRule' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.Connection.packetParser.p [as onPacket] (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.Connection.stream.on.data (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+message: "Unknown column 'Question.displayRule' in 'field list'"
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlState: "42S22"
+sqlMessage: "Unknown column 'Question.displayRule' in 'field list'"
+name: "QueryFailedError"
+query: "SELECT `Question`.`id` AS `Question_id`, `Question`.`title` AS `Question_title`, `Question`.`image` AS `Question_image`, `Question`.`thumbnail` AS `Question_thumbnail`, `Question`.`description` AS `Question_description`, `Question`.`options` AS `Question_options`, `Question`.`typeKey` AS `Question_typeKey`, `Question`.`state` AS `Question_state`, `Question`.`result` AS `Question_result`, `Question`.`rule` AS `Question_rule`, `Question`.`sort` AS `Question_sort`, `Question`.`displayRule` AS `Question_displayRule`, `Question`.`createdAt` AS `Question_createdAt`, `Question`.`updatedAt` AS `Question_updatedAt` FROM `question` `Question` WHERE `Question`.`id` = ? LIMIT 1"
+parameters: [1]
+pid: 31180
+hostname: cyan.local
+
+2020-03-26 15:39:11,664 ERROR 32022 nodejs.ClusterClientNoResponseError: client no response in 286395ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: "ClusterClientNoResponseError"
+pid: 32022
+hostname: cyan.local
+
+2020-04-09 14:32:43,948 ERROR 12842 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Pool does Not exists.
+    at PoolNamespace.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:34:17)
+    at _cluster._getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:41:21)
+    at node.pool.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:185:18)
+    at connection.connect.err (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool.js:59:18)
+    at PoolConnection.<anonymous> (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:716:13)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:120:20)
+    at PoolConnection.emit (events.js:210:7)
+    at PoolConnection._notifyError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:212:12)
+    at PoolConnection._handleFatalError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:151:10)
+
+pid: 12842
+hostname: cyan.local
+
+2020-04-09 14:33:07,712 ERROR 12886 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Pool does Not exists.
+    at PoolNamespace.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:34:17)
+    at _cluster._getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:41:21)
+    at node.pool.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:185:18)
+    at connection.connect.err (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool.js:59:18)
+    at PoolConnection.<anonymous> (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:716:13)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:120:20)
+    at PoolConnection.emit (events.js:210:7)
+    at PoolConnection._notifyError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:212:12)
+    at PoolConnection._handleFatalError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:151:10)
+
+pid: 12886
+hostname: cyan.local
+
+2021-05-04 17:04:50,587 ERROR 38629 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:04:50,597 ERROR 38629 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 18ms
+2021-05-04 17:05:00,002 ERROR 38629 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:05:00,003 ERROR 38629 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 1ms
+2021-05-04 17:06:12,619 ERROR 38684 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:06:12,620 ERROR 38684 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 8ms
+2021-05-04 17:06:41,417 ERROR 38723 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:06:41,419 ERROR 38723 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 10ms
+2021-05-04 17:30:00,222 ERROR 39200 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. QueryFailedError: Table 'csmaster_local.block' doesn't exist
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  sqlMessage: "Table 'csmaster_local.block' doesn't exist",
+  query: 'INSERT INTO `block`(`id`, `data`, `sign`, `createdAt`) VALUES (DEFAULT, ?, DEFAULT, DEFAULT)',
+  parameters: [
+    '{"type":"Buffer","data":[123,34,49,34,58,123,125,44,34,50,34,58,123,34,53,54,55,56,50,55,52,50,57,48,54,55,56,50,56,34,58,123,34,97,99,116,105,118,101,34,58,116,114,117,101,44,34,115,104,97,114,101,115,34,58,50,50,56,44,34,98,108,111,99,107,115,34,58,50,48,49,44,34,104,97,115,104,101,115,34,58,50,50,57,55,48,54,49,46,56,51,55,57,53,51,57,48,53,44,34,97,118,103,83,112,101,101,100,34,58,54,48,56,46,54,53,52,52,51,53,48,54,57,57,50,55,49,44,34,100,105,102,102,34,58,49,48,48,48,48,44,34,99,111,110,110,101,99,116,84,105,109,101,34,58,49,54,50,48,49,49,54,56,49,54,54,54,50,44,34,108,97,115,116,67,111,110,116,97,99,116,34,58,49,54,50,48,49,50,48,53,57,48,44,34,112,97,115,115,119,111,114,100,34,58,34,112,114,111,100,95,116,95,48,56,34,44,34,117,115,101,114,34,58,34,48,120,56,67,51,48,67,101,53,68,102,56,68,102,102,67,54,99,54,53,50,99,56,48,48,49,52,49,53,49,50,49,54,65,53,100,100,97,65,52,67,54,34,44,34,108,97,115,116,83,104,97,114,101,34,58,49,54,50,48,49,50,48,53,57,48,46,49,51,55,57,57,57,56,44,34,99,111,105,110,34,58,34,120,109,114,34,44,34,112,111,111,108,34,58,34,109,105,110,101,46,99,51,112,111,111,108,46,99,111,109,34,44,34,105,100,34,58,34,53,54,55,56,50,55,52,50,57,48,54,55,56,50,56,34,44,34,105,100,101,110,116,105,102,105,101,114,34,58,34,112,114,111,100,95,116,95,48,56,34,44,34,105,112,34,58,34,49,55,50,46,49,55,46,48,46,49,34,44,34,97,103,101,110,116,34,58,34,88,77,82,105,103,47,54,46,54,46,50,32,40,77,97,99,105,110,116,111,115,104,59,32,73,110,116,101,108,32,77,97,99,32,79,83,32,88,41,32,108,105,98,117,118,47,49,46,51,56,46,49,32,99,108,97,110,103,47,49,48,46,48,46,48,34,44,34,97,108,103,111,115,34,58,123,34,99,110,47,49,34,58,49,44,34,99,110,47,50,34,58,49,44,34,99,110,47,114,34,58,49,44,34,99,110,47,102,97,115,116,34,58,49,44,34,99,110,47,104,97,108,102,34,58,49,44,34,99,110,47,120,97,111,34,58,49,44,34,99,110,47,114,116,111,34,58,49,44,34,99,110,47,114,119,122,34,58,49,44,34,99,110,47,122,108,115,34,58,49,44,34,99,110,47,100,111,117,98,108,101,34,58,49,44,34,99,110,45,108,105,116,101,47,49,34,58,49,44,34,99,110,45,104,101,97,118,121,47,48,34,58,49,44,34,99,110,45,104,101,97,118,121,47,116,117,98,101,34,58,49,44,34,99,110,45,104,101,97,118,121,47,120,104,118,34,58,49,44,34,99,110,45,112,105,99,111,34,58,49,44,34,99,110,45,112,105,99,111,47,116,108,111,34,58,49,44,34,99,110,47,99,99,120,34,58,49,44,34,114,120,47,48,34,58,49,44,34,114,120,47,119,111,119,34,58,49,44,34,114,120,47,97,114,113,34,58,49,44,34,114,120,47,115,102,120,34,58,49,44,34,114,120,47,107,101,118,97,34,58,49,44,34,97,114,103,111,110,50,47,99,104,117,107,119,97,34,58,49,44,34,97,114,103,111,110,50,47,99,104,117,107,119,97,118,50,34,58,49,44,34,97,114,103,111,110,50,47,119,114,107,122,34,58,49,44,34,97,115,116,114,111,98,119,116,34,58,49,44,34,107,97,119,112,111,119,34,58,49,125,44,34,108,111,103,83,116,114,105,110,103,34,58,34,112,114,111,100,95,116,95,48,56,32,40,49,55,50,46,49,55,46,48,46,49,41,34,125,125,44,34,51,34,58,123,125,44,34,52,34,58,123,125,125,13,10]}'
+  ]
+}
+2021-05-04 17:30:00,233 ERROR 39200 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 221ms
+2021-05-04 18:04:41,287 ERROR 39697 nodejs.TSError: [egg-core] load file: /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts, error: ⨯ Unable to compile TypeScript:
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+    at createTSError (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:261:12)
+    at getOutput (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:367:40)
+    at Object.compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:558:11)
+    at Module.m._compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:439:43)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:442:12)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+diagnosticText: "app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.\napp/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.\n"
+diagnosticCodes: [6133,6133]
+pid: 39697
+hostname: cyan.local
+
+2021-05-04 18:51:01,205 ERROR 40238 nodejs.TSError: [egg-core] load file: /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts, error: ⨯ Unable to compile TypeScript:
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+    at createTSError (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:261:12)
+    at getOutput (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:367:40)
+    at Object.compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:558:11)
+    at Module.m._compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:439:43)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:442:12)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+diagnosticText: "app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.\napp/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.\n"
+diagnosticCodes: [6133,6133]
+pid: 40238
+hostname: cyan.local
+
+2021-05-04 18:51:15,029 ERROR 40273 nodejs.TSError: [egg-core] load file: /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts, error: ⨯ Unable to compile TypeScript:
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+    at createTSError (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:261:12)
+    at getOutput (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:367:40)
+    at Object.compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:558:11)
+    at Module.m._compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:439:43)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:442:12)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+diagnosticText: "app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.\napp/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.\n"
+diagnosticCodes: [6133,6133]
+pid: 40273
+hostname: cyan.local
+
+2021-05-04 18:51:28,652 ERROR 40303 nodejs.TSError: [egg-core] load file: /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts, error: ⨯ Unable to compile TypeScript:
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+    at createTSError (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:261:12)
+    at getOutput (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:367:40)
+    at Object.compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:558:11)
+    at Module.m._compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:439:43)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:442:12)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+diagnosticText: "app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.\napp/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.\n"
+diagnosticCodes: [6133,6133]
+pid: 40303
+hostname: cyan.local
+
+2021-05-04 18:51:59,069 ERROR 40331 nodejs.TSError: [egg-core] load file: /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts, error: ⨯ Unable to compile TypeScript:
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.
+app/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.
+
+    at createTSError (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:261:12)
+    at getOutput (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:367:40)
+    at Object.compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:558:11)
+    at Module.m._compile (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:439:43)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_ts-node@7.0.1@ts-node/src/index.ts:442:12)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+diagnosticText: "app/schedule/calculate.ts(2,1): error TS6133: 'getRepository' is declared but its value is never read.\napp/schedule/calculate.ts(3,1): error TS6133: 'Block' is declared but its value is never read.\n"
+diagnosticCodes: [6133,6133]
+pid: 40331
+hostname: cyan.local
+
+2021-05-04 18:52:31,383 ERROR 40364 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. QueryFailedError: Table 'csmaster_local.block' doesn't exist
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  sqlMessage: "Table 'csmaster_local.block' doesn't exist",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T10:52:31.233Z, 2021-05-04T10:52:31.233Z ]
+}
+2021-05-04 18:52:31,385 ERROR 40364 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 239ms
+2021-05-04 18:58:37,308 ERROR 40705 [-/127.0.0.1/-/247ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:00:45,525 ERROR 40787 [-/127.0.0.1/-/125ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:01:36,524 ERROR 40843 [-/127.0.0.1/-/52ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:02:04,695 ERROR 40875 [-/127.0.0.1/-/57ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:02:55,108 ERROR 40934 [-/127.0.0.1/-/56ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:03:54,555 ERROR 40992 [-/127.0.0.1/-/49ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:04:32,938 ERROR 41032 [-/127.0.0.1/-/100ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:04:46,440 ERROR 41052 [-/127.0.0.1/-/50ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:05:10,316 ERROR 41079 [-/127.0.0.1/-/57ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:06:51,392 ERROR 41170 [-/127.0.0.1/-/271ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:10:00,100 ERROR 41170 [-/127.0.0.1/-/67ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:10:06,105 ERROR 41207 [-/127.0.0.1/-/118ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:15:00,505 ERROR 41400 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute error. QueryFailedError: Unknown column 'Block.totalHash' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'Block.totalHash' in 'field list'",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`totalHash` AS `Block_totalHash`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T11:15:00.039Z, 2021-05-04T11:15:00.039Z ]
+}
+2021-05-04 19:15:00,506 ERROR 41400 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute failed, used 491ms
+2021-05-04 19:15:02,197 ERROR 41582 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute error. QueryFailedError: Unknown column 'Block.totalHash' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'Block.totalHash' in 'field list'",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`totalHash` AS `Block_totalHash`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T11:15:02.036Z, 2021-05-04T11:15:02.036Z ]
+}
+2021-05-04 19:15:02,198 ERROR 41582 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute failed, used 254ms
+2021-05-04 19:20:00,135 ERROR 41940 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute error. QueryFailedError: Unknown column 'Block.totalHash' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'Block.totalHash' in 'field list'",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`totalHash` AS `Block_totalHash`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T11:20:00.036Z, 2021-05-04T11:20:00.036Z ]
+}
+2021-05-04 19:20:00,139 ERROR 41940 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute failed, used 130ms

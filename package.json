@@ -1,0 +1,103 @@
+{
+  "name": "cyan-lottery",
+  "version": "1.0.1",
+  "description": "",
+  "private": true,
+  "egg": {
+    "typescript": true,
+    "declarations": true
+  },
+  "scripts": {
+    "start": "egg-scripts start --daemon --port=8002 --title=cyan-lottery",
+    "stop": "egg-scripts stop --title=cyan-lottery",
+    "start-dev": "egg-scripts start --env=dev --daemon --workers=1 --port=8002 --title=cyan-lottery",
+    "dev": "DEBUG=app:* egg-bin dev --port=8002",
+    "debug": "egg-bin debug",
+    "test-local": "egg-bin test",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "cov": "egg-bin cov",
+    "tsc": "ets && tsc -p tsconfig.json",
+    "ci": "npm run lint && npm run cov && npm run tsc",
+    "autod": "autod",
+    "lint": "tslint --project . -c tslint.json",
+    "clean": "ets clean",
+    "apidoc": "./node_modules/.bin/apidoc -c ./apidoc -i ./app/controller -o ./app/public/apidoc",
+    "typeorm": "ts-node ./node_modules/typeorm/cli.js",
+    "check-db-migration": "export NODE_ENV=test && npm run typeorm schema:drop && npm run typeorm migration:run && npm run typeorm schema:log"
+  },
+  "dependencies": {
+    "bull": "^3.10.0",
+    "cls-hooked": "^4.2.2",
+    "co-body": "^6.0.0",
+    "date-fns": "^1.30.1",
+    "egg": "^2.6.1",
+    "egg-alinode": "^2.0.1",
+    "egg-aop": "^0.5.3",
+    "egg-redis": "^2.4.0",
+    "ioredis": "^4.14.3",
+    "egg-bull-queue": "^1.2.1",
+    "egg-controller": "^0.3.28",
+    "egg-cors": "^2.2.0",
+    "egg-passport": "^2.0.1",
+    "egg-scripts": "^2.6.0",
+    "hashids": "^1.2.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "md5": "^2.2.1",
+    "ms": "^2.1.2",
+    "mysql2": "^1.6.5",
+    "random-picker": "^1.0.0",
+    "ratelimiter": "^3.3.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.18",
+    "typeorm-transactional-cls-hooked": "^0.1.8"
+  },
+  "devDependencies": {
+    "@types/cls-hooked": "^4.3.0",
+    "@types/debug": "^4.1.4",
+    "@types/hashids": "^1.0.30",
+    "@types/ioredis": "^4.0.10",
+    "@types/jsonwebtoken": "^8.3.2",
+    "@types/koa-ratelimit": "^4.1.1",
+    "@types/lodash": "^4.14.123",
+    "@types/md5": "^2.1.33",
+    "@types/mocha": "^2.2.40",
+    "@types/mockdate": "^2.0.0",
+    "@types/ms": "^0.7.30",
+    "@types/node": "^7.10.6",
+    "@types/passport": "^1.0.0",
+    "@types/power-assert": "^1.5.0",
+    "@types/ratelimiter": "^2.1.28",
+    "@types/raven": "^2.5.3",
+    "@types/supertest": "^2.0.0",
+    "apidoc": "^0.17.7",
+    "autod": "^3.1.0",
+    "autod-egg": "^1.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "child_process": "^1.0.2",
+    "egg-bin": "^4.13.1",
+    "egg-ci": "^1.8.0",
+    "egg-mock": "^3.22.4",
+    "handlebars": "^4.1.2",
+    "mockdate": "^2.0.2",
+    "ts-node": "^8.1.0",
+    "tslib": "^1.9.0",
+    "tslint": "^5.18.0",
+    "tslint-config-egg": "^1.0.0",
+    "typescript": "^3.3.4000"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "ci": {
+    "version": "8"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "eslintIgnore": [
+    "coverage"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,1074 @@
+2020-03-11 17:18:29,241 INFO 41094 [-/127.0.0.1/-/5ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=%22wechat%22] begin
+2020-03-11 17:18:29,249 INFO 41094 [-/127.0.0.1/-/14ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=%22wechat%22] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider "wechat"
+2020-03-11 17:18:29,249 INFO 41094 [-/127.0.0.1/-/14ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=%22wechat%22] 妈的智障
+2020-03-11 17:18:29,250 INFO 41094 [-/127.0.0.1/-/15ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=%22wechat%22] end 204
+2020-03-11 17:19:18,411 INFO 41094 [-/127.0.0.1/-/1ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] begin
+2020-03-11 17:19:18,412 INFO 41094 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider wechat
+2020-03-11 17:19:18,430 ERROR 41094 [-/127.0.0.1/-/5ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at WechatService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/wechat.ts:8:102)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:27:42)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41094
+hostname: cyan.local
+
+2020-03-11 17:20:14,143 INFO 41132 [-/127.0.0.1/-/6ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] begin
+2020-03-11 17:20:14,150 INFO 41132 [-/127.0.0.1/-/14ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider wechat
+2020-03-11 17:20:14,156 INFO 41132 [-/127.0.0.1/-/15ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] { session: 
+   { maxAge: 86400000,
+     key: 'EGG_SESS',
+     httpOnly: true,
+     encrypt: true,
+     overwrite: true,
+     signed: true,
+     autoCommit: true,
+     encode: [Function: encode],
+     decode: [Function: decode],
+     genid: { [Function: v4] v1: [Function: v1], v4: [Object] } },
+  security: 
+   { domainWhiteList: [],
+     protocolWhiteList: [],
+     defaultMiddleware: 'csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta',
+     csrf: 
+      { enable: false,
+        type: 'ctoken',
+        ignoreJSON: false,
+        useSession: false,
+        cookieName: 'csrfToken',
+        sessionName: 'csrfToken',
+        headerName: 'x-csrf-token',
+        bodyName: '_csrf',
+        queryName: '_csrf',
+        refererWhiteList: [],
+        match: '/api' },
+     xframe: { enable: true, value: 'SAMEORIGIN', matching: [Function] },
+     hsts: { enable: false, maxAge: 31536000, includeSubdomains: false },
+     dta: { enable: true, matching: [Function] },
+     methodnoallow: { enable: true, matching: [Function] },
+     noopen: { enable: true, matching: [Function] },
+     nosniff: { enable: true, matching: [Function] },
+     referrerPolicy: { enable: false, value: 'no-referrer-when-downgrade' },
+     xssProtection: { enable: true, value: '1; mode=block', matching: [Function] },
+     csp: { enable: false, policy: {} },
+     ssrf: { ipBlackList: null, checkAddress: null },
+     _protocolWhiteListSet: Set { 'http', 'https', 'file', 'data' } },
+  helper: { shtml: {} },
+  jsonp: { limit: 50, callback: [ '_callback', 'callback' ], csrf: false },
+  onerror: 
+   { errorPageUrl: '',
+     appErrorFilter: null,
+     templatePath: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-onerror@2.1.0@egg-onerror/lib/onerror_page.mustache',
+     accepts: [Function: accepts],
+     html: [Function: html],
+     json: [Function: json] },
+  i18n: 
+   { defaultLocale: 'en_US',
+     dirs: 
+      [ '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-session@3.1.0@egg-session/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-security@2.7.1@egg-security/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-onerror@2.1.0@egg-onerror/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-i18n@2.1.1@egg-i18n/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-watcher@3.1.0@egg-watcher/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-schedule@3.6.4@egg-schedule/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-development@2.4.3@egg-development/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-static@2.2.0@egg-static/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-view@2.1.2@egg-view/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-aop@0.5.3@egg-aop/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg@2.26.0@egg/config/locales',
+        '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/config/locales' ],
+     queryField: 'locale',
+     cookieField: 'locale',
+     cookieDomain: '',
+     cookieMaxAge: '1y',
+     functionName: '__' },
+  watcher: 
+   { type: 'development',
+     eventSources: 
+      { default: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/default',
+        development: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/development' } },
+  customLogger: { scheduleLogger: { consoleLevel: 'NONE', file: 'egg-schedule.log' } },
+  schedule: { directory: [] },
+  multipart: 
+   { mode: 'stream',
+     autoFields: false,
+     defaultCharset: 'utf8',
+     fieldNameSize: 100,
+     fieldSize: 102400,
+     fields: 10,
+     fileSize: 10485760,
+     files: 10,
+     fileExtensions: [],
+     whitelist: null,
+     tmpdir: '/var/folders/qn/xww4bnk503b7cqm0hfh8ct1m0000gn/T/egg-multipart-tmp/cyan-lottery',
+     cleanSchedule: { cron: '0 30 4 * * *' } },
+  development: 
+   { watchDirs: [],
+     ignoreDirs: [],
+     fastReady: false,
+     reloadOnDebug: true,
+     overrideDefault: false },
+  logrotator: 
+   { filesRotateByHour: null,
+     hourDelimiter: '-',
+     filesRotateBySize: null,
+     maxFileSize: 52428800,
+     maxFiles: 10,
+     rotateDuration: 60000,
+     maxDays: 31 },
+  static: 
+   { prefix: '/public/',
+     dir: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public',
+     dynamic: true,
+     preload: false,
+     buffer: false,
+     maxFiles: 1000 },
+  view: 
+   { root: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/view',
+     cache: false,
+     defaultExtension: '.html',
+     defaultViewEngine: '',
+     mapping: {} },
+  aop: { useCtxProxyForAppComponent: false, autoRegisterToCtx: true },
+  controller: 
+   { autoLoad: true,
+     ctrlDir: 'app/controller',
+     paramValidate: true,
+     auth: true,
+     genSDK: 
+      { enable: false,
+        sdkDir: 'app/assets/service',
+        filter: [Array],
+        type: 'ts',
+        serviceType: 'class',
+        camelCase: true,
+        hook: [Object] },
+     apiReport: { enable: false, url: '' },
+     encrypt: { publicKey: '', privateKey: '', type: 'PKCS1' },
+     compatible: { ret404WhenNoChangeBody: false },
+     routeRegister: [Function: routeRegister],
+     fork: [Function] },
+  env: 'local',
+  name: 'cyan-lottery',
+  keys: 'cyan-lottery_1576739683981_3748',
+  cookies: {},
+  proxy: false,
+  maxIpsCount: 0,
+  maxProxyCount: 0,
+  protocolHeaders: 'x-forwarded-proto',
+  ipHeaders: 'x-forwarded-for',
+  hostHeaders: '',
+  pkg: 
+   { name: 'cyan-lottery',
+     version: '1.0.1',
+     description: '',
+     private: true,
+     egg: { typescript: true, declarations: true },
+     scripts: 
+      { start: 'egg-scripts start --daemon --port=8002 --title=cyan-lottery',
+        stop: 'egg-scripts stop --title=cyan-lottery',
+        dev: 'DEBUG=app:* egg-bin dev --port=8002',
+        debug: 'egg-bin debug',
+        'test-local': 'egg-bin test',
+        test: 'npm run lint -- --fix && npm run test-local',
+        cov: 'egg-bin cov',
+        tsc: 'ets && tsc -p tsconfig.json',
+        ci: 'npm run lint && npm run cov && npm run tsc',
+        autod: 'autod',
+        lint: 'tslint --project . -c tslint.json',
+        clean: 'ets clean',
+        apidoc: './node_modules/.bin/apidoc -c ./apidoc -i ./app/controller -o ./app/public/apidoc',
+        typeorm: 'ts-node ./node_modules/typeorm/cli.js',
+        'check-db-migration': 'export NODE_ENV=test && npm run typeorm schema:drop && npm run typeorm migration:run && npm run typeorm schema:log' },
+     dependencies: 
+      { bull: '^3.10.0',
+        'cls-hooked': '^4.2.2',
+        'co-body': '^6.0.0',
+        'date-fns': '^1.30.1',
+        egg: '^2.6.1',
+        'egg-alinode': '^2.0.1',
+        'egg-aop': '^0.5.3',
+        'egg-bull-queue': '^1.2.1',
+        'egg-controller': '^0.3.28',
+        'egg-cors': '^2.2.0',
+        'egg-passport': '^2.0.1',
+        'egg-redis': '^2.4.0',
+        'egg-request-time': '0.0.1',
+        'egg-scripts': '^2.6.0',
+        'egg-view-pug': '^1.0.0',
+        hashids: '^1.2.2',
+        ioredis: '^4.11.1',
+        jsonwebtoken: '^8.5.1',
+        'koa-ratelimit': '^4.2.0',
+        'lib-qqwry': '^1.3.1',
+        lodash: '^4.17.11',
+        md5: '^2.2.1',
+        ms: '^2.1.2',
+        mysql2: '^1.6.5',
+        'random-picker': '^1.0.0',
+        ratelimiter: '^3.3.0',
+        'reflect-metadata': '^0.1.13',
+        typeorm: '^0.2.18',
+        'typeorm-transactional-cls-hooked': '^0.1.8' },
+     devDependencies: 
+      { '@types/cls-hooked': '^4.3.0',
+        '@types/debug': '^4.1.4',
+        '@types/hashids': '^1.0.30',
+        '@types/ioredis': '^4.0.10',
+        '@types/jsonwebtoken': '^8.3.2',
+        '@types/koa-ratelimit': '^4.1.1',
+        '@types/lodash': '^4.14.123',
+        '@types/md5': '^2.1.33',
+        '@types/mocha': '^2.2.40',
+        '@types/mockdate': '^2.0.0',
+        '@types/ms': '^0.7.30',
+        '@types/node': '^7.10.6',
+        '@types/passport': '^1.0.0',
+        '@types/power-assert': '^1.5.0',
+        '@types/ratelimiter': '^2.1.28',
+        '@types/raven': '^2.5.3',
+        '@types/supertest': '^2.0.0',
+        apidoc: '^0.17.7',
+        autod: '^3.1.0',
+        'autod-egg': '^1.1.0',
+        cheerio: '^1.0.0-rc.3',
+        child_process: '^1.0.2',
+        'egg-bin': '^4.13.1',
+        'egg-ci': '^1.8.0',
+        'egg-mock': '^3.22.4',
+        handlebars: '^4.1.2',
+        mockdate: '^2.0.2',
+        'ts-node': '^8.1.0',
+        tslib: '^1.9.0',
+        tslint: '^5.18.0',
+        'tslint-config-egg': '^1.0.0',
+        typescript: '^3.3.4000' },
+     engines: { node: '>=10.0.0' },
+     ci: { version: '8' },
+     repository: { type: 'git', url: '' },
+     eslintIgnore: [ 'coverage' ],
+     license: 'MIT' },
+  baseDir: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery',
+  HOME: '/Users/renge',
+  rundir: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/run',
+  dump: 
+   { ignore: 
+      Set {
+        'pass',
+        'pwd',
+        'passd',
+        'passwd',
+        'password',
+        'keys',
+        'masterKey',
+        'accessKey',
+        /secret/i } },
+  confusedConfigurations: 
+   { bodyparser: 'bodyParser',
+     notFound: 'notfound',
+     sitefile: 'siteFile',
+     middlewares: 'middleware',
+     httpClient: 'httpclient' },
+  notfound: { pageUrl: '' },
+  siteFile: { '/favicon.ico': <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 00 ca 00 00 00 ca 08 06 00 00 00 e4 65 df a8 00 00 00 01 73 52 47 42 00 ae ce 1c e9 00 00 18 f9 ... > },
+  bodyParser: 
+   { enable: true,
+     encoding: 'utf8',
+     formLimit: '1mb',
+     jsonLimit: '1mb',
+     textLimit: '1mb',
+     strict: true,
+     queryString: { arrayLimit: 100, depth: 5, parameterLimit: 1000 },
+     onerror: undefined,
+     detectJSON: undefined,
+     returnRawBody: true },
+  logger: 
+   { dir: '/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/cyan-lottery',
+     encoding: 'utf8',
+     env: 'local',
+     level: 'DEBUG',
+     consoleLevel: 'DEBUG',
+     disableConsoleAfterReady: false,
+     outputJSON: false,
+     buffer: true,
+     appLogName: 'cyan-lottery-web.log',
+     coreLogName: 'egg-web.log',
+     agentLogName: 'egg-agent.log',
+     errorLogName: 'common-error.log',
+     coreLogger: { consoleLevel: 'WARN' },
+     allowDebugAtProd: true,
+     type: 'application' },
+  httpclient: 
+   { enableDNSCache: false,
+     dnsCacheLookupInterval: 10000,
+     dnsCacheMaxLength: 1000,
+     request: { timeout: 5000 },
+     httpAgent: 
+      { keepAlive: true,
+        freeSocketTimeout: 4000,
+        maxSockets: 9007199254740991,
+        maxFreeSockets: 256 },
+     httpsAgent: 
+      { keepAlive: true,
+        freeSocketTimeout: 4000,
+        maxSockets: 9007199254740991,
+        maxFreeSockets: 256 } },
+  meta: { enable: true, logging: false },
+  coreMiddleware: 
+   [ 'meta',
+     'siteFile',
+     'notfound',
+     'static',
+     'bodyParser',
+     'overrideMethod',
+     'session',
+     'securities',
+     'i18n',
+     'eggLoaderTrace' ],
+  workerStartTimeout: 600000,
+  serverTimeout: null,
+  cluster: { listen: { path: '', port: 7001, hostname: '' } },
+  clusterClient: { maxWaitTime: 60000, responseTimeout: 60000 },
+  onClientError: null,
+  middleware: [ 'requestLog' ],
+  alinode: { enable: false, appid: '', secret: '' },
+  hsahids: { salt: 'aDW9fWz3Y3WCM3P' },
+  typeormConnections: 
+   { type: 'mysql',
+     logging: 'all',
+     port: 3306,
+     synchronize: false,
+     logger: SqlDebugLogger { options: 'all' },
+     entities: [ 'app/entity/**/*.ts' ],
+     subscribers: [ 'app/subscriber/**/*.ts' ],
+     charset: 'utf8mb4',
+     maxQueryExecutionTime: 100,
+     connectTimeout: 1000,
+     trace: true,
+     extra: { connectionLimit: 5 },
+     replication: { master: [Object], slaves: [Array] } },
+  passportJwt: { secret: '6xdaDW9fWz3Y3WCM3Pc7aEYji7EUu9b74' },
+  sourceUrl: 'https://github.com/eggjs/examples/tree/master/cyan-lottery',
+  coreMiddlewares: 
+   [ 'meta',
+     'siteFile',
+     'notfound',
+     'static',
+     'bodyParser',
+     'overrideMethod',
+     'session',
+     'securities',
+     'i18n',
+     'eggLoaderTrace' ],
+  appMiddlewares: [ 'requestLog' ],
+  appMiddleware: [ 'requestLog' ],
+  multipartParseOptions: 
+   { autoFields: false,
+     defCharset: 'utf8',
+     limits: 
+      { fieldNameSize: 100,
+        fieldSize: 102400,
+        fields: 10,
+        fileSize: 10485760,
+        files: 10 },
+     checkFile: [Function: checkFile] } }
+2020-03-11 17:20:14,183 ERROR 41132 [-/127.0.0.1/-/30ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=wechat] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at WechatService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/wechat.ts:9:102)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:27:42)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41132
+hostname: cyan.local
+
+2020-03-11 17:25:23,655 INFO 41165 [-/127.0.0.1/-/4ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] begin
+2020-03-11 17:25:23,662 INFO 41165 [-/127.0.0.1/-/11ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider qq
+2020-03-11 17:25:23,676 ERROR 41165 [-/127.0.0.1/-/13ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:8:97)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:30:38)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41165
+hostname: cyan.local
+
+2020-03-11 17:25:26,504 INFO 41165 [-/127.0.0.1/-/0ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] begin
+2020-03-11 17:25:26,506 INFO 41165 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider qq
+2020-03-11 17:25:26,507 ERROR 41165 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:8:97)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:30:38)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41165
+hostname: cyan.local
+
+2020-03-11 17:25:27,615 INFO 41165 [-/127.0.0.1/-/1ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] begin
+2020-03-11 17:25:27,616 INFO 41165 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider qq
+2020-03-11 17:25:27,617 ERROR 41165 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.TypeError: Cannot read property 'appid' of undefined
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:8:97)
+    at AuthorizationService.authProcess (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Authorization.ts:30:38)
+    at AuthorizationController.index (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/controller/api/authorizations.ts:34:45)
+    at Object.<anonymous> (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-controller@0.3.36@egg-controller/lib/route.js:89:62)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_tslib@1.10.0@tslib/tslib.js:107:62)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41165
+hostname: cyan.local
+
+2020-03-11 17:26:06,668 INFO 41173 [-/127.0.0.1/-/7ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] begin
+2020-03-11 17:26:06,680 INFO 41173 [-/127.0.0.1/-/20ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider qq
+2020-03-11 17:26:06,805 WARN 41173 [-/127.0.0.1/-/144ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.BadRequestError: Bad Request
+    at Object.throw (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_koa@2.11.0@koa/lib/context.js:97:11)
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:13:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: "Bad Request"
+data: {"errcode":40029,"errmsg":"","openid":"","session_key":"","uin":"","unionid":""}
+headers: {"date":"Wed, 11 Mar 2020 09:26:07 GMT","content-type":"application/json; charset=utf-8","content-length":"80","connection":"keep-alive","x-powered-by":"TSW/Node.js","server":"TSW/1.2.3","cache-control":"no-cache","vary":"Origin, Accept","mod-map":"sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js"}
+res: {"status":200,"statusCode":200,"statusMessage":"OK","headers":{"date":"Wed, 11 Mar 2020 09:26:07 GMT","content-type":"application/json; charset=utf-8","content-length":"80","connection":"keep-alive","x-powered-by":"TSW/Node.js","server":"TSW/1.2.3","cache-control":"no-cache","vary":"Origin, Accept","mod-map":"sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js"},"size":80,"aborted":false,"rt":108,"keepAliveSocket":false,"data":{"errcode":40029,"errmsg":"","openid":"","session_key":"","uin":"","unionid":""},"requestUrls":["https://api.q.qq.com/sns/jscode2session?appid=1110229400&secret=secret=oYrjFt1akOhDIr1S&js_code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&grant_type=authorization_code"],"timing":null,"remoteAddress":"183.3.226.68","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":1}
+pid: 41173
+hostname: cyan.local
+
+2020-03-11 17:26:08,656 INFO 41173 [-/127.0.0.1/-/1ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] begin
+2020-03-11 17:26:08,657 INFO 41173 [-/127.0.0.1/-/2ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider qq
+2020-03-11 17:26:08,691 WARN 41173 [-/127.0.0.1/-/35ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.BadRequestError: Bad Request
+    at Object.throw (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_koa@2.11.0@koa/lib/context.js:97:11)
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:13:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: "Bad Request"
+data: {"errcode":40029,"errmsg":"","openid":"","session_key":"","uin":"","unionid":""}
+headers: {"date":"Wed, 11 Mar 2020 09:26:08 GMT","content-type":"application/json; charset=utf-8","content-length":"80","connection":"keep-alive","x-powered-by":"TSW/Node.js","server":"TSW/1.2.3","cache-control":"no-cache","vary":"Origin, Accept","mod-map":"sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js"}
+res: {"status":200,"statusCode":200,"statusMessage":"OK","headers":{"date":"Wed, 11 Mar 2020 09:26:08 GMT","content-type":"application/json; charset=utf-8","content-length":"80","connection":"keep-alive","x-powered-by":"TSW/Node.js","server":"TSW/1.2.3","cache-control":"no-cache","vary":"Origin, Accept","mod-map":"sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js"},"size":80,"aborted":false,"rt":32,"keepAliveSocket":true,"data":{"errcode":40029,"errmsg":"","openid":"","session_key":"","uin":"","unionid":""},"requestUrls":["https://api.q.qq.com/sns/jscode2session?appid=1110229400&secret=secret=oYrjFt1akOhDIr1S&js_code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&grant_type=authorization_code"],"timing":null,"remoteAddress":"183.3.226.68","remotePort":443,"socketHandledRequests":2,"socketHandledResponses":2}
+pid: 41173
+hostname: cyan.local
+
+2020-03-11 17:27:15,856 INFO 41188 [-/127.0.0.1/-/6ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] begin
+2020-03-11 17:27:15,868 INFO 41188 [-/127.0.0.1/-/19ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] 授权Code 011hkNOD1PN8P80GPPOD1taWOD1hkNOI provider qq
+2020-03-11 17:27:15,869 INFO 41188 [-/127.0.0.1/-/20ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] https://api.q.qq.com/sns/jscode2session?appid=1110229400&secret=secret=oYrjFt1akOhDIr1S&js_code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&grant_type=authorization_code
+2020-03-11 17:27:16,002 WARN 41188 [-/127.0.0.1/-/153ms GET /api/v1/authorizations?code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&provider=qq] nodejs.BadRequestError: Bad Request
+    at Object.throw (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_koa@2.11.0@koa/lib/context.js:97:11)
+    at QqService.login (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/service/Qq.ts:14:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: "Bad Request"
+data: {"errcode":40029,"errmsg":"","openid":"","session_key":"","uin":"","unionid":""}
+headers: {"date":"Wed, 11 Mar 2020 09:27:16 GMT","content-type":"application/json; charset=utf-8","content-length":"80","connection":"keep-alive","x-powered-by":"TSW/Node.js","server":"TSW/1.2.3","cache-control":"no-cache","vary":"Origin, Accept","mod-map":"sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js"}
+res: {"status":200,"statusCode":200,"statusMessage":"OK","headers":{"date":"Wed, 11 Mar 2020 09:27:16 GMT","content-type":"application/json; charset=utf-8","content-length":"80","connection":"keep-alive","x-powered-by":"TSW/Node.js","server":"TSW/1.2.3","cache-control":"no-cache","vary":"Origin, Accept","mod-map":"sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js"},"size":80,"aborted":false,"rt":118,"keepAliveSocket":false,"data":{"errcode":40029,"errmsg":"","openid":"","session_key":"","uin":"","unionid":""},"requestUrls":["https://api.q.qq.com/sns/jscode2session?appid=1110229400&secret=secret=oYrjFt1akOhDIr1S&js_code=011hkNOD1PN8P80GPPOD1taWOD1hkNOI&grant_type=authorization_code"],"timing":null,"remoteAddress":"183.3.226.68","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":1}
+pid: 41188
+hostname: cyan.local
+
+2020-03-11 17:30:04,019 INFO 41218 [-/127.0.0.1/-/4ms GET /api/v1/authorizations?code=95c1e2ee7dca0897838550f79c54e320&provider=qq] begin
+2020-03-11 17:30:04,027 INFO 41218 [-/127.0.0.1/-/12ms GET /api/v1/authorizations?code=95c1e2ee7dca0897838550f79c54e320&provider=qq] 授权Code 95c1e2ee7dca0897838550f79c54e320 provider qq
+2020-03-11 17:30:04,484 INFO 41218 [-/127.0.0.1/-/469ms GET /api/v1/authorizations?code=95c1e2ee7dca0897838550f79c54e320&provider=qq] 授权返回
+2020-03-11 17:30:04,642 ERROR 41218 [-/127.0.0.1/-/570ms GET /api/v1/authorizations?code=95c1e2ee7dca0897838550f79c54e320&provider=qq] nodejs.QueryFailedError: Data too long for column 'openid' at row 1
+    at new QueryFailedError (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.Connection.packetParser.p [as onPacket] (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.Connection.stream.on.data (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+message: "Data too long for column 'openid' at row 1"
+code: "ER_DATA_TOO_LONG"
+errno: 1406
+sqlState: "22001"
+sqlMessage: "Data too long for column 'openid' at row 1"
+name: "QueryFailedError"
+query: "INSERT INTO `authorization`(`id`, `provider`, `openid`, `userId`, `province`, `city`, `country`, `createdAt`, `updatedAt`) VALUES (DEFAULT, ?, ?, ?, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT)"
+parameters: ["qq","872C3C2825EBC7F8748ED6066B0B7C3D",1]
+pid: 41218
+hostname: cyan.local
+
+2020-03-11 17:33:32,482 INFO 41344 [-/127.0.0.1/-/5ms GET /api/v1/authorizations?code=3093c6a3502024ce3c8a5f5026492d03&provider=qq] begin
+2020-03-11 17:33:32,490 INFO 41344 [-/127.0.0.1/-/13ms GET /api/v1/authorizations?code=3093c6a3502024ce3c8a5f5026492d03&provider=qq] 授权Code 3093c6a3502024ce3c8a5f5026492d03 provider qq
+2020-03-11 17:33:32,688 INFO 41344 [-/127.0.0.1/-/209ms GET /api/v1/authorizations?code=3093c6a3502024ce3c8a5f5026492d03&provider=qq] 授权返回 { data: 
+   { errcode: 0,
+     errmsg: '',
+     openid: '872C3C2825EBC7F8748ED6066B0B7C3D',
+     session_key: 'dHV2TFpTYmVmemlsQ2xKdQ==',
+     uin: '',
+     unionid: '' },
+  status: 200,
+  headers: 
+   { date: 'Wed, 11 Mar 2020 09:33:32 GMT',
+     'content-type': 'application/json; charset=utf-8',
+     'content-length': '132',
+     connection: 'keep-alive',
+     'x-powered-by': 'TSW/Node.js',
+     server: 'TSW/1.2.3',
+     'cache-control': 'no-cache',
+     vary: 'Origin, Accept',
+     'mod-map': 'sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js' },
+  res: 
+   { status: 200,
+     statusCode: 200,
+     statusMessage: 'OK',
+     headers: 
+      { date: 'Wed, 11 Mar 2020 09:33:32 GMT',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '132',
+        connection: 'keep-alive',
+        'x-powered-by': 'TSW/Node.js',
+        server: 'TSW/1.2.3',
+        'cache-control': 'no-cache',
+        vary: 'Origin, Accept',
+        'mod-map': 'sns_jscode2session:/data/release/node_modules/api.q.qq.com/config/../cgi/sns.js' },
+     size: 132,
+     aborted: false,
+     rt: 191,
+     keepAliveSocket: false,
+     data: 
+      { errcode: 0,
+        errmsg: '',
+        openid: '872C3C2825EBC7F8748ED6066B0B7C3D',
+        session_key: 'dHV2TFpTYmVmemlsQ2xKdQ==',
+        uin: '',
+        unionid: '' },
+     requestUrls: [ 'https://api.q.qq.com/sns/jscode2session?appid=1110229400&secret=secret=oYrjFt1akOhDIr1S&js_code=3093c6a3502024ce3c8a5f5026492d03&grant_type=authorization_code' ],
+     timing: null,
+     remoteAddress: '183.3.226.68',
+     remotePort: 443,
+     socketHandledRequests: 1,
+     socketHandledResponses: 1 } }
+2020-03-11 17:33:32,753 INFO 41344 [-/127.0.0.1/-/276ms GET /api/v1/authorizations?code=3093c6a3502024ce3c8a5f5026492d03&provider=qq] end 200
+2020-03-26 14:43:03,438 INFO 31180 [-/127.0.0.1/-/4ms GET /api/v1/authorizations?code=1&provider=test] begin
+2020-03-26 14:43:03,445 INFO 31180 [-/127.0.0.1/-/11ms GET /api/v1/authorizations?code=1&provider=test] 授权Code 1 provider test
+2020-03-26 14:43:03,522 INFO 31180 [-/127.0.0.1/-/88ms GET /api/v1/authorizations?code=1&provider=test] end 200
+2020-03-26 14:47:50,925 INFO 31180 [-/127.0.0.1/-/20ms POST /api/v1/user_results] begin
+2020-03-26 14:47:50,928 DEBUG 31180 [-/127.0.0.1/-/22ms POST /api/v1/user_results] { uid: 'V4L7MKGWY',
+  t: '875904',
+  iat: 1585204983,
+  exp: 1585291383 }
+2020-03-26 14:47:51,040 ERROR 31180 [3/127.0.0.1/-/73ms POST /api/v1/user_results] nodejs.QueryFailedError: Unknown column 'Question.displayRule' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.Connection.packetParser.p [as onPacket] (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.Connection.stream.on.data (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:266:12)
+message: "Unknown column 'Question.displayRule' in 'field list'"
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlState: "42S22"
+sqlMessage: "Unknown column 'Question.displayRule' in 'field list'"
+name: "QueryFailedError"
+query: "SELECT `Question`.`id` AS `Question_id`, `Question`.`title` AS `Question_title`, `Question`.`image` AS `Question_image`, `Question`.`thumbnail` AS `Question_thumbnail`, `Question`.`description` AS `Question_description`, `Question`.`options` AS `Question_options`, `Question`.`typeKey` AS `Question_typeKey`, `Question`.`state` AS `Question_state`, `Question`.`result` AS `Question_result`, `Question`.`rule` AS `Question_rule`, `Question`.`sort` AS `Question_sort`, `Question`.`displayRule` AS `Question_displayRule`, `Question`.`createdAt` AS `Question_createdAt`, `Question`.`updatedAt` AS `Question_updatedAt` FROM `question` `Question` WHERE `Question`.`id` = ? LIMIT 1"
+parameters: [1]
+pid: 31180
+hostname: cyan.local
+
+2020-03-26 14:49:21,956 INFO 31268 [-/127.0.0.1/-/13ms POST /api/v1/user_results] begin
+2020-03-26 14:49:21,960 DEBUG 31268 [-/127.0.0.1/-/17ms POST /api/v1/user_results] { uid: 'V4L7MKGWY',
+  t: '875904',
+  iat: 1585204983,
+  exp: 1585291383 }
+2020-03-26 14:49:22,066 INFO 31268 [3/127.0.0.1/-/123ms POST /api/v1/user_results] end 200
+2020-03-26 14:51:11,564 INFO 31592 [-/127.0.0.1/-/16ms POST /api/v1/questions/1] begin
+2020-03-26 14:51:11,565 INFO 31592 [-/127.0.0.1/-/17ms POST /api/v1/questions/1] end 404
+2020-03-26 14:51:15,446 INFO 31592 [-/127.0.0.1/-/1ms POST /api/v1/question/1] begin
+2020-03-26 14:51:15,446 INFO 31592 [-/127.0.0.1/-/1ms POST /api/v1/question/1] end 404
+2020-03-26 14:51:35,662 INFO 31592 [-/127.0.0.1/-/2ms POST /api/v1/questions/1] begin
+2020-03-26 14:51:35,662 INFO 31592 [-/127.0.0.1/-/2ms POST /api/v1/questions/1] end 404
+2020-03-26 14:52:03,373 INFO 31592 [-/127.0.0.1/-/1ms POST /api/v1/questions/1] begin
+2020-03-26 14:52:03,373 INFO 31592 [-/127.0.0.1/-/1ms POST /api/v1/questions/1] end 404
+2020-03-26 14:52:16,282 INFO 31592 [-/127.0.0.1/-/1ms GET /api/v1/questions/1] begin
+2020-03-26 14:52:16,318 INFO 31592 [-/127.0.0.1/-/37ms GET /api/v1/questions/1] end 200
+2020-03-26 15:12:24,997 INFO 32023 [-/127.0.0.1/-/16ms GET /api/v1/questions/1] begin
+2020-03-26 15:12:25,030 INFO 32023 [-/127.0.0.1/-/50ms GET /api/v1/questions/1] end 200
+2020-04-09 14:32:43,949 ERROR 12842 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Pool does Not exists.
+    at PoolNamespace.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:34:17)
+    at _cluster._getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:41:21)
+    at node.pool.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:185:18)
+    at connection.connect.err (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool.js:59:18)
+    at PoolConnection.<anonymous> (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:716:13)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:120:20)
+    at PoolConnection.emit (events.js:210:7)
+    at PoolConnection._notifyError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:212:12)
+    at PoolConnection._handleFatalError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:151:10)
+
+pid: 12842
+hostname: cyan.local
+
+2020-04-09 14:33:07,713 ERROR 12886 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Pool does Not exists.
+    at PoolNamespace.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:34:17)
+    at _cluster._getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:41:21)
+    at node.pool.getConnection (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool_cluster.js:185:18)
+    at connection.connect.err (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/pool.js:59:18)
+    at PoolConnection.<anonymous> (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:716:13)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:120:20)
+    at PoolConnection.emit (events.js:210:7)
+    at PoolConnection._notifyError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:212:12)
+    at PoolConnection._handleFatalError (/Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:151:10)
+
+pid: 12886
+hostname: cyan.local
+
+2021-05-04 18:58:37,308 ERROR 40705 [-/127.0.0.1/-/247ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 18:58:37,365 INFO 40705 [-/127.0.0.1/-/304ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] B
+2021-05-04 18:58:37,421 INFO 40705 [-/127.0.0.1/-/360ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] u
+2021-05-04 18:58:37,456 INFO 40705 [-/127.0.0.1/-/395ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] f
+2021-05-04 18:58:37,489 INFO 40705 [-/127.0.0.1/-/428ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] f
+2021-05-04 18:58:37,520 INFO 40705 [-/127.0.0.1/-/459ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] e
+2021-05-04 18:58:37,548 INFO 40705 [-/127.0.0.1/-/487ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] r
+2021-05-04 18:58:37,578 INFO 40705 [-/127.0.0.1/-/517ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 123
+2021-05-04 18:58:37,607 INFO 40705 [-/127.0.0.1/-/545ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:37,639 INFO 40705 [-/127.0.0.1/-/577ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:37,670 INFO 40705 [-/127.0.0.1/-/609ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:37,711 INFO 40705 [-/127.0.0.1/-/650ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:37,752 INFO 40705 [-/127.0.0.1/-/691ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 123
+2021-05-04 18:58:37,793 INFO 40705 [-/127.0.0.1/-/732ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 125
+2021-05-04 18:58:37,832 INFO 40705 [-/127.0.0.1/-/771ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:37,865 INFO 40705 [-/127.0.0.1/-/804ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:37,895 INFO 40705 [-/127.0.0.1/-/834ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:37,921 INFO 40705 [-/127.0.0.1/-/860ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:37,951 INFO 40705 [-/127.0.0.1/-/890ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:37,984 INFO 40705 [-/127.0.0.1/-/923ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 123
+2021-05-04 18:58:38,011 INFO 40705 [-/127.0.0.1/-/950ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 125
+2021-05-04 18:58:38,046 INFO 40705 [-/127.0.0.1/-/985ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:38,083 INFO 40705 [-/127.0.0.1/-/1022ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:38,122 INFO 40705 [-/127.0.0.1/-/1061ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 51
+2021-05-04 18:58:38,171 INFO 40705 [-/127.0.0.1/-/1110ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:38,206 INFO 40705 [-/127.0.0.1/-/1145ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:38,243 INFO 40705 [-/127.0.0.1/-/1182ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 123
+2021-05-04 18:58:38,282 INFO 40705 [-/127.0.0.1/-/1221ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:38,319 INFO 40705 [-/127.0.0.1/-/1258ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 52
+2021-05-04 18:58:38,346 INFO 40705 [-/127.0.0.1/-/1285ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:38,372 INFO 40705 [-/127.0.0.1/-/1311ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:38,407 INFO 40705 [-/127.0.0.1/-/1346ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 55
+2021-05-04 18:58:38,441 INFO 40705 [-/127.0.0.1/-/1380ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:38,471 INFO 40705 [-/127.0.0.1/-/1410ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 55
+2021-05-04 18:58:38,503 INFO 40705 [-/127.0.0.1/-/1442ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:38,530 INFO 40705 [-/127.0.0.1/-/1469ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 51
+2021-05-04 18:58:38,564 INFO 40705 [-/127.0.0.1/-/1503ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:38,599 INFO 40705 [-/127.0.0.1/-/1538ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:38,633 INFO 40705 [-/127.0.0.1/-/1572ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 51
+2021-05-04 18:58:38,663 INFO 40705 [-/127.0.0.1/-/1602ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:38,747 INFO 40705 [-/127.0.0.1/-/1686ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:38,808 INFO 40705 [-/127.0.0.1/-/1747ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 51
+2021-05-04 18:58:38,867 INFO 40705 [-/127.0.0.1/-/1806ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:38,915 INFO 40705 [-/127.0.0.1/-/1854ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:38,958 INFO 40705 [-/127.0.0.1/-/1897ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:38,987 INFO 40705 [-/127.0.0.1/-/1926ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 123
+2021-05-04 18:58:39,016 INFO 40705 [-/127.0.0.1/-/1955ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:39,046 INFO 40705 [-/127.0.0.1/-/1985ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:39,082 INFO 40705 [-/127.0.0.1/-/2021ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:39,125 INFO 40705 [-/127.0.0.1/-/2064ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:39,172 INFO 40705 [-/127.0.0.1/-/2111ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 105
+2021-05-04 18:58:39,221 INFO 40705 [-/127.0.0.1/-/2160ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 118
+2021-05-04 18:58:39,263 INFO 40705 [-/127.0.0.1/-/2202ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:39,299 INFO 40705 [-/127.0.0.1/-/2238ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:39,331 INFO 40705 [-/127.0.0.1/-/2270ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:39,359 INFO 40705 [-/127.0.0.1/-/2298ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:39,398 INFO 40705 [-/127.0.0.1/-/2337ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 114
+2021-05-04 18:58:39,438 INFO 40705 [-/127.0.0.1/-/2377ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 117
+2021-05-04 18:58:39,490 INFO 40705 [-/127.0.0.1/-/2429ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:39,521 INFO 40705 [-/127.0.0.1/-/2460ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:39,554 INFO 40705 [-/127.0.0.1/-/2493ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:39,580 INFO 40705 [-/127.0.0.1/-/2519ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:39,619 INFO 40705 [-/127.0.0.1/-/2558ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 104
+2021-05-04 18:58:39,659 INFO 40705 [-/127.0.0.1/-/2598ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:39,692 INFO 40705 [-/127.0.0.1/-/2631ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 114
+2021-05-04 18:58:39,731 INFO 40705 [-/127.0.0.1/-/2670ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:39,774 INFO 40705 [-/127.0.0.1/-/2713ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:39,807 INFO 40705 [-/127.0.0.1/-/2746ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:39,841 INFO 40705 [-/127.0.0.1/-/2780ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:39,878 INFO 40705 [-/127.0.0.1/-/2817ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:39,908 INFO 40705 [-/127.0.0.1/-/2847ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:40,008 INFO 40705 [-/127.0.0.1/-/2947ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:40,061 INFO 40705 [-/127.0.0.1/-/2999ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 98
+2021-05-04 18:58:40,101 INFO 40705 [-/127.0.0.1/-/3040ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 108
+2021-05-04 18:58:40,148 INFO 40705 [-/127.0.0.1/-/3087ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 111
+2021-05-04 18:58:40,200 INFO 40705 [-/127.0.0.1/-/3139ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:40,237 INFO 40705 [-/127.0.0.1/-/3176ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 107
+2021-05-04 18:58:40,269 INFO 40705 [-/127.0.0.1/-/3208ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:40,301 INFO 40705 [-/127.0.0.1/-/3240ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:40,330 INFO 40705 [-/127.0.0.1/-/3269ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:40,361 INFO 40705 [-/127.0.0.1/-/3300ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:40,385 INFO 40705 [-/127.0.0.1/-/3324ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:40,411 INFO 40705 [-/127.0.0.1/-/3350ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:40,435 INFO 40705 [-/127.0.0.1/-/3374ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 104
+2021-05-04 18:58:40,462 INFO 40705 [-/127.0.0.1/-/3401ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:40,494 INFO 40705 [-/127.0.0.1/-/3433ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:40,521 INFO 40705 [-/127.0.0.1/-/3460ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 104
+2021-05-04 18:58:40,548 INFO 40705 [-/127.0.0.1/-/3487ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:40,576 INFO 40705 [-/127.0.0.1/-/3515ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:40,617 INFO 40705 [-/127.0.0.1/-/3556ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:40,644 INFO 40705 [-/127.0.0.1/-/3583ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:40,667 INFO 40705 [-/127.0.0.1/-/3606ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:40,688 INFO 40705 [-/127.0.0.1/-/3627ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:40,717 INFO 40705 [-/127.0.0.1/-/3656ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:40,757 INFO 40705 [-/127.0.0.1/-/3696ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:40,784 INFO 40705 [-/127.0.0.1/-/3723ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 118
+2021-05-04 18:58:40,808 INFO 40705 [-/127.0.0.1/-/3747ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 103
+2021-05-04 18:58:40,830 INFO 40705 [-/127.0.0.1/-/3769ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 83
+2021-05-04 18:58:40,852 INFO 40705 [-/127.0.0.1/-/3791ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 112
+2021-05-04 18:58:40,889 INFO 40705 [-/127.0.0.1/-/3828ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:40,918 INFO 40705 [-/127.0.0.1/-/3857ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:40,941 INFO 40705 [-/127.0.0.1/-/3880ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 100
+2021-05-04 18:58:40,968 INFO 40705 [-/127.0.0.1/-/3907ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:40,986 INFO 40705 [-/127.0.0.1/-/3925ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:41,004 INFO 40705 [-/127.0.0.1/-/3943ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:41,023 INFO 40705 [-/127.0.0.1/-/3962ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:41,045 INFO 40705 [-/127.0.0.1/-/3984ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:41,060 INFO 40705 [-/127.0.0.1/-/3999ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 100
+2021-05-04 18:58:41,076 INFO 40705 [-/127.0.0.1/-/4015ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 105
+2021-05-04 18:58:41,100 INFO 40705 [-/127.0.0.1/-/4039ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 102
+2021-05-04 18:58:41,124 INFO 40705 [-/127.0.0.1/-/4063ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 102
+2021-05-04 18:58:41,144 INFO 40705 [-/127.0.0.1/-/4083ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:41,181 INFO 40705 [-/127.0.0.1/-/4120ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:41,196 INFO 40705 [-/127.0.0.1/-/4135ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:41,213 INFO 40705 [-/127.0.0.1/-/4152ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:41,232 INFO 40705 [-/127.0.0.1/-/4171ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:41,250 INFO 40705 [-/127.0.0.1/-/4189ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:41,271 INFO 40705 [-/127.0.0.1/-/4210ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:41,293 INFO 40705 [-/127.0.0.1/-/4232ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:41,312 INFO 40705 [-/127.0.0.1/-/4251ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:41,331 INFO 40705 [-/127.0.0.1/-/4270ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 111
+2021-05-04 18:58:41,348 INFO 40705 [-/127.0.0.1/-/4287ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 110
+2021-05-04 18:58:41,468 INFO 40705 [-/127.0.0.1/-/4407ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 110
+2021-05-04 18:58:41,850 INFO 40705 [-/127.0.0.1/-/4789ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:41,892 INFO 40705 [-/127.0.0.1/-/4831ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:41,910 INFO 40705 [-/127.0.0.1/-/4849ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:41,949 INFO 40705 [-/127.0.0.1/-/4888ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 84
+2021-05-04 18:58:41,977 INFO 40705 [-/127.0.0.1/-/4916ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 105
+2021-05-04 18:58:41,993 INFO 40705 [-/127.0.0.1/-/4932ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 109
+2021-05-04 18:58:42,010 INFO 40705 [-/127.0.0.1/-/4949ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:42,026 INFO 40705 [-/127.0.0.1/-/4965ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:42,043 INFO 40705 [-/127.0.0.1/-/4982ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:42,060 INFO 40705 [-/127.0.0.1/-/4999ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:42,076 INFO 40705 [-/127.0.0.1/-/5015ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:42,092 INFO 40705 [-/127.0.0.1/-/5031ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:42,107 INFO 40705 [-/127.0.0.1/-/5046ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:42,122 INFO 40705 [-/127.0.0.1/-/5061ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:42,149 INFO 40705 [-/127.0.0.1/-/5088ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:42,164 INFO 40705 [-/127.0.0.1/-/5103ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:42,182 INFO 40705 [-/127.0.0.1/-/5121ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:42,201 INFO 40705 [-/127.0.0.1/-/5139ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 57
+2021-05-04 18:58:42,219 INFO 40705 [-/127.0.0.1/-/5158ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:42,235 INFO 40705 [-/127.0.0.1/-/5174ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:42,257 INFO 40705 [-/127.0.0.1/-/5196ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:42,282 INFO 40705 [-/127.0.0.1/-/5221ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 51
+2021-05-04 18:58:42,300 INFO 40705 [-/127.0.0.1/-/5239ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:42,322 INFO 40705 [-/127.0.0.1/-/5261ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:42,337 INFO 40705 [-/127.0.0.1/-/5276ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 108
+2021-05-04 18:58:42,354 INFO 40705 [-/127.0.0.1/-/5293ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:42,371 INFO 40705 [-/127.0.0.1/-/5310ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:42,387 INFO 40705 [-/127.0.0.1/-/5326ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:42,406 INFO 40705 [-/127.0.0.1/-/5345ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 67
+2021-05-04 18:58:42,426 INFO 40705 [-/127.0.0.1/-/5365ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 111
+2021-05-04 18:58:42,444 INFO 40705 [-/127.0.0.1/-/5382ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 110
+2021-05-04 18:58:42,462 INFO 40705 [-/127.0.0.1/-/5401ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:42,481 INFO 40705 [-/127.0.0.1/-/5420ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:42,508 INFO 40705 [-/127.0.0.1/-/5447ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:42,529 INFO 40705 [-/127.0.0.1/-/5468ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:42,550 INFO 40705 [-/127.0.0.1/-/5489ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:42,572 INFO 40705 [-/127.0.0.1/-/5511ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:42,591 INFO 40705 [-/127.0.0.1/-/5530ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:42,614 INFO 40705 [-/127.0.0.1/-/5553ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:42,635 INFO 40705 [-/127.0.0.1/-/5574ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:42,658 INFO 40705 [-/127.0.0.1/-/5597ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:42,684 INFO 40705 [-/127.0.0.1/-/5623ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:42,705 INFO 40705 [-/127.0.0.1/-/5644ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:42,726 INFO 40705 [-/127.0.0.1/-/5665ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:42,748 INFO 40705 [-/127.0.0.1/-/5687ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:42,771 INFO 40705 [-/127.0.0.1/-/5710ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 57
+2021-05-04 18:58:42,796 INFO 40705 [-/127.0.0.1/-/5735ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:42,820 INFO 40705 [-/127.0.0.1/-/5759ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:42,841 INFO 40705 [-/127.0.0.1/-/5780ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:42,870 INFO 40705 [-/127.0.0.1/-/5809ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 112
+2021-05-04 18:58:42,892 INFO 40705 [-/127.0.0.1/-/5831ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:42,915 INFO 40705 [-/127.0.0.1/-/5854ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:42,940 INFO 40705 [-/127.0.0.1/-/5879ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:42,970 INFO 40705 [-/127.0.0.1/-/5909ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 119
+2021-05-04 18:58:42,997 INFO 40705 [-/127.0.0.1/-/5936ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 111
+2021-05-04 18:58:43,024 INFO 40705 [-/127.0.0.1/-/5963ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 114
+2021-05-04 18:58:43,064 INFO 40705 [-/127.0.0.1/-/6003ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 100
+2021-05-04 18:58:43,113 INFO 40705 [-/127.0.0.1/-/6052ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:43,160 INFO 40705 [-/127.0.0.1/-/6099ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:43,246 INFO 40705 [-/127.0.0.1/-/6185ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:43,300 INFO 40705 [-/127.0.0.1/-/6239ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 112
+2021-05-04 18:58:43,356 INFO 40705 [-/127.0.0.1/-/6295ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 114
+2021-05-04 18:58:43,494 INFO 40705 [-/127.0.0.1/-/6433ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 111
+2021-05-04 18:58:43,545 INFO 40705 [-/127.0.0.1/-/6484ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 100
+2021-05-04 18:58:43,596 INFO 40705 [-/127.0.0.1/-/6535ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 95
+2021-05-04 18:58:43,624 INFO 40705 [-/127.0.0.1/-/6563ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:43,645 INFO 40705 [-/127.0.0.1/-/6584ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 95
+2021-05-04 18:58:43,672 INFO 40705 [-/127.0.0.1/-/6611ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:43,695 INFO 40705 [-/127.0.0.1/-/6634ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:43,718 INFO 40705 [-/127.0.0.1/-/6657ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:43,750 INFO 40705 [-/127.0.0.1/-/6689ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:43,856 INFO 40705 [-/127.0.0.1/-/6795ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:43,895 INFO 40705 [-/127.0.0.1/-/6834ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 117
+2021-05-04 18:58:43,916 INFO 40705 [-/127.0.0.1/-/6855ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:43,941 INFO 40705 [-/127.0.0.1/-/6879ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:43,984 INFO 40705 [-/127.0.0.1/-/6923ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 114
+2021-05-04 18:58:44,008 INFO 40705 [-/127.0.0.1/-/6947ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:44,033 INFO 40705 [-/127.0.0.1/-/6972ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:44,060 INFO 40705 [-/127.0.0.1/-/6999ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:44,112 INFO 40705 [-/127.0.0.1/-/7050ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:44,152 INFO 40705 [-/127.0.0.1/-/7091ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 120
+2021-05-04 18:58:44,179 INFO 40705 [-/127.0.0.1/-/7118ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:44,209 INFO 40705 [-/127.0.0.1/-/7148ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 67
+2021-05-04 18:58:44,233 INFO 40705 [-/127.0.0.1/-/7172ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 51
+2021-05-04 18:58:44,316 INFO 40705 [-/127.0.0.1/-/7255ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:44,344 INFO 40705 [-/127.0.0.1/-/7283ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 67
+2021-05-04 18:58:44,374 INFO 40705 [-/127.0.0.1/-/7313ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:44,398 INFO 40705 [-/127.0.0.1/-/7337ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:44,425 INFO 40705 [-/127.0.0.1/-/7364ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 68
+2021-05-04 18:58:44,446 INFO 40705 [-/127.0.0.1/-/7385ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 102
+2021-05-04 18:58:44,472 INFO 40705 [-/127.0.0.1/-/7411ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:44,495 INFO 40705 [-/127.0.0.1/-/7434ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 68
+2021-05-04 18:58:44,546 INFO 40705 [-/127.0.0.1/-/7485ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 102
+2021-05-04 18:58:44,582 INFO 40705 [-/127.0.0.1/-/7521ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 102
+2021-05-04 18:58:44,608 INFO 40705 [-/127.0.0.1/-/7547ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 67
+2021-05-04 18:58:44,633 INFO 40705 [-/127.0.0.1/-/7571ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:44,676 INFO 40705 [-/127.0.0.1/-/7615ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:44,706 INFO 40705 [-/127.0.0.1/-/7645ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:44,755 INFO 40705 [-/127.0.0.1/-/7694ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:44,788 INFO 40705 [-/127.0.0.1/-/7727ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:44,815 INFO 40705 [-/127.0.0.1/-/7754ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:44,847 INFO 40705 [-/127.0.0.1/-/7786ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:44,865 INFO 40705 [-/127.0.0.1/-/7804ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:44,884 INFO 40705 [-/127.0.0.1/-/7823ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:44,910 INFO 40705 [-/127.0.0.1/-/7849ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:44,934 INFO 40705 [-/127.0.0.1/-/7873ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 52
+2021-05-04 18:58:45,000 INFO 40705 [-/127.0.0.1/-/7939ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:45,169 INFO 40705 [-/127.0.0.1/-/8108ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:45,199 INFO 40705 [-/127.0.0.1/-/8137ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:45,225 INFO 40705 [-/127.0.0.1/-/8164ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:45,292 INFO 40705 [-/127.0.0.1/-/8231ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:45,321 INFO 40705 [-/127.0.0.1/-/8260ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:45,342 INFO 40705 [-/127.0.0.1/-/8281ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 65
+2021-05-04 18:58:45,369 INFO 40705 [-/127.0.0.1/-/8308ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:45,397 INFO 40705 [-/127.0.0.1/-/8336ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 100
+2021-05-04 18:58:45,421 INFO 40705 [-/127.0.0.1/-/8359ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 100
+2021-05-04 18:58:45,465 INFO 40705 [-/127.0.0.1/-/8404ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:45,494 INFO 40705 [-/127.0.0.1/-/8433ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 65
+2021-05-04 18:58:45,533 INFO 40705 [-/127.0.0.1/-/8472ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 52
+2021-05-04 18:58:45,670 INFO 40705 [-/127.0.0.1/-/8608ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 67
+2021-05-04 18:58:46,092 INFO 40705 [-/127.0.0.1/-/9030ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:47,148 INFO 40705 [-/127.0.0.1/-/10087ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:47,206 INFO 40705 [-/127.0.0.1/-/10145ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:47,309 INFO 40705 [-/127.0.0.1/-/10248ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:47,426 INFO 40705 [-/127.0.0.1/-/10365ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 108
+2021-05-04 18:58:47,798 INFO 40705 [-/127.0.0.1/-/10737ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:48,219 INFO 40705 [-/127.0.0.1/-/11158ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 115
+2021-05-04 18:58:48,242 INFO 40705 [-/127.0.0.1/-/11181ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 116
+2021-05-04 18:58:48,307 INFO 40705 [-/127.0.0.1/-/11246ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 83
+2021-05-04 18:58:48,370 INFO 40705 [-/127.0.0.1/-/11309ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 104
+2021-05-04 18:58:48,433 INFO 40705 [-/127.0.0.1/-/11372ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 97
+2021-05-04 18:58:48,633 INFO 40705 [-/127.0.0.1/-/11572ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 114
+2021-05-04 18:58:48,891 INFO 40705 [-/127.0.0.1/-/11830ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 101
+2021-05-04 18:58:48,913 INFO 40705 [-/127.0.0.1/-/11852ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:48,933 INFO 40705 [-/127.0.0.1/-/11872ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 58
+2021-05-04 18:58:48,958 INFO 40705 [-/127.0.0.1/-/11897ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:49,256 INFO 40705 [-/127.0.0.1/-/12195ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:49,335 INFO 40705 [-/127.0.0.1/-/12274ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:49,635 INFO 40705 [-/127.0.0.1/-/12574ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 48
+2021-05-04 18:58:49,657 INFO 40705 [-/127.0.0.1/-/12596ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 49
+2021-05-04 18:58:49,684 INFO 40705 [-/127.0.0.1/-/12623ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:49,728 INFO 40705 [-/127.0.0.1/-/12667ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:49,751 INFO 40705 [-/127.0.0.1/-/12690ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:49,776 INFO 40705 [-/127.0.0.1/-/12715ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 57
+2021-05-04 18:58:49,806 INFO 40705 [-/127.0.0.1/-/12744ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 54
+2021-05-04 18:58:49,846 INFO 40705 [-/127.0.0.1/-/12785ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 46
+2021-05-04 18:58:49,941 INFO 40705 [-/127.0.0.1/-/12880ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 50
+2021-05-04 18:58:49,972 INFO 40705 [-/127.0.0.1/-/12911ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 56
+2021-05-04 18:58:49,999 INFO 40705 [-/127.0.0.1/-/12938ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 53
+2021-05-04 18:58:50,045 INFO 40705 [-/127.0.0.1/-/12984ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 44
+2021-05-04 18:58:50,090 INFO 40705 [-/127.0.0.1/-/13029ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 34
+2021-05-04 18:58:50,155 INFO 40705 [-/127.0.0.1/-/13094ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 99
+2021-05-04 18:58:50,201 INFO 40705 [-/127.0.0.1/-/13140ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 111
+2021-05-04 18:58:50,249 INFO 40705 [-/127.0.0.1/-/13188ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 105
+2021-05-04 18:58:50,290 INFO 40705 [-/127.0.0.1/-/13229ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] 110
+2021-05-04 19:00:45,526 ERROR 40787 [-/127.0.0.1/-/125ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:01:36,524 ERROR 40843 [-/127.0.0.1/-/52ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:02:04,695 ERROR 40875 [-/127.0.0.1/-/57ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:02:55,108 ERROR 40934 [-/127.0.0.1/-/56ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:03:54,556 ERROR 40992 [-/127.0.0.1/-/49ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:04:32,938 ERROR 41032 [-/127.0.0.1/-/100ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:04:46,440 ERROR 41052 [-/127.0.0.1/-/50ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:05:10,317 ERROR 41079 [-/127.0.0.1/-/57ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:06:51,392 ERROR 41170 [-/127.0.0.1/-/271ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:06:51,960 INFO 41170 [-/127.0.0.1/-/840ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] {
+  "active": true,
+  "shares": 39,
+  "blocks": 32,
+  "hashes": 297420,
+  "avgSpeed": 587.7865612648221,
+  "diff": 10000,
+  "connectTime": 1620125896283,
+  "lastContact": 1620126316,
+  "password": "prod_t_08",
+  "user": "0x8C30Ce5Df8DffC6c652c80014151216A5ddaA4C6",
+  "lastShare": 1620126316.8569999,
+  "coin": "xmr",
+  "pool": "mine.c3pool.com",
+  "id": "421787138132532",
+  "identifier": "prod_t_08",
+  "ip": "172.17.0.1",
+  "agent": "XMRig/6.6.2 (Macintosh; Intel Mac OS X) libuv/1.38.1 clang/10.0.0",
+  "algos": {
+    "cn/1": 1,
+    "cn/2": 1,
+    "cn/r": 1,
+    "cn/fast": 1,
+    "cn/half": 1,
+    "cn/xao": 1,
+    "cn/rto": 1,
+    "cn/rwz": 1,
+    "cn/zls": 1,
+    "cn/double": 1,
+    "cn-lite/1": 1,
+    "cn-heavy/0": 1,
+    "cn-heavy/tube": 1,
+    "cn-heavy/xhv": 1,
+    "cn-pico": 1,
+    "cn-pico/tlo": 1,
+    "cn/ccx": 1,
+    "rx/0": 1,
+    "rx/wow": 1,
+    "rx/arq": 1,
+    "rx/sfx": 1,
+    "rx/keva": 1,
+    "argon2/chukwa": 1,
+    "argon2/chukwav2": 1,
+    "argon2/wrkz": 1,
+    "astrobwt": 1,
+    "kawpow": 1
+  },
+  "logString": "prod_t_08 (172.17.0.1)"
+}
+2021-05-04 19:10:00,100 ERROR 41170 [-/127.0.0.1/-/67ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:10:00,587 INFO 41170 [-/127.0.0.1/-/555ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] {
+  "active": true,
+  "shares": 24,
+  "blocks": 4,
+  "hashes": 24000,
+  "avgSpeed": 558.1395348837209,
+  "diff": 1000,
+  "connectTime": 1620126555404,
+  "lastContact": 1620126596,
+  "password": "prod_t_08",
+  "user": "0x8C30Ce5Df8DffC6c652c80014151216A5ddaA4C6",
+  "lastShare": 1620126596.4369998,
+  "coin": "xmr",
+  "pool": "mine.c3pool.com",
+  "id": "383872367655877",
+  "identifier": "prod_t_08",
+  "ip": "172.17.0.1",
+  "agent": "XMRig/6.6.2 (Macintosh; Intel Mac OS X) libuv/1.38.1 clang/10.0.0",
+  "algos": {
+    "cn/1": 1,
+    "cn/2": 1,
+    "cn/r": 1,
+    "cn/fast": 1,
+    "cn/half": 1,
+    "cn/xao": 1,
+    "cn/rto": 1,
+    "cn/rwz": 1,
+    "cn/zls": 1,
+    "cn/double": 1,
+    "cn-lite/1": 1,
+    "cn-heavy/0": 1,
+    "cn-heavy/tube": 1,
+    "cn-heavy/xhv": 1,
+    "cn-pico": 1,
+    "cn-pico/tlo": 1,
+    "cn/ccx": 1,
+    "rx/0": 1,
+    "rx/wow": 1,
+    "rx/arq": 1,
+    "rx/sfx": 1,
+    "rx/keva": 1,
+    "argon2/chukwa": 1,
+    "argon2/chukwav2": 1,
+    "argon2/wrkz": 1,
+    "astrobwt": 1,
+    "kawpow": 1
+  },
+  "logString": "prod_t_08 (172.17.0.1)"
+}
+2021-05-04 19:10:06,105 ERROR 41207 [-/127.0.0.1/-/118ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] Not Found Block
+2021-05-04 19:10:06,296 INFO 41207 [-/127.0.0.1/-/310ms SCHEDULE /__schedule?path=/Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts&cron=0%20*%2F5%20*%20*%20*%20*&type=all&immediate=true] {
+  "active": true,
+  "shares": 24,
+  "blocks": 4,
+  "hashes": 24000,
+  "avgSpeed": 558.1395348837209,
+  "diff": 1000,
+  "connectTime": 1620126555404,
+  "lastContact": 1620126596,
+  "password": "prod_t_08",
+  "user": "0x8C30Ce5Df8DffC6c652c80014151216A5ddaA4C6",
+  "lastShare": 1620126596.4369998,
+  "coin": "xmr",
+  "pool": "mine.c3pool.com",
+  "id": "383872367655877",
+  "identifier": "prod_t_08",
+  "ip": "172.17.0.1",
+  "agent": "XMRig/6.6.2 (Macintosh; Intel Mac OS X) libuv/1.38.1 clang/10.0.0",
+  "algos": {
+    "cn/1": 1,
+    "cn/2": 1,
+    "cn/r": 1,
+    "cn/fast": 1,
+    "cn/half": 1,
+    "cn/xao": 1,
+    "cn/rto": 1,
+    "cn/rwz": 1,
+    "cn/zls": 1,
+    "cn/double": 1,
+    "cn-lite/1": 1,
+    "cn-heavy/0": 1,
+    "cn-heavy/tube": 1,
+    "cn-heavy/xhv": 1,
+    "cn-pico": 1,
+    "cn-pico/tlo": 1,
+    "cn/ccx": 1,
+    "rx/0": 1,
+    "rx/wow": 1,
+    "rx/arq": 1,
+    "rx/sfx": 1,
+    "rx/keva": 1,
+    "argon2/chukwa": 1,
+    "argon2/chukwav2": 1,
+    "argon2/wrkz": 1,
+    "astrobwt": 1,
+    "kawpow": 1
+  },
+  "logString": "prod_t_08 (172.17.0.1)"
+}

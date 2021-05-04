@@ -1,0 +1,689 @@
+2020-03-11 17:15:57,422 INFO 41094 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:15:57,422 INFO 41094 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:15:57,422 INFO 41094 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:15:58,453 INFO 41093 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40441550ms at 2020-03-12 04:30:00.003
+2020-03-11 17:15:58,453 INFO 41093 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24241547ms at 2020-03-12 00:00:00.000
+2020-03-11 17:15:58,454 INFO 41093 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24242546ms at 2020-03-12 00:00:01.000
+2020-03-11 17:20:01,049 INFO 41107 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:20:01,049 INFO 41107 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:20:01,049 INFO 41107 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:20:12,340 INFO 41129 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40187664ms at 2020-03-12 04:30:00.004
+2020-03-11 17:20:12,341 INFO 41129 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 23987660ms at 2020-03-12 00:00:00.001
+2020-03-11 17:20:12,341 INFO 41129 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23988659ms at 2020-03-12 00:00:01.000
+2020-03-11 17:20:11,968 INFO 41132 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:20:11,968 INFO 41132 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:20:11,968 INFO 41132 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:24:45,864 INFO 41150 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:24:45,864 INFO 41150 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:24:45,864 INFO 41150 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:24:55,041 INFO 41153 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:24:55,041 INFO 41153 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:24:55,041 INFO 41153 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:25:09,084 INFO 41161 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:25:09,084 INFO 41161 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:25:09,084 INFO 41161 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:25:11,380 INFO 41165 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:25:11,381 INFO 41165 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:25:11,381 INFO 41165 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:25:59,082 INFO 41173 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:25:59,082 INFO 41173 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:25:59,082 INFO 41173 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:27:07,526 INFO 41188 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:27:07,526 INFO 41188 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:27:07,526 INFO 41188 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:28:10,263 INFO 41192 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:28:10,263 INFO 41192 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:28:10,263 INFO 41192 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:29:28,743 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:29:28,743 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:29:28,743 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:31:01,383 INFO 41231 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:31:01,383 INFO 41231 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:31:01,383 INFO 41231 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:31:10,051 INFO 41237 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:31:10,051 INFO 41237 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:31:10,051 INFO 41237 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:31:58,010 INFO 41276 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:31:58,010 INFO 41276 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:31:58,010 INFO 41276 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:32:03,361 INFO 41280 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:32:03,361 INFO 41280 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:32:03,361 INFO 41280 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:33:22,126 INFO 41344 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:33:22,126 INFO 41344 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:33:22,126 INFO 41344 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:33:22,476 INFO 41342 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39397528ms at 2020-03-12 04:30:00.004
+2020-03-11 17:33:22,477 INFO 41342 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 23197523ms at 2020-03-12 00:00:00.000
+2020-03-11 17:33:22,477 INFO 41342 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23198523ms at 2020-03-12 00:00:01.000
+2020-03-11 17:34:10,888 INFO 41347 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:34:10,888 INFO 41347 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:34:10,888 INFO 41347 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:34:16,044 INFO 41350 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:34:16,044 INFO 41350 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:34:16,044 INFO 41350 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:34:30,177 INFO 41357 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:34:30,177 INFO 41357 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:34:30,177 INFO 41357 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:34:35,162 INFO 41360 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:34:35,162 INFO 41360 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:34:35,162 INFO 41360 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:42:04,801 INFO 41977 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 17:42:04,801 INFO 41977 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 17:42:04,801 INFO 41977 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-11 17:42:05,155 INFO 41976 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38874847ms at 2020-03-12 04:30:00.002
+2020-03-11 17:42:05,156 INFO 41976 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 22674845ms at 2020-03-12 00:00:00.001
+2020-03-11 17:42:05,156 INFO 41976 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22675844ms at 2020-03-12 00:00:01.000
+2020-03-11 18:04:38,243 INFO 42128 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-11 18:04:38,243 INFO 42128 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-11 18:04:38,243 INFO 42128 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-12 18:53:01,560 INFO 52838 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-12 18:53:01,560 INFO 52838 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-12 18:53:01,560 INFO 52838 [egg-schedule]: register schedule /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-12 18:53:05,045 INFO 52834 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34614958ms at 2020-03-13 04:30:00.003
+2020-03-12 18:53:05,045 INFO 52834 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 18414955ms at 2020-03-13 00:00:00.000
+2020-03-12 18:53:05,045 INFO 52834 [Timer] /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 18415955ms at 2020-03-13 00:00:01.000
+2020-03-26 14:38:46,166 INFO 31136 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49873836ms at 2020-03-27 04:30:00.002
+2020-03-26 14:38:46,167 INFO 31136 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 33673833ms at 2020-03-27 00:00:00.000
+2020-03-26 14:38:46,167 INFO 31136 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33674833ms at 2020-03-27 00:00:01.000
+2020-03-26 14:38:45,277 INFO 31142 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:38:45,277 INFO 31142 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:38:45,277 INFO 31142 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:42:00,246 INFO 31162 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:42:00,246 INFO 31162 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:42:00,246 INFO 31162 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:42:05,429 INFO 31165 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:42:05,429 INFO 31165 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:42:05,429 INFO 31165 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:42:17,202 INFO 31172 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:42:17,202 INFO 31172 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:42:17,202 INFO 31172 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:42:32,798 INFO 31174 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:42:32,798 INFO 31174 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:42:32,798 INFO 31174 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:42:41,038 INFO 31180 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:42:41,038 INFO 31180 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:42:41,038 INFO 31180 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:49:13,246 INFO 31268 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:49:13,246 INFO 31268 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:49:13,246 INFO 31268 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:49:13,597 INFO 31267 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49246406ms at 2020-03-27 04:30:00.003
+2020-03-26 14:49:13,597 INFO 31267 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 33046403ms at 2020-03-27 00:00:00.000
+2020-03-26 14:49:13,598 INFO 31267 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33047402ms at 2020-03-27 00:00:01.000
+2020-03-26 14:50:05,278 INFO 31331 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:50:05,278 INFO 31331 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:50:05,278 INFO 31331 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:50:05,699 INFO 31326 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49194304ms at 2020-03-27 04:30:00.003
+2020-03-26 14:50:05,699 INFO 31326 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 32994301ms at 2020-03-27 00:00:00.000
+2020-03-26 14:50:05,700 INFO 31326 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32995301ms at 2020-03-27 00:00:01.001
+2020-03-26 14:51:10,072 INFO 31592 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 14:51:10,072 INFO 31592 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 14:51:10,072 INFO 31592 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 14:51:10,467 INFO 31591 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49129536ms at 2020-03-27 04:30:00.003
+2020-03-26 14:51:10,468 INFO 31591 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 32929532ms at 2020-03-27 00:00:00.000
+2020-03-26 14:51:10,468 INFO 31591 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32930532ms at 2020-03-27 00:00:01.000
+2020-03-26 15:12:24,097 INFO 32023 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-26 15:12:24,097 INFO 32023 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-03-26 15:12:24,097 INFO 32023 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-26 15:12:24,983 INFO 32022 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47855021ms at 2020-03-27 04:30:00.004
+2020-03-26 15:12:24,983 INFO 32022 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 31655017ms at 2020-03-27 00:00:00.000
+2020-03-26 15:12:24,984 INFO 32022 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31656017ms at 2020-03-27 00:00:01.001
+2020-04-09 14:32:43,072 INFO 12842 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 14:32:43,072 INFO 12842 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-04-09 14:32:43,072 INFO 12842 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 14:33:07,491 INFO 12886 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 14:33:07,491 INFO 12886 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-04-09 14:33:07,491 INFO 12886 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 14:33:52,565 INFO 13070 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50167438ms at 2020-04-10 04:30:00.003
+2020-04-09 14:33:52,566 INFO 13070 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 33967434ms at 2020-04-10 00:00:00.000
+2020-04-09 14:33:52,566 INFO 13070 [Timer] /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33968434ms at 2020-04-10 00:00:01.000
+2020-04-09 14:33:52,203 INFO 13071 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 14:33:52,203 INFO 13071 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-04-09 14:33:52,203 INFO 13071 [egg-schedule]: register schedule /Users/renge/Desktop/cyanTu/cyan-lottery/cyan-lottery/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:04:47,746 INFO 38629 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:04:47,746 INFO 38629 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:04:47,746 INFO 38629 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:04:47,746 INFO 38629 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:04:50,575 INFO 38624 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41109428ms at 2021-05-05 04:30:00.003
+2021-05-04 17:04:50,576 INFO 38624 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24909424ms at 2021-05-05 00:00:00.000
+2021-05-04 17:04:50,576 INFO 38624 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24910424ms at 2021-05-05 00:00:01.000
+2021-05-04 17:04:50,576 INFO 38624 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:04:50,577 DEBUG 38624 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:04:50,577 INFO 38624 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 9423ms at 2021-05-04 17:05:00.000
+2021-05-04 17:04:50,600 DEBUG 38624 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38629
+2021-05-04 17:04:50,578 DEBUG 38629 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:04:50,578 INFO 38629 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:04:50,597 ERROR 38629 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:04:50,597 ERROR 38629 [Job#162011909057625999444923883251] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 18ms
+2021-05-04 17:05:00,001 DEBUG 38624 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:05:00,003 INFO 38624 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299999ms at 2021-05-04 17:10:00.002
+2021-05-04 17:05:00,003 DEBUG 38624 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38629
+2021-05-04 17:05:00,002 DEBUG 38629 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:05:00,002 INFO 38629 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:05:00,003 ERROR 38629 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:05:00,003 ERROR 38629 [Job#162011910000125999539166394112] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 1ms
+2021-05-04 17:06:11,588 INFO 38684 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:06:11,588 INFO 38684 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:06:11,588 INFO 38684 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:06:11,588 INFO 38684 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:06:12,609 INFO 38677 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41027393ms at 2021-05-05 04:30:00.002
+2021-05-04 17:06:12,609 INFO 38677 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24827391ms at 2021-05-05 00:00:00.000
+2021-05-04 17:06:12,610 INFO 38677 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24828391ms at 2021-05-05 00:00:01.001
+2021-05-04 17:06:12,610 INFO 38677 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:06:12,610 DEBUG 38677 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:06:12,610 INFO 38677 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 227390ms at 2021-05-04 17:10:00.000
+2021-05-04 17:06:12,623 DEBUG 38677 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38684
+2021-05-04 17:06:12,611 DEBUG 38684 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:06:12,611 INFO 38684 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:06:12,620 ERROR 38684 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:06:12,620 ERROR 38684 [Job#162011917261026000265248039081] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 8ms
+2021-05-04 17:06:40,911 INFO 38723 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:06:40,912 INFO 38723 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:06:40,912 INFO 38723 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:06:40,912 INFO 38723 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:06:41,408 DEBUG 38723 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:06:41,408 INFO 38723 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:06:41,418 ERROR 38723 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. TypeError: Cannot read property 'get' of undefined
+    at Application.getRedis (/Users/renge/Desktop/mengbao/pact-pool/app/extend/application.ts:12:45)
+    at Object.task (/Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts:12:32)
+    at Messenger.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-schedule@3.6.4@egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:315:20)
+    at Messenger._onMessage (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:327:22)
+    at process.emit (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_source-map-support@0.5.16@source-map-support/source-map-support.js:485:21)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+2021-05-04 17:06:41,419 ERROR 38723 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 10ms
+2021-05-04 17:06:41,406 INFO 38721 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40998597ms at 2021-05-05 04:30:00.003
+2021-05-04 17:06:41,406 INFO 38721 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24798594ms at 2021-05-05 00:00:00.000
+2021-05-04 17:06:41,406 INFO 38721 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24799594ms at 2021-05-05 00:00:01.000
+2021-05-04 17:06:41,406 INFO 38721 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:06:41,407 DEBUG 38721 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:06:41,407 INFO 38721 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 198593ms at 2021-05-04 17:10:00.000
+2021-05-04 17:06:41,420 DEBUG 38721 [Job#162011920140726000553211280721] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38723
+2021-05-04 17:07:53,145 INFO 38787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:07:53,145 INFO 38787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:07:53,145 INFO 38787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:07:53,145 INFO 38787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:07:54,052 DEBUG 38787 [Job#162011927405126001279650569741] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:07:54,052 INFO 38787 [Job#162011927405126001279650569741] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:07:54,086 INFO 38787 [Job#162011927405126001279650569741] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute succeed, used 33ms
+2021-05-04 17:07:54,051 INFO 38780 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40925952ms at 2021-05-05 04:30:00.003
+2021-05-04 17:07:54,051 INFO 38780 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24725949ms at 2021-05-05 00:00:00.000
+2021-05-04 17:07:54,051 INFO 38780 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24726949ms at 2021-05-05 00:00:01.000
+2021-05-04 17:07:54,051 INFO 38780 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:07:54,052 DEBUG 38780 [Job#162011927405126001279650569741] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:07:54,052 INFO 38780 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 125948ms at 2021-05-04 17:10:00.000
+2021-05-04 17:07:54,086 DEBUG 38780 [Job#162011927405126001279650569741] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38787
+2021-05-04 17:09:32,151 INFO 38799 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:09:32,151 INFO 38799 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:09:32,151 INFO 38799 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:09:32,151 INFO 38799 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:09:50,330 INFO 38811 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:09:50,330 INFO 38811 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:09:50,330 INFO 38811 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:09:50,330 INFO 38811 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:10:00,005 DEBUG 38780 [Job#162011940000526002539172780072] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:10:00,008 INFO 38780 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299994ms at 2021-05-04 17:15:00.002
+2021-05-04 17:10:00,029 DEBUG 38780 [Job#162011940000526002539172780072] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38811
+2021-05-04 17:10:00,007 DEBUG 38811 [Job#162011940000526002539172780072] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:10:00,007 INFO 38811 [Job#162011940000526002539172780072] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:10:00,028 INFO 38811 [Job#162011940000526002539172780072] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute succeed, used 20ms
+2021-05-04 17:10:13,175 INFO 38831 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:10:13,175 INFO 38831 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:10:13,175 INFO 38831 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:10:13,175 INFO 38831 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:10:46,705 INFO 38883 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:10:46,705 INFO 38883 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:10:46,705 INFO 38883 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:10:46,705 INFO 38883 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:10:47,256 DEBUG 38883 [Job#162011944725426003011658660911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:10:47,256 INFO 38883 [Job#162011944725426003011658660911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:10:47,276 INFO 38883 [Job#162011944725426003011658660911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute succeed, used 19ms
+2021-05-04 17:10:47,253 INFO 38878 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40752749ms at 2021-05-05 04:30:00.002
+2021-05-04 17:10:47,254 INFO 38878 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24552746ms at 2021-05-05 00:00:00.000
+2021-05-04 17:10:47,254 INFO 38878 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24553746ms at 2021-05-05 00:00:01.000
+2021-05-04 17:10:47,254 INFO 38878 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:10:47,255 DEBUG 38878 [Job#162011944725426003011658660911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:10:47,255 INFO 38878 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 252745ms at 2021-05-04 17:15:00.000
+2021-05-04 17:10:47,277 DEBUG 38878 [Job#162011944725426003011658660911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38883
+2021-05-04 17:11:54,822 INFO 38937 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:11:54,822 INFO 38937 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:11:54,822 INFO 38937 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:11:54,822 INFO 38937 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:11:55,305 DEBUG 38937 [Job#162011951530426003692145647451] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:11:55,305 INFO 38937 [Job#162011951530426003692145647451] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:11:55,322 INFO 38937 [Job#162011951530426003692145647451] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute succeed, used 16ms
+2021-05-04 17:11:55,303 INFO 38932 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40684699ms at 2021-05-05 04:30:00.002
+2021-05-04 17:11:55,303 INFO 38932 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24484697ms at 2021-05-05 00:00:00.000
+2021-05-04 17:11:55,304 INFO 38932 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24485696ms at 2021-05-05 00:00:01.000
+2021-05-04 17:11:55,304 INFO 38932 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:11:55,304 DEBUG 38932 [Job#162011951530426003692145647451] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:11:55,305 INFO 38932 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 184696ms at 2021-05-04 17:15:00.001
+2021-05-04 17:11:55,323 DEBUG 38932 [Job#162011951530426003692145647451] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38937
+2021-05-04 17:12:16,961 INFO 38968 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:12:16,961 INFO 38968 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:12:16,961 INFO 38968 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:12:16,961 INFO 38968 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:12:17,400 DEBUG 38968 [Job#162011953739826003913087196321] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:12:17,400 INFO 38968 [Job#162011953739826003913087196321] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:12:17,416 INFO 38968 [Job#162011953739826003913087196321] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute succeed, used 15ms
+2021-05-04 17:12:17,398 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40662605ms at 2021-05-05 04:30:00.003
+2021-05-04 17:12:17,398 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 24462602ms at 2021-05-05 00:00:00.000
+2021-05-04 17:12:17,398 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24463602ms at 2021-05-05 00:00:01.000
+2021-05-04 17:12:17,398 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 17:12:17,399 DEBUG 38966 [Job#162011953739826003913087196321] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:12:17,399 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 162601ms at 2021-05-04 17:15:00.000
+2021-05-04 17:12:17,419 DEBUG 38966 [Job#162011953739826003913087196321] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#38968
+2021-05-04 17:15:00,003 DEBUG 38966 [Job#162011970000326005539112401232] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:15:00,005 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299997ms at 2021-05-04 17:20:00.002
+2021-05-04 17:20:00,012 DEBUG 38966 [Job#162012000001226008539161158743] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:20:00,013 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299988ms at 2021-05-04 17:25:00.001
+2021-05-04 17:25:00,005 DEBUG 38966 [Job#162012030000426011539058637384] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:25:00,007 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299995ms at 2021-05-04 17:30:00.002
+2021-05-04 17:25:33,538 INFO 39154 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:25:33,538 INFO 39154 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:25:33,538 INFO 39154 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:25:33,538 INFO 39154 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:26:08,920 INFO 39162 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:26:08,920 INFO 39162 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:26:08,920 INFO 39162 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:26:08,920 INFO 39162 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:26:44,323 INFO 39172 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:26:44,323 INFO 39172 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:26:44,323 INFO 39172 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:26:44,323 INFO 39172 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:26:51,563 INFO 39175 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:26:51,563 INFO 39175 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:26:51,563 INFO 39175 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:26:51,563 INFO 39175 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:27:52,543 INFO 39200 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:27:52,543 INFO 39200 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:27:52,543 INFO 39200 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:27:52,543 INFO 39200 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:30:00,010 DEBUG 38966 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:30:00,011 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299990ms at 2021-05-04 17:35:00.001
+2021-05-04 17:30:00,239 DEBUG 38966 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#39200
+2021-05-04 17:30:00,012 DEBUG 39200 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 17:30:00,012 INFO 39200 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 17:30:00,233 ERROR 39200 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. QueryFailedError: Table 'csmaster_local.block' doesn't exist
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  sqlMessage: "Table 'csmaster_local.block' doesn't exist",
+  query: 'INSERT INTO `block`(`id`, `data`, `sign`, `createdAt`) VALUES (DEFAULT, ?, DEFAULT, DEFAULT)',
+  parameters: [
+    '{"type":"Buffer","data":[123,34,49,34,58,123,125,44,34,50,34,58,123,34,53,54,55,56,50,55,52,50,57,48,54,55,56,50,56,34,58,123,34,97,99,116,105,118,101,34,58,116,114,117,101,44,34,115,104,97,114,101,115,34,58,50,50,56,44,34,98,108,111,99,107,115,34,58,50,48,49,44,34,104,97,115,104,101,115,34,58,50,50,57,55,48,54,49,46,56,51,55,57,53,51,57,48,53,44,34,97,118,103,83,112,101,101,100,34,58,54,48,56,46,54,53,52,52,51,53,48,54,57,57,50,55,49,44,34,100,105,102,102,34,58,49,48,48,48,48,44,34,99,111,110,110,101,99,116,84,105,109,101,34,58,49,54,50,48,49,49,54,56,49,54,54,54,50,44,34,108,97,115,116,67,111,110,116,97,99,116,34,58,49,54,50,48,49,50,48,53,57,48,44,34,112,97,115,115,119,111,114,100,34,58,34,112,114,111,100,95,116,95,48,56,34,44,34,117,115,101,114,34,58,34,48,120,56,67,51,48,67,101,53,68,102,56,68,102,102,67,54,99,54,53,50,99,56,48,48,49,52,49,53,49,50,49,54,65,53,100,100,97,65,52,67,54,34,44,34,108,97,115,116,83,104,97,114,101,34,58,49,54,50,48,49,50,48,53,57,48,46,49,51,55,57,57,57,56,44,34,99,111,105,110,34,58,34,120,109,114,34,44,34,112,111,111,108,34,58,34,109,105,110,101,46,99,51,112,111,111,108,46,99,111,109,34,44,34,105,100,34,58,34,53,54,55,56,50,55,52,50,57,48,54,55,56,50,56,34,44,34,105,100,101,110,116,105,102,105,101,114,34,58,34,112,114,111,100,95,116,95,48,56,34,44,34,105,112,34,58,34,49,55,50,46,49,55,46,48,46,49,34,44,34,97,103,101,110,116,34,58,34,88,77,82,105,103,47,54,46,54,46,50,32,40,77,97,99,105,110,116,111,115,104,59,32,73,110,116,101,108,32,77,97,99,32,79,83,32,88,41,32,108,105,98,117,118,47,49,46,51,56,46,49,32,99,108,97,110,103,47,49,48,46,48,46,48,34,44,34,97,108,103,111,115,34,58,123,34,99,110,47,49,34,58,49,44,34,99,110,47,50,34,58,49,44,34,99,110,47,114,34,58,49,44,34,99,110,47,102,97,115,116,34,58,49,44,34,99,110,47,104,97,108,102,34,58,49,44,34,99,110,47,120,97,111,34,58,49,44,34,99,110,47,114,116,111,34,58,49,44,34,99,110,47,114,119,122,34,58,49,44,34,99,110,47,122,108,115,34,58,49,44,34,99,110,47,100,111,117,98,108,101,34,58,49,44,34,99,110,45,108,105,116,101,47,49,34,58,49,44,34,99,110,45,104,101,97,118,121,47,48,34,58,49,44,34,99,110,45,104,101,97,118,121,47,116,117,98,101,34,58,49,44,34,99,110,45,104,101,97,118,121,47,120,104,118,34,58,49,44,34,99,110,45,112,105,99,111,34,58,49,44,34,99,110,45,112,105,99,111,47,116,108,111,34,58,49,44,34,99,110,47,99,99,120,34,58,49,44,34,114,120,47,48,34,58,49,44,34,114,120,47,119,111,119,34,58,49,44,34,114,120,47,97,114,113,34,58,49,44,34,114,120,47,115,102,120,34,58,49,44,34,114,120,47,107,101,118,97,34,58,49,44,34,97,114,103,111,110,50,47,99,104,117,107,119,97,34,58,49,44,34,97,114,103,111,110,50,47,99,104,117,107,119,97,118,50,34,58,49,44,34,97,114,103,111,110,50,47,119,114,107,122,34,58,49,44,34,97,115,116,114,111,98,119,116,34,58,49,44,34,107,97,119,112,111,119,34,58,49,125,44,34,108,111,103,83,116,114,105,110,103,34,58,34,112,114,111,100,95,116,95,48,56,32,40,49,55,50,46,49,55,46,48,46,49,41,34,125,125,44,34,51,34,58,123,125,44,34,52,34,58,123,125,125,13,10]}'
+  ]
+}
+2021-05-04 17:30:00,233 ERROR 39200 [Job#162012060001026014539083735835] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 221ms
+2021-05-04 17:31:02,172 INFO 39222 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:31:02,172 INFO 39222 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:31:02,172 INFO 39222 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:31:02,172 INFO 39222 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 17:35:00,008 DEBUG 38966 [Job#162012090000826017539022668516] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:35:00,009 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299992ms at 2021-05-04 17:40:00.001
+2021-05-04 17:40:00,007 DEBUG 38966 [Job#162012120000626020538972514047] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:40:00,022 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299993ms at 2021-05-04 17:45:00.015
+2021-05-04 17:45:00,028 DEBUG 38966 [Job#162012150002626023539137924078] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:45:00,029 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299972ms at 2021-05-04 17:50:00.001
+2021-05-04 17:50:00,005 DEBUG 38966 [Job#162012180000526026538886114719] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:50:00,008 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299995ms at 2021-05-04 17:55:00.003
+2021-05-04 17:55:00,015 DEBUG 38966 [Job#1620122100011260295389145424710] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 17:55:00,017 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299985ms at 2021-05-04 18:00:00.002
+2021-05-04 18:00:00,007 DEBUG 38966 [Job#1620122400007260325388238271111] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 18:00:00,008 INFO 38966 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 299993ms at 2021-05-04 18:05:00.001
+2021-05-04 18:52:27,251 INFO 40364 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 18:52:27,251 INFO 40364 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 18:52:27,251 INFO 40364 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 18:52:27,251 INFO 40364 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts
+2021-05-04 18:52:31,141 INFO 40360 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34648862ms at 2021-05-05 04:30:00.003
+2021-05-04 18:52:31,141 INFO 40360 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 18448859ms at 2021-05-05 00:00:00.000
+2021-05-04 18:52:31,141 INFO 40360 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 18449859ms at 2021-05-05 00:00:01.000
+2021-05-04 18:52:31,142 INFO 40360 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute immediate
+2021-05-04 18:52:31,142 DEBUG 40360 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts triggered, send all by agent
+2021-05-04 18:52:31,143 INFO 40360 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts next time will execute after 148858ms at 2021-05-04 18:55:00.001
+2021-05-04 18:52:31,145 DEBUG 40364 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts task received by app
+2021-05-04 18:52:31,145 INFO 40364 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts executing by app
+2021-05-04 18:52:31,384 ERROR 40364 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute error. QueryFailedError: Table 'csmaster_local.block' doesn't exist
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  sqlMessage: "Table 'csmaster_local.block' doesn't exist",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T10:52:31.233Z, 2021-05-04T10:52:31.233Z ]
+}
+2021-05-04 18:52:31,385 ERROR 40364 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts execute failed, used 239ms
+2021-05-04 18:52:31,386 DEBUG 40360 [Job#162012555114226064049776645331] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/calculate.ts finish event received by agent from worker#40364
+2021-05-04 18:58:36,166 INFO 40705 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 18:58:36,166 INFO 40705 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 18:58:36,166 INFO 40705 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 18:58:36,166 INFO 40705 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 18:58:37,060 DEBUG 40705 [Job#162012591705926067708904697221] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 18:58:37,060 INFO 40705 [Job#162012591705926067708904697221] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 18:58:37,058 INFO 40701 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34282945ms at 2021-05-05 04:30:00.003
+2021-05-04 18:58:37,059 INFO 40701 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 18082941ms at 2021-05-05 00:00:00.000
+2021-05-04 18:58:37,059 INFO 40701 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 18083941ms at 2021-05-05 00:00:01.000
+2021-05-04 18:58:37,059 INFO 40701 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 18:58:37,059 DEBUG 40701 [Job#162012591705926067708904697221] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 18:58:37,060 INFO 40701 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 82941ms at 2021-05-04 19:00:00.001
+2021-05-04 19:00:41,150 INFO 40787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:00:41,150 INFO 40787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:00:41,150 INFO 40787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:00:41,150 INFO 40787 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:00:45,397 INFO 40785 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34154605ms at 2021-05-05 04:30:00.002
+2021-05-04 19:00:45,397 INFO 40785 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17954603ms at 2021-05-05 00:00:00.000
+2021-05-04 19:00:45,398 INFO 40785 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17955602ms at 2021-05-05 00:00:01.000
+2021-05-04 19:00:45,398 INFO 40785 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:00:45,398 DEBUG 40785 [Job#162012604539826068992276899161] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:00:45,399 INFO 40785 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 254602ms at 2021-05-04 19:05:00.001
+2021-05-04 19:00:45,535 DEBUG 40785 [Job#162012604539826068992276899161] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#40787
+2021-05-04 19:00:45,399 DEBUG 40787 [Job#162012604539826068992276899161] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:00:45,399 INFO 40787 [Job#162012604539826068992276899161] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:00:45,534 INFO 40787 [Job#162012604539826068992276899161] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 134ms
+2021-05-04 19:01:32,381 INFO 40843 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:01:32,381 INFO 40843 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:01:32,381 INFO 40843 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:01:32,381 INFO 40843 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:01:36,469 INFO 40841 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34103533ms at 2021-05-05 04:30:00.002
+2021-05-04 19:01:36,470 INFO 40841 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17903530ms at 2021-05-05 00:00:00.000
+2021-05-04 19:01:36,470 INFO 40841 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17904530ms at 2021-05-05 00:00:01.000
+2021-05-04 19:01:36,470 INFO 40841 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:01:36,471 DEBUG 40841 [Job#162012609647026069502994544241] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:01:36,471 INFO 40841 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 203529ms at 2021-05-04 19:05:00.000
+2021-05-04 19:01:36,532 DEBUG 40841 [Job#162012609647026069502994544241] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#40843
+2021-05-04 19:01:36,472 DEBUG 40843 [Job#162012609647026069502994544241] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:01:36,472 INFO 40843 [Job#162012609647026069502994544241] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:01:36,531 INFO 40843 [Job#162012609647026069502994544241] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 59ms
+2021-05-04 19:01:59,987 INFO 40875 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:01:59,987 INFO 40875 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:01:59,987 INFO 40875 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:01:59,987 INFO 40875 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:02:04,633 INFO 40874 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34075369ms at 2021-05-05 04:30:00.002
+2021-05-04 19:02:04,633 INFO 40874 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17875367ms at 2021-05-05 00:00:00.000
+2021-05-04 19:02:04,634 INFO 40874 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17876367ms at 2021-05-05 00:00:01.001
+2021-05-04 19:02:04,634 INFO 40874 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:02:04,634 DEBUG 40874 [Job#162012612463426069784624672371] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:02:04,634 INFO 40874 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 175366ms at 2021-05-04 19:05:00.000
+2021-05-04 19:02:04,702 DEBUG 40874 [Job#162012612463426069784624672371] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#40875
+2021-05-04 19:02:04,636 DEBUG 40875 [Job#162012612463426069784624672371] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:02:04,636 INFO 40875 [Job#162012612463426069784624672371] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:02:04,701 INFO 40875 [Job#162012612463426069784624672371] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 64ms
+2021-05-04 19:02:54,608 INFO 40934 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:02:54,608 INFO 40934 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:02:54,608 INFO 40934 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:02:54,608 INFO 40934 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:02:55,051 DEBUG 40934 [Job#162012617505026070288776479881] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:02:55,051 INFO 40934 [Job#162012617505026070288776479881] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:02:55,116 INFO 40934 [Job#162012617505026070288776479881] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 65ms
+2021-05-04 19:02:55,049 INFO 40927 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34024954ms at 2021-05-05 04:30:00.003
+2021-05-04 19:02:55,049 INFO 40927 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17824951ms at 2021-05-05 00:00:00.000
+2021-05-04 19:02:55,049 INFO 40927 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17825951ms at 2021-05-05 00:00:01.000
+2021-05-04 19:02:55,049 INFO 40927 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:02:55,050 DEBUG 40927 [Job#162012617505026070288776479881] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:02:55,050 INFO 40927 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 124950ms at 2021-05-04 19:05:00.000
+2021-05-04 19:02:55,118 DEBUG 40927 [Job#162012617505026070288776479881] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#40934
+2021-05-04 19:03:28,852 INFO 40936 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:03:28,852 INFO 40936 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:03:28,852 INFO 40936 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:03:28,852 INFO 40936 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:03:31,304 INFO 40942 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:03:31,304 INFO 40942 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:03:31,304 INFO 40942 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:03:31,304 INFO 40942 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:03:53,894 INFO 40992 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:03:53,894 INFO 40992 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:03:53,894 INFO 40992 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:03:53,894 INFO 40992 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:03:54,505 DEBUG 40992 [Job#162012623450426070883316628571] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:03:54,505 INFO 40992 [Job#162012623450426070883316628571] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:03:54,566 INFO 40992 [Job#162012623450426070883316628571] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 60ms
+2021-05-04 19:03:54,504 INFO 40987 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33965499ms at 2021-05-05 04:30:00.003
+2021-05-04 19:03:54,504 INFO 40987 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17765496ms at 2021-05-05 00:00:00.000
+2021-05-04 19:03:54,504 INFO 40987 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17766496ms at 2021-05-05 00:00:01.000
+2021-05-04 19:03:54,504 INFO 40987 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:03:54,504 DEBUG 40987 [Job#162012623450426070883316628571] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:03:54,505 INFO 40987 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 65495ms at 2021-05-04 19:05:00.000
+2021-05-04 19:03:54,566 DEBUG 40987 [Job#162012623450426070883316628571] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#40992
+2021-05-04 19:04:32,346 INFO 41032 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:04:32,346 INFO 41032 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:04:32,346 INFO 41032 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:04:32,346 INFO 41032 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:04:32,837 DEBUG 41032 [Job#162012627283626071266627547641] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:04:32,837 INFO 41032 [Job#162012627283626071266627547641] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:04:32,945 INFO 41032 [Job#162012627283626071266627547641] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 106ms
+2021-05-04 19:04:32,835 INFO 41031 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33927168ms at 2021-05-05 04:30:00.003
+2021-05-04 19:04:32,835 INFO 41031 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17727165ms at 2021-05-05 00:00:00.000
+2021-05-04 19:04:32,836 INFO 41031 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17728165ms at 2021-05-05 00:00:01.001
+2021-05-04 19:04:32,836 INFO 41031 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:04:32,836 DEBUG 41031 [Job#162012627283626071266627547641] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:04:32,836 INFO 41031 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 27164ms at 2021-05-04 19:05:00.000
+2021-05-04 19:04:32,946 DEBUG 41031 [Job#162012627283626071266627547641] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41032
+2021-05-04 19:04:45,941 INFO 41052 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:04:45,941 INFO 41052 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:04:45,941 INFO 41052 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:04:45,941 INFO 41052 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:04:46,389 DEBUG 41052 [Job#162012628638826071402142161281] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:04:46,389 INFO 41052 [Job#162012628638826071402142161281] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:04:46,448 INFO 41052 [Job#162012628638826071402142161281] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 58ms
+2021-05-04 19:04:46,387 INFO 41051 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33913616ms at 2021-05-05 04:30:00.003
+2021-05-04 19:04:46,387 INFO 41051 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17713613ms at 2021-05-05 00:00:00.000
+2021-05-04 19:04:46,387 INFO 41051 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17714613ms at 2021-05-05 00:00:01.000
+2021-05-04 19:04:46,387 INFO 41051 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:04:46,388 DEBUG 41051 [Job#162012628638826071402142161281] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:04:46,388 INFO 41051 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 13612ms at 2021-05-04 19:05:00.000
+2021-05-04 19:04:46,449 DEBUG 41051 [Job#162012628638826071402142161281] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41052
+2021-05-04 19:05:06,556 INFO 41079 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:05:06,557 INFO 41079 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:05:06,557 INFO 41079 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:05:06,557 INFO 41079 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:05:10,254 INFO 41078 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33889748ms at 2021-05-05 04:30:00.002
+2021-05-04 19:05:10,255 INFO 41078 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17689746ms at 2021-05-05 00:00:00.001
+2021-05-04 19:05:10,255 INFO 41078 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17690745ms at 2021-05-05 00:00:01.000
+2021-05-04 19:05:10,256 INFO 41078 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:05:10,256 DEBUG 41078 [Job#16201263102562607164821028801] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:05:10,257 INFO 41078 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 289744ms at 2021-05-04 19:10:00.001
+2021-05-04 19:05:10,258 DEBUG 41079 [Job#16201263102562607164821028801] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:05:10,258 INFO 41079 [Job#16201263102562607164821028801] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:05:10,323 INFO 41079 [Job#16201263102562607164821028801] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 64ms
+2021-05-04 19:05:10,325 DEBUG 41078 [Job#16201263102562607164821028801] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41079
+2021-05-04 19:06:47,189 INFO 41170 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:06:47,189 INFO 41170 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:06:47,189 INFO 41170 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:06:47,189 INFO 41170 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:06:51,115 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33788889ms at 2021-05-05 04:30:00.004
+2021-05-04 19:06:51,115 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 17588885ms at 2021-05-05 00:00:00.000
+2021-05-04 19:06:51,116 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17589884ms at 2021-05-05 00:00:01.000
+2021-05-04 19:06:51,116 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute immediate
+2021-05-04 19:06:51,117 DEBUG 41165 [Job#162012641111726072649416787911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:06:51,118 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 188883ms at 2021-05-04 19:10:00.001
+2021-05-04 19:06:51,119 DEBUG 41170 [Job#162012641111726072649416787911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:06:51,119 INFO 41170 [Job#162012641111726072649416787911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:06:52,032 DEBUG 41165 [Job#162012641111726072649416787911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41170
+2021-05-04 19:06:52,031 INFO 41170 [Job#162012641111726072649416787911] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 911ms
+2021-05-04 19:10:00,025 DEBUG 41170 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:10:00,025 INFO 41170 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:10:00,007 DEBUG 41165 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:10:00,009 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 299993ms at 2021-05-04 19:15:00.002
+2021-05-04 19:10:01,024 INFO 41170 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 992ms
+2021-05-04 19:10:01,025 DEBUG 41165 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41170
+2021-05-04 19:10:00,728 INFO 41207 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:10:00,728 INFO 41207 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:10:00,728 INFO 41207 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:10:00,728 INFO 41207 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:10:06,417 DEBUG 41165 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41207
+2021-05-04 19:10:05,983 DEBUG 41207 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:10:05,983 INFO 41207 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:10:06,416 INFO 41207 [Job#162012660000626074538293091292] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute succeed, used 430ms
+2021-05-04 19:10:08,640 INFO 41215 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:10:08,640 INFO 41215 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:10:08,640 INFO 41215 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:10:08,640 INFO 41215 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:10:16,485 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:10:16,485 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:10:16,485 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:10:16,485 INFO 41218 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:10:51,141 INFO 41232 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:10:51,141 INFO 41232 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:10:51,141 INFO 41232 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:10:51,141 INFO 41232 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:11:13,539 INFO 41387 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:11:13,539 INFO 41387 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:11:13,539 INFO 41387 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:11:13,539 INFO 41387 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:11:20,861 INFO 41390 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:11:20,861 INFO 41390 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:11:20,861 INFO 41390 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:11:20,861 INFO 41390 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:11:25,589 INFO 41391 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:11:25,589 INFO 41391 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:11:25,589 INFO 41391 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:11:25,589 INFO 41391 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:12:40,667 INFO 41400 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:12:40,667 INFO 41400 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:12:40,667 INFO 41400 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:12:40,667 INFO 41400 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:15:00,014 DEBUG 41165 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:15:00,015 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 299986ms at 2021-05-04 19:20:00.001
+2021-05-04 19:15:00,014 DEBUG 41400 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:15:00,014 INFO 41400 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:15:00,506 ERROR 41400 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute error. QueryFailedError: Unknown column 'Block.totalHash' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'Block.totalHash' in 'field list'",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`totalHash` AS `Block_totalHash`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T11:15:00.039Z, 2021-05-04T11:15:00.039Z ]
+}
+2021-05-04 19:15:00,537 ERROR 41400 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute failed, used 491ms
+2021-05-04 19:15:00,539 DEBUG 41165 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41400
+2021-05-04 19:14:57,132 INFO 41582 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:14:57,132 INFO 41582 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:14:57,132 INFO 41582 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:14:57,132 INFO 41582 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:15:02,202 DEBUG 41165 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41582
+2021-05-04 19:15:01,943 DEBUG 41582 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:15:01,943 INFO 41582 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:15:02,198 ERROR 41582 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute error. QueryFailedError: Unknown column 'Block.totalHash' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'Block.totalHash' in 'field list'",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`totalHash` AS `Block_totalHash`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T11:15:02.036Z, 2021-05-04T11:15:02.036Z ]
+}
+2021-05-04 19:15:02,201 ERROR 41582 [Job#162012690000826077538269412303] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute failed, used 254ms
+2021-05-04 19:16:32,806 INFO 41759 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:16:32,806 INFO 41759 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:16:32,806 INFO 41759 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:16:32,806 INFO 41759 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:16:47,867 INFO 41764 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:16:47,867 INFO 41764 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:16:47,867 INFO 41764 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:16:47,867 INFO 41764 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:18:11,420 INFO 41921 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:18:11,420 INFO 41921 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:18:11,420 INFO 41921 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:18:11,420 INFO 41921 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:18:18,711 INFO 41928 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:18:18,711 INFO 41928 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:18:18,711 INFO 41928 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:18:18,711 INFO 41928 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:18:32,881 INFO 41940 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 19:18:32,881 INFO 41940 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-04 19:18:32,881 INFO 41940 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 19:18:32,881 INFO 41940 [egg-schedule]: register schedule /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts
+2021-05-04 19:20:00,006 DEBUG 41165 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:20:00,008 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 299994ms at 2021-05-04 19:25:00.002
+2021-05-04 19:20:00,008 DEBUG 41940 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts task received by app
+2021-05-04 19:20:00,008 INFO 41940 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts executing by app
+2021-05-04 19:20:00,139 ERROR 41940 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute error. QueryFailedError: Unknown column 'Block.totalHash' in 'field list'
+    at new QueryFailedError (/Users/renge/Desktop/mengbao/pact-pool/src/error/QueryFailedError.ts:9:9)
+    at Query.onResult (/Users/renge/Desktop/mengbao/pact-pool/src/driver/mysql/MysqlQueryRunner.ts:167:37)
+    at Query.execute (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/commands/command.js:30:14)
+    at PoolConnection.handlePacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:408:32)
+    at PacketParser.onPacket (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:70:12)
+    at PacketParser.executeStart (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/renge/Desktop/mengbao/pact-pool/node_modules/_mysql2@1.7.0@mysql2/lib/connection.js:77:25)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'Block.totalHash' in 'field list'",
+  query: 'SELECT `Block`.`id` AS `Block_id`, `Block`.`data` AS `Block_data`, `Block`.`sign` AS `Block_sign`, `Block`.`totalHash` AS `Block_totalHash`, `Block`.`createdAt` AS `Block_createdAt` FROM `block` `Block` WHERE `Block`.`createdAt` BETWEEN ? AND ? ORDER BY `Block`.`createdAt` DESC LIMIT 10',
+  parameters: [ 2021-05-03T11:20:00.036Z, 2021-05-04T11:20:00.036Z ]
+}
+2021-05-04 19:20:00,146 ERROR 41940 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts execute failed, used 130ms
+2021-05-04 19:20:00,147 DEBUG 41165 [Job#162012720000526080538207360144] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts finish event received by agent from worker#41940
+2021-05-04 19:25:00,007 DEBUG 41165 [Job#162012750000726083538181759305] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:25:00,009 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 299993ms at 2021-05-04 19:30:00.002
+2021-05-04 19:30:00,011 DEBUG 41165 [Job#162012780001026086538178029476] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts triggered, send all by agent
+2021-05-04 19:30:00,013 INFO 41165 [Timer] /Users/renge/Desktop/mengbao/pact-pool/app/schedule/Calculate.ts next time will execute after 299989ms at 2021-05-04 19:35:00.002

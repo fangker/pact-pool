@@ -1,0 +1,9 @@
+{
+  "UserController": [
+    {
+      "url": "GET /api/v1/user",
+      "function": "UserController -> index",
+      "path": "/Users/renge/Desktop/mengbao/pact-pool/app/controller/api/user.ts"
+    }
+  ]
+}

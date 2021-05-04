@@ -1,0 +1,31 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/",
+    "regexp": "/^(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/v1/user",
+    "regexp": "/^\\/api\\/v1\\/user(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "anonymous",
+      "anonymous",
+      "wrappedController"
+    ]
+  }
+]

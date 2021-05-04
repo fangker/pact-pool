@@ -1,0 +1,46 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "cyan-lottery",
+    "version": "1.0.1",
+    "contact": {}
+  },
+  "paths": {
+    "/api/v1/user": {
+      "get": {
+        "operationId": "index",
+        "tags": [
+          "UserController"
+        ],
+        "responses": {
+          "default": {
+            "description": "default",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {},
+    "responses": {},
+    "parameters": {},
+    "examples": {},
+    "requestBodies": {},
+    "headers": {},
+    "securitySchemes": {},
+    "links": {},
+    "callbacks": {}
+  },
+  "tags": [
+    {
+      "name": "UserController",
+      "description": "question_find"
+    }
+  ],
+  "servers": []
+}

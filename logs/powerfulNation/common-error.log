@@ -1,0 +1,9 @@
+2020-03-10 13:39:47,151 ERROR 11012 nodejs.ClusterClientNoResponseError: client no response in 2046691ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: "ClusterClientNoResponseError"
+pid: 11012
+hostname: cyan.local
+

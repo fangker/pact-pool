@@ -1,0 +1,170 @@
+2020-03-09 19:32:03,605 INFO 8222 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"unittest","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":true,"type":"application"}
+2020-03-09 19:32:03,610 INFO 8222 [egg-multipart] stream mode enable
+2020-03-09 19:32:06,635 INFO 8222 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-09 19:32:06,638 INFO 8222 [egg-security] use methodnoallow middleware
+2020-03-09 19:32:06,639 INFO 8222 [egg-security] use noopen middleware
+2020-03-09 19:32:06,640 INFO 8222 [egg-security] use nosniff middleware
+2020-03-09 19:32:06,641 INFO 8222 [egg-security] use xssProtection middleware
+2020-03-09 19:32:06,642 INFO 8222 [egg-security] use xframe middleware
+2020-03-09 19:32:06,642 INFO 8222 [egg-security] use dta middleware
+2020-03-09 19:32:06,643 INFO 8222 [egg-security] compose 6 middlewares into one security middleware
+2020-03-09 19:32:06,653 INFO 8222 [egg:core] dump config after load, 6ms
+2020-03-09 19:32:06,779 INFO 8222 [egg-watcher:application] watcher start success
+2020-03-09 19:32:06,815 INFO 8222 [egg:core] dump config after ready, 4ms
+2020-03-10 12:12:26,564 INFO 11013 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 12:12:26,601 INFO 11013 [egg-multipart] stream mode enable
+2020-03-10 12:12:30,443 INFO 11013 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 12:12:30,446 INFO 11013 [egg-security] use methodnoallow middleware
+2020-03-10 12:12:30,447 INFO 11013 [egg-security] use noopen middleware
+2020-03-10 12:12:30,448 INFO 11013 [egg-security] use nosniff middleware
+2020-03-10 12:12:30,448 INFO 11013 [egg-security] use xssProtection middleware
+2020-03-10 12:12:30,449 INFO 11013 [egg-security] use xframe middleware
+2020-03-10 12:12:30,449 INFO 11013 [egg-security] use dta middleware
+2020-03-10 12:12:30,449 INFO 11013 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 12:12:30,461 INFO 11013 [egg:core] dump config after load, 5ms
+2020-03-10 12:12:30,621 INFO 11013 [egg-watcher:application] watcher start success
+2020-03-10 12:12:30,666 INFO 11013 [egg:core] dump config after ready, 7ms
+2020-03-10 13:39:47,140 WARN 11013 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-03-10 15:14:27,309 INFO 11666 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 15:14:27,346 INFO 11666 [egg-multipart] stream mode enable
+2020-03-10 15:14:27,536 INFO 11666 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 15:14:27,539 INFO 11666 [egg-security] use methodnoallow middleware
+2020-03-10 15:14:27,539 INFO 11666 [egg-security] use noopen middleware
+2020-03-10 15:14:27,541 INFO 11666 [egg-security] use nosniff middleware
+2020-03-10 15:14:27,541 INFO 11666 [egg-security] use xssProtection middleware
+2020-03-10 15:14:27,542 INFO 11666 [egg-security] use xframe middleware
+2020-03-10 15:14:27,542 INFO 11666 [egg-security] use dta middleware
+2020-03-10 15:14:27,543 INFO 11666 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 15:14:27,553 INFO 11666 [egg:core] dump config after load, 5ms
+2020-03-10 15:14:27,709 INFO 11666 [egg-watcher:application] watcher start success
+2020-03-10 15:14:27,761 INFO 11666 [egg:core] dump config after ready, 8ms
+2020-03-10 15:14:52,312 INFO 11668 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 15:14:52,347 INFO 11668 [egg-multipart] stream mode enable
+2020-03-10 15:14:55,729 INFO 11668 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 15:14:55,731 INFO 11668 [egg-security] use methodnoallow middleware
+2020-03-10 15:14:55,731 INFO 11668 [egg-security] use noopen middleware
+2020-03-10 15:14:55,732 INFO 11668 [egg-security] use nosniff middleware
+2020-03-10 15:14:55,732 INFO 11668 [egg-security] use xssProtection middleware
+2020-03-10 15:14:55,732 INFO 11668 [egg-security] use xframe middleware
+2020-03-10 15:14:55,733 INFO 11668 [egg-security] use dta middleware
+2020-03-10 15:14:55,733 INFO 11668 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 15:14:55,741 INFO 11668 [egg:core] dump config after load, 4ms
+2020-03-10 15:14:55,862 INFO 11668 [egg-watcher:application] watcher start success
+2020-03-10 15:14:55,909 INFO 11668 [egg:core] dump config after ready, 6ms
+2020-03-10 15:15:11,744 INFO 11674 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 15:15:11,775 INFO 11674 [egg-multipart] stream mode enable
+2020-03-10 15:15:14,870 INFO 11674 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 15:15:14,872 INFO 11674 [egg-security] use methodnoallow middleware
+2020-03-10 15:15:14,873 INFO 11674 [egg-security] use noopen middleware
+2020-03-10 15:15:14,874 INFO 11674 [egg-security] use nosniff middleware
+2020-03-10 15:15:14,874 INFO 11674 [egg-security] use xssProtection middleware
+2020-03-10 15:15:14,874 INFO 11674 [egg-security] use xframe middleware
+2020-03-10 15:15:14,874 INFO 11674 [egg-security] use dta middleware
+2020-03-10 15:15:14,874 INFO 11674 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 15:15:14,884 INFO 11674 [egg:core] dump config after load, 5ms
+2020-03-10 15:15:14,993 INFO 11674 [egg-watcher:application] watcher start success
+2020-03-10 15:15:15,036 INFO 11674 [egg:core] dump config after ready, 6ms
+2020-03-10 15:52:40,621 INFO 11971 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 15:52:40,658 INFO 11971 [egg-multipart] stream mode enable
+2020-03-10 15:52:44,233 INFO 11971 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 15:52:44,237 INFO 11971 [egg-security] use methodnoallow middleware
+2020-03-10 15:52:44,238 INFO 11971 [egg-security] use noopen middleware
+2020-03-10 15:52:44,240 INFO 11971 [egg-security] use nosniff middleware
+2020-03-10 15:52:44,241 INFO 11971 [egg-security] use xssProtection middleware
+2020-03-10 15:52:44,242 INFO 11971 [egg-security] use xframe middleware
+2020-03-10 15:52:44,244 INFO 11971 [egg-security] use dta middleware
+2020-03-10 15:52:44,244 INFO 11971 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 15:52:44,269 INFO 11971 [egg:core] dump config after load, 20ms
+2020-03-10 15:52:44,413 INFO 11971 [egg-watcher:application] watcher start success
+2020-03-10 15:52:44,462 INFO 11971 [egg:core] dump config after ready, 7ms
+2020-03-10 15:53:01,872 INFO 11973 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 15:53:01,906 INFO 11973 [egg-multipart] stream mode enable
+2020-03-10 15:53:05,376 INFO 11973 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 15:53:05,380 INFO 11973 [egg-security] use methodnoallow middleware
+2020-03-10 15:53:05,380 INFO 11973 [egg-security] use noopen middleware
+2020-03-10 15:53:05,381 INFO 11973 [egg-security] use nosniff middleware
+2020-03-10 15:53:05,382 INFO 11973 [egg-security] use xssProtection middleware
+2020-03-10 15:53:05,382 INFO 11973 [egg-security] use xframe middleware
+2020-03-10 15:53:05,383 INFO 11973 [egg-security] use dta middleware
+2020-03-10 15:53:05,383 INFO 11973 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 15:53:05,408 INFO 11973 [egg:core] dump config after load, 19ms
+2020-03-10 15:53:05,552 INFO 11973 [egg-watcher:application] watcher start success
+2020-03-10 15:53:05,591 INFO 11973 [egg:core] dump config after ready, 6ms
+2020-03-10 15:56:44,856 INFO 11991 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 15:56:44,884 INFO 11991 [egg-multipart] stream mode enable
+2020-03-10 15:56:48,270 INFO 11991 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 15:56:48,273 INFO 11991 [egg-security] use methodnoallow middleware
+2020-03-10 15:56:48,274 INFO 11991 [egg-security] use noopen middleware
+2020-03-10 15:56:48,275 INFO 11991 [egg-security] use nosniff middleware
+2020-03-10 15:56:48,275 INFO 11991 [egg-security] use xssProtection middleware
+2020-03-10 15:56:48,276 INFO 11991 [egg-security] use xframe middleware
+2020-03-10 15:56:48,277 INFO 11991 [egg-security] use dta middleware
+2020-03-10 15:56:48,277 INFO 11991 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 15:56:48,287 INFO 11991 [egg:core] dump config after load, 5ms
+2020-03-10 15:56:48,415 INFO 11991 [egg-watcher:application] watcher start success
+2020-03-10 15:56:48,457 INFO 11991 [egg:core] dump config after ready, 5ms
+2020-03-10 16:00:18,650 INFO 12055 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 16:00:18,689 INFO 12055 [egg-multipart] stream mode enable
+2020-03-10 16:00:22,874 INFO 12055 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 16:00:22,877 INFO 12055 [egg-security] use methodnoallow middleware
+2020-03-10 16:00:22,878 INFO 12055 [egg-security] use noopen middleware
+2020-03-10 16:00:22,879 INFO 12055 [egg-security] use nosniff middleware
+2020-03-10 16:00:22,880 INFO 12055 [egg-security] use xssProtection middleware
+2020-03-10 16:00:22,881 INFO 12055 [egg-security] use xframe middleware
+2020-03-10 16:00:22,882 INFO 12055 [egg-security] use dta middleware
+2020-03-10 16:00:22,882 INFO 12055 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 16:00:22,892 INFO 12055 [egg:core] dump config after load, 4ms
+2020-03-10 16:00:23,033 INFO 12055 [egg-watcher:application] watcher start success
+2020-03-10 16:00:23,073 INFO 12055 [egg:core] dump config after ready, 5ms
+2020-03-10 16:04:17,017 INFO 12089 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 16:04:17,048 INFO 12089 [egg-multipart] stream mode enable
+2020-03-10 16:04:20,302 INFO 12089 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 16:04:20,305 INFO 12089 [egg-security] use methodnoallow middleware
+2020-03-10 16:04:20,305 INFO 12089 [egg-security] use noopen middleware
+2020-03-10 16:04:20,306 INFO 12089 [egg-security] use nosniff middleware
+2020-03-10 16:04:20,307 INFO 12089 [egg-security] use xssProtection middleware
+2020-03-10 16:04:20,308 INFO 12089 [egg-security] use xframe middleware
+2020-03-10 16:04:20,308 INFO 12089 [egg-security] use dta middleware
+2020-03-10 16:04:20,308 INFO 12089 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 16:04:20,317 INFO 12089 [egg:core] dump config after load, 5ms
+2020-03-10 16:04:20,451 INFO 12089 [egg-watcher:application] watcher start success
+2020-03-10 16:04:20,488 INFO 12089 [egg:core] dump config after ready, 5ms
+2020-03-10 16:28:20,508 INFO 12277 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 16:28:20,538 INFO 12277 [egg-multipart] stream mode enable
+2020-03-10 16:28:20,707 INFO 12277 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 16:28:20,709 INFO 12277 [egg-security] use methodnoallow middleware
+2020-03-10 16:28:20,710 INFO 12277 [egg-security] use noopen middleware
+2020-03-10 16:28:20,711 INFO 12277 [egg-security] use nosniff middleware
+2020-03-10 16:28:20,712 INFO 12277 [egg-security] use xssProtection middleware
+2020-03-10 16:28:20,712 INFO 12277 [egg-security] use xframe middleware
+2020-03-10 16:28:20,713 INFO 12277 [egg-security] use dta middleware
+2020-03-10 16:28:20,713 INFO 12277 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 16:28:20,723 INFO 12277 [egg:core] dump config after load, 5ms
+2020-03-10 16:28:20,856 INFO 12277 [egg-watcher:application] watcher start success
+2020-03-10 16:28:20,897 INFO 12277 [egg:core] dump config after ready, 6ms
+2020-03-10 16:29:02,594 INFO 12315 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 16:29:02,625 INFO 12315 [egg-multipart] stream mode enable
+2020-03-10 16:29:06,138 INFO 12315 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 16:29:06,141 INFO 12315 [egg-security] use methodnoallow middleware
+2020-03-10 16:29:06,141 INFO 12315 [egg-security] use noopen middleware
+2020-03-10 16:29:06,142 INFO 12315 [egg-security] use nosniff middleware
+2020-03-10 16:29:06,143 INFO 12315 [egg-security] use xssProtection middleware
+2020-03-10 16:29:06,143 INFO 12315 [egg-security] use xframe middleware
+2020-03-10 16:29:06,144 INFO 12315 [egg-security] use dta middleware
+2020-03-10 16:29:06,144 INFO 12315 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 16:29:06,153 INFO 12315 [egg:core] dump config after load, 5ms
+2020-03-10 16:29:06,279 INFO 12315 [egg-watcher:application] watcher start success
+2020-03-10 16:29:06,319 INFO 12315 [egg:core] dump config after ready, 6ms
+2020-03-10 16:29:08,201 INFO 12320 [egg:logger] init all loggers with options: {"dir":"/Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/logs/powerfulNation","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"powerfulNation-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2020-03-10 16:29:08,242 INFO 12320 [egg-multipart] stream mode enable
+2020-03-10 16:29:08,380 INFO 12320 [egg-static] starting static serve /public/ -> /Users/renge/Desktop/cyanToo/cyan-lottery/cyan-lottery/app/public
+2020-03-10 16:29:08,384 INFO 12320 [egg-security] use methodnoallow middleware
+2020-03-10 16:29:08,384 INFO 12320 [egg-security] use noopen middleware
+2020-03-10 16:29:08,385 INFO 12320 [egg-security] use nosniff middleware
+2020-03-10 16:29:08,385 INFO 12320 [egg-security] use xssProtection middleware
+2020-03-10 16:29:08,386 INFO 12320 [egg-security] use xframe middleware
+2020-03-10 16:29:08,386 INFO 12320 [egg-security] use dta middleware
+2020-03-10 16:29:08,386 INFO 12320 [egg-security] compose 6 middlewares into one security middleware
+2020-03-10 16:29:08,398 INFO 12320 [egg:core] dump config after load, 7ms
+2020-03-10 16:29:08,532 INFO 12320 [egg-watcher:application] watcher start success
+2020-03-10 16:29:08,604 INFO 12320 [egg:core] dump config after ready, 12ms
